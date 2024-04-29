@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://xmltv.info/de/epg.xml"
 #EXTINF:-1 tvg-id="DE: 13th Street" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13TH Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-id="DE: 3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
