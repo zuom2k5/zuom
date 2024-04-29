@@ -53,7 +53,7 @@ plugin://plugin.video.vavooto/?name=HISTORY
 plugin://plugin.video.vavooto/?name=HR
 #EXTINF:-1 tvg-id="Jukebox" group-title="Musik" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
 plugin://plugin.video.vavooto/?name=JUKEBOX
-#EXTINF:-1 tvg-id="DE: Kabel Eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
+#EXTINF:-1 tvg-id="DE: Kabel Eins" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/300px-Kabel_eins_Logo_2015.svg.png",Kabel 1
 plugin://plugin.video.vavooto/?name=KABEL+1
 #EXTINF:-1 tvg-id="DE: Kabel Eins CLASSICS" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
@@ -260,7 +260,7 @@ plugin://plugin.video.vavooto/?name=SKY SPORT 7
 plugin://plugin.video.vavooto/?name=SKY SPORT 8
 #EXTINF:-1 tvg-id="DE: Sky Sport 9" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1175.png",Sky Sport 9
 plugin://plugin.video.vavooto/?name=SKY SPORT 9
-#EXTINF:-1 tvg-id="DE: Sky Sport 10" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/433.png",Sky Sport 10
+#EXTINF:-1 tvg-id="DE: Sky Sport 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/ca/Sky_Sport_10_HD_Logo_2020.png?20200926195153",Sky Sport 10
 plugin://plugin.video.vavooto/?name=SKY SPORT 10
 #EXTINF:-1 tvg-id="DE: Sky Sport F1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1422.png",Sky Sport Formel 1
 plugin://plugin.video.vavooto/?name=SKY SPORT F1
