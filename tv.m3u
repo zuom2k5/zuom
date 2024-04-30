@@ -1,19 +1,15 @@
 #EXTM3U x-tvg-url="https://xmltv.info/de/epg.xml"
-#EXTINF:-1 tvg-id="DE: 13th Street" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13TH Street
+#EXTINF:-1 tvg-id="DE: 13th Street" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13th Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
-#EXTINF:-1 tvg-id="DE: 3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
+#EXTINF:-1 tvg-id="DE: 3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3Sat
 plugin://plugin.video.vavooto/?name=3+SAT
 #EXTINF:-1 tvg-id="DE: ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1007.png",ARD alpha
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
-#EXTINF:-1 tvg-id="AT: ATV" group-title="ORF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
-plugin://plugin.video.vavooto/?name=ATV
-#EXTINF:-1 tvg-id="AT: ATV II" group-title="ORF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
-plugin://plugin.video.vavooto/?name=ATV+2
-#EXTINF:-1 tvg-id="DE: AXN" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
+#EXTINF:-1 tvg-id="DE: AXN White" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN White
 plugin://plugin.video.vavooto/?name=AXN
 #EXTINF:-1 tvg-id="DE: ANIXE Serie" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE SERIE
-#EXTINF:-1 tvg-id="DE: ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",Arte
+#EXTINF:-1 tvg-id="DE: ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",ARTE
 plugin://plugin.video.vavooto/?name=ARTE
 #EXTINF:-1 tvg-id="DE: Auto Motor und Sport" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
@@ -23,7 +19,7 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="DE: Comedy Central" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png",Comedy Central
 plugin://plugin.video.vavooto/?name=VIVA
-#EXTINF:-1 tvg-id="DE: Crime &amp;amp; Investigation" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png",CRIME + INVESTIGATION
+#EXTINF:-1 tvg-id="DE: Crime+Investigation" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png",CRIME + INVESTIGATION
 plugin://plugin.video.vavooto/?name=A%26E
 #EXTINF:-1 tvg-id="DE: Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1016.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+%2D+DAS+ERSTE
@@ -41,10 +37,8 @@ plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="DE: Eurosport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="Fix &amp; Foxi" group-title="Kinder" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png",Fix und Foxi
-plugin://plugin.video.vavooto/?name=FIX+UND+FOXI
 #EXTINF:-1 tvg-id="DE: GEO" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",Geo HD
-plugin://plugin.video.vavooto/?name=MOTORVISION
+plugin://plugin.video.vavooto/?name=GEO+TV
 #EXTINF:-1 tvg-id="DE: Heimatkanal" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="DE: History" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History
@@ -54,7 +48,7 @@ plugin://plugin.video.vavooto/?name=HR
 #EXTINF:-1 tvg-id="Jukebox" group-title="Musik" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
 plugin://plugin.video.vavooto/?name=JUKEBOX
 #EXTINF:-1 tvg-id="DE: Kabel Eins" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/300px-Kabel_eins_Logo_2015.svg.png",Kabel 1
-plugin://plugin.video.vavooto/?name=KABEL+1
+plugin://plugin.video.vavooto/?name=KABEL 1
 #EXTINF:-1 tvg-id="DE: Kabel Eins CLASSICS" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 #EXTINF:-1 tvg-id="DE: Kabel Eins Doku" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
@@ -91,7 +85,7 @@ plugin://plugin.video.vavooto/?name=PHOENIX
 plugin://plugin.video.vavooto/?name=PULS+4
 #EXTINF:-1 tvg-id="DE: ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
 plugin://plugin.video.vavooto/?name=PRO+7
-#EXTINF:-1 tvg-id="DE: ProSieben FUN" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",ProSieben Fun
+#EXTINF:-1 tvg-id="DE: ProSieben FUN" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipe...n_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",ProSieben Fun
 plugin://plugin.video.vavooto/?name=PRO+7+FUN
 #EXTINF:-1 tvg-id="DE: ProSieben MAXX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png",Pro 7 MAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
@@ -153,8 +147,8 @@ plugin://plugin.video.vavooto/?name=SKY+NATURE
 plugin://plugin.video.vavooto/?name=SKY+1
 #EXTINF:-1 tvg-id="DE: Sky Replay" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png",Sky Replay
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
-#EXTINF:-1 tvg-id="DE: Sony Channel" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/961.png",Sony Channel
-plugin://plugin.video.vavooto/?name=SONY+CHANNEL
+#EXTINF:-1 tvg-id="DE: Sony Channel" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/961.png",Anixe Serie
+plugin://plugin.video.vavooto/?name=SONY CHANNEL
 #EXTINF:-1 tvg-id="DE: Spiegel Geschichte" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/486.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="DE: Spiegel TV Wissen" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Spiegel TV Wissen
@@ -192,16 +186,16 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 #EXTINF:-1 tvg-id="DE: WDR Dortmund" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
 #EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100",WELT DER WUNDER
-plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
+plugin://plugin.video.vavooto/?name=WELT DER WUNDER
 #EXTINF:-1 tvg-id="DE: ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-id="DE: ZDFinfo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png",ZDF info
-plugin://plugin.video.vavooto/?name=ZDF+INFO
+plugin://plugin.video.vavooto/?name=ZDF INFO
 #EXTINF:-1 tvg-id="DE: ZDFneo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
-plugin://plugin.video.vavooto/?name=ZDF+NEO
-#EXTINF:-1 tvg-id="DE: DAZN 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 1
-plugin://plugin.video.vavooto/?name=DAZN+1+%5BLIVE+DURING+EVENTS+ONLY%5D
-#EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 2
+plugin://plugin.video.vavooto/?name=ZDF NEO
+#EXTINF:-1 tvg-id="DE: DAZN 1" group-title="Sport" tvg-logo="tv-logos/countries/germany/dazn1-de.png at main · tv-logo/tv-logos",DAZN 1
+plugin://plugin.video.vavooto/?name=DAZN 1
+#EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="tv-logos/countries/germany/dazn1-de.png at main · tv-logo/tv-logos",DAZN 2
 plugin://plugin.video.vavooto/?name=DAZN 2
 #EXTINF:-1 tvg-id="DE: DAZN 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 3
 plugin://plugin.video.vavooto/?name=DAZN 3
@@ -219,29 +213,28 @@ plugin://plugin.video.vavooto/?name=DAZN 8
 plugin://plugin.video.vavooto/?name=DAZN 9
 #EXTINF:-1 tvg-id="DE: DAZN 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 10
 plugin://plugin.video.vavooto/?name=DAZN 10
-
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/517.png",Sky Bundesliga
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/524.png",Sky Bundesliga 1
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA1
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/516.png",Sky Bundesliga 2
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA2
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 3" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/526.png",Sky Bundesliga 3
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA3
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 4" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/515.png",Sky Bundesliga 4
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA4
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+4
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 5" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/523.png",Sky Bundesliga 5
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA5
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+5
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 6" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1468.png",Sky Bundesliga 6
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA6
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+6
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 7" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1469.png",Sky Bundesliga 7
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA7
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+7
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 8" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1470.png",Sky Bundesliga 8
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA8
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 9" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1471.png",Sky Bundesliga 9
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA9
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 10" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1474.png",Sky Bundesliga 10
-plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA10
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
 #EXTINF:-1 tvg-id="DE: Sky Sport 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/550.png",Sky Sport 1
 plugin://plugin.video.vavooto/?name=SKY SPORT 1
 #EXTINF:-1 tvg-id="DE: Sky Sport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/568.png",Sky Sport 2
@@ -294,24 +287,3 @@ plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
 #EXTINF:-1 tvg-id="Magenta 10" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 10
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
