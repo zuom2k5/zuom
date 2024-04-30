@@ -25,7 +25,7 @@ plugin://plugin.video.vavooto/?name=ARD+%2D+DAS+ERSTE
 plugin://plugin.video.vavooto/?name=DELUXE MUSIC
 #EXTINF:-1 tvg-id="DE: DMAX" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/DMAX.svg/211px-DMAX.svg.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 tvg-id="DE: Discovery" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery
+#EXTINF:-1 tvg-id="DE: Discovery" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png",Discovery
 plugin://plugin.video.vavooto/?name=DISCOVERY
 #EXTINF:-1 tvg-id="DE: Disney Channel" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/300px-2019_Disney_Channel_logo.svg.png",Disney Channel
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
@@ -35,9 +35,9 @@ plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="DE: Eurosport 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="DE: GEO" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",Geo HD
+#EXTINF:-1 tvg-id="DE: GEO" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Geo_Television_Logo_2014.svg/200px-Geo_Television_Logo_2014.svg.png",Geo HD
 plugin://plugin.video.vavooto/?name=GEO+TV
-#EXTINF:-1 tvg-id="DE: Heimatkanal" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
+#EXTINF:-1 tvg-id="DE: Heimatkanal" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heimatkanal_Logo_2015.svg/512px-Heimatkanal_Logo_2015.svg.png",Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="DE: History" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History
 plugin://plugin.video.vavooto/?name=HISTORY
