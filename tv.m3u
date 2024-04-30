@@ -285,3 +285,7 @@ plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
 #EXTINF:-1 tvg-id="Magenta 10" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 10
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
+#EXTINF:-1 tvg-id="Amazon Prime Video 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/450px-Amazon_Prime_Video_logo_%282022%29.svg.png",Amazon Prime Video 2
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+2
+#EXTINF:-1 tvg-id="Amazon Prime Video 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/450px-Amazon_Prime_Video_logo_%282022%29.svg.png",Amazon Prime Video 1
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+1
