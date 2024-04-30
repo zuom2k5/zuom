@@ -55,7 +55,7 @@ plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 plugin://plugin.video.vavooto/?name=KIKA
 #EXTINF:-1 tvg-id="DE: Kinowelt" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1039.png",Kinowelt
 plugin://plugin.video.vavooto/?name=KINOWELT
-#EXTINF:-1 tvg-id="DE: MDR Sachsen Anhalt" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png",MDR
+#EXTINF:-1 tvg-id="DE: MDR Sachsen Anhalt" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MDR_Sachsen-Anhalt_Logo_2017.svg/300px-MDR_Sachsen-Anhalt_Logo_2017.svg.png",MDR
 plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 #EXTINF:-1 tvg-id="DE: MTV" group-title="Musik" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png",MTV
 plugin://plugin.video.vavooto/?name=MTV
