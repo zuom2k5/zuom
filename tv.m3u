@@ -145,7 +145,7 @@ plugin://plugin.video.vavooto/?name=SKY+NATURE
 plugin://plugin.video.vavooto/?name=SKY+1
 #EXTINF:-1 tvg-id="DE: Sky Replay" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png",Sky Replay
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
-#EXTINF:-1 tvg-id="DE: Sony Channel" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/961.png",Anixe Serie
+#EXTINF:-1 tvg-id="DE: Anixe Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ANIXE_HD_SERIE_Logo_2016.svg/800px-ANIXE_HD_SERIE_Logo_2016.svg.png",Anixe Serie
 plugin://plugin.video.vavooto/?name=SONY CHANNEL
 #EXTINF:-1 tvg-id="DE: Spiegel Geschichte" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/486.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
