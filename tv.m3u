@@ -11,7 +11,7 @@ plugin://plugin.video.vavooto/?name=AXN
 plugin://plugin.video.vavooto/?name=ARTE
 #EXTINF:-1 tvg-id="DE: Auto Motor und Sport" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
-#EXTINF:-1 tvg-id="DE: BR Nord" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png",BR
+#EXTINF:-1 tvg-id="DE: BR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png",BR
 plugin://plugin.video.vavooto/?name=BR
 #EXTINF:-1 tvg-id="DE: Cartoon Network" group-title="Kinder" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
@@ -181,7 +181,7 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 #EXTINF:-1 tvg-id="DE: Warner TV Serie" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/479.png",WarnerTV Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
-#EXTINF:-1 tvg-id="DE: WDR Dortmund" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png",WDR
+#EXTINF:-1 tvg-id="DE: WDR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
 #EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100",WELT DER WUNDER
 plugin://plugin.video.vavooto/?name=WELT DER WUNDER
