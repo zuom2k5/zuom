@@ -17,23 +17,23 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="DE: Comedy Central" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png",Comedy Central
 plugin://plugin.video.vavooto/?name=VIVA
-#EXTINF:-1 tvg-id="DE: Crime+Investigation" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png",CRIME + INVESTIGATION
+#EXTINF:-1 tvg-id="DE: Crime+Investigation" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/48/Crime_%2B_Investigation_HD_Logo_10.2019.png/800px-Crime_%2B_Investigation_HD_Logo_10.2019.png?20210917015955",CRIME + INVESTIGATION
 plugin://plugin.video.vavooto/?name=A%26E
-#EXTINF:-1 tvg-id="DE: Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1016.png",Das Erste
+#EXTINF:-1 tvg-id="DE: Das Erste" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ARD_logo.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+%2D+DAS+ERSTE
-#EXTINF:-1 tvg-id="DE: Deluxe Music" group-title="Musik" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
+#EXTINF:-1 tvg-id="DE: Deluxe Music" group-title="Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DELUXE_MUSIC_Logo_2019.png/520px-DELUXE_MUSIC_Logo_2019.png",DELUXE MUSIC
 plugin://plugin.video.vavooto/?name=DELUXE MUSIC
-#EXTINF:-1 tvg-id="DE: DMAX" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png",DMAX
+#EXTINF:-1 tvg-id="DE: DMAX" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/DMAX.svg/211px-DMAX.svg.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
 #EXTINF:-1 tvg-id="DE: Discovery" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery
 plugin://plugin.video.vavooto/?name=DISCOVERY
-#EXTINF:-1 tvg-id="DE: Disney Channel" group-title="Kinder" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png",Disney Channel
+#EXTINF:-1 tvg-id="DE: Disney Channel" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/300px-2019_Disney_Channel_logo.svg.png",Disney Channel
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
-#EXTINF:-1 tvg-id="E! Entertainment" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="E! Entertainment" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/E%21_Logo.png/480px-E%21_Logo.png",E! ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
-#EXTINF:-1 tvg-id="DE: Eurosport 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png",Eurosport 1
+#EXTINF:-1 tvg-id="DE: Eurosport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
-#EXTINF:-1 tvg-id="DE: Eurosport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
+#EXTINF:-1 tvg-id="DE: Eurosport 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
 #EXTINF:-1 tvg-id="DE: GEO" group-title="Dokumentation" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",Geo HD
 plugin://plugin.video.vavooto/?name=GEO+TV
