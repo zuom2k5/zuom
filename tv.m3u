@@ -83,7 +83,7 @@ plugin://plugin.video.vavooto/?name=RTL+NITRO
 plugin://plugin.video.vavooto/?name=RTL+PASSION
 #EXTINF:-1 tvg-id="DE: RTLup" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/b/b1/RTL_UP_Logo_2021_ocker_pink_orange_schwarz.png/800px-RTL_UP_Logo_2021_ocker_pink_orange_schwarz.png?20210914210801",RTL up
 plugin://plugin.video.vavooto/?name=RTL+UP
-#EXTINF:-1 tvg-id="DE: SAT.1" group-title="Standart" tvg-logo="https://de.wikipedia.org/wiki/Datei:Neues_Sat._1_Logo_transparent.png",Sat 1
+#EXTINF:-1 tvg-id="DE: SAT.1" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sat._1_HD_Logo_transparent.png/1200px-Sat._1_HD_Logo_transparent.png",Sat 1
 plugin://plugin.video.vavooto/?name=SAT+1
 #EXTINF:-1 tvg-id="DE: SAT.1 emotions" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SAT.1_emotions_Logo_2019.png/1200px-SAT.1_emotions_Logo_2019.png",Sat 1 Emotions
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
@@ -138,41 +138,39 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="DE: VOX" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Vox_Logo.svg/1073px-Vox_Logo.svg.png?20090503084621",Vox
 plugin://plugin.video.vavooto/?name=VOX
 #EXTINF:-1 tvg-id="DE: VOXup" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Voxup_Logo_2019.svg/1199px-Voxup_Logo_2019.svg.png?20211014192650",Vox UP plugin://plugin.video.vavooto/?name=VOX+UP
-
-#EXTINF:-1 tvg-id="DE: Warner TV Comedy" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/889.png",WarnerTV Comedy
+#EXTINF:-1 tvg-id="DE: Warner TV Comedy" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Warner_TV_Comedy_Logo.png",WarnerTV Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
-#EXTINF:-1 tvg-id="DE: Warner TV Film" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/914.png",WarnerTV Film
+#EXTINF:-1 tvg-id="DE: Warner TV Film" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/WarnerTV_Film_Logo_2021.svg/800px-WarnerTV_Film_Logo_2021.svg.png",WarnerTV Film
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
-#EXTINF:-1 tvg-id="DE: Warner TV Serie" group-title="SKY/Filme" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/479.png",WarnerTV Serie
+#EXTINF:-1 tvg-id="DE: Warner TV Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/800px-WarnerTV_Serie_Logo_2021.svg.png",WarnerTV Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
-#EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100",WELT DER WUNDER
+#EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/1280px-Logo_Welt_der_Wunder_neu.svg.png",WELT DER WUNDER
 plugin://plugin.video.vavooto/?name=WELT DER WUNDER
-#EXTINF:-1 tvg-id="DE: ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
+#EXTINF:-1 tvg-id="DE: ZDF" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/1200px-ZDF_HD_Logo.svg.png",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
-#EXTINF:-1 tvg-id="DE: ZDFinfo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png",ZDF info
+#EXTINF:-1 tvg-id="DE: ZDFinfo" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/450px-ZDFinfo_2011.svg.png",ZDF info
 plugin://plugin.video.vavooto/?name=ZDF INFO
-#EXTINF:-1 tvg-id="DE: ZDFneo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
+#EXTINF:-1 tvg-id="DE: ZDFneo" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/445px-ZDFneo2017_Logo.svg.png",ZDF neo
 plugin://plugin.video.vavooto/?name=ZDF NEO
-#EXTINF:-1 tvg-id="DE: DAZN 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 1
+#EXTINF:-1 tvg-id="DE: DAZN 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_1.svg.png",DAZN 1
 plugin://plugin.video.vavooto/?name=DAZN 1
-#EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 2
+#EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_2.svg.png",DAZN 2
 plugin://plugin.video.vavooto/?name=DAZN 2
-#EXTINF:-1 tvg-id="DE: DAZN 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 3
+#EXTINF:-1 tvg-id="DE: DAZN 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_3.svg.png",DAZN 3
 plugin://plugin.video.vavooto/?name=DAZN 3
-#EXTINF:-1 tvg-id="DE: DAZN 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 4
+#EXTINF:-1 tvg-id="DE: DAZN 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_4.svg.png",DAZN 4
 plugin://plugin.video.vavooto/?name=DAZN 4
-#EXTINF:-1 tvg-id="DE: DAZN 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 5
+#EXTINF:-1 tvg-id="DE: DAZN 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_5.svg.png",DAZN 5
 plugin://plugin.video.vavooto/?name=DAZN 5
-#EXTINF:-1 tvg-id="DE: DAZN 6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 6
+#EXTINF:-1 tvg-id="DE: DAZN 6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_6.svg.png",DAZN 6
 plugin://plugin.video.vavooto/?name=DAZN 6
-#EXTINF:-1 tvg-id="DE: DAZN 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 7
+#EXTINF:-1 tvg-id="DE: DAZN 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_7.svg.png",DAZN 7
 plugin://plugin.video.vavooto/?name=DAZN 7
-#EXTINF:-1 tvg-id="DE: DAZN 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 8
+#EXTINF:-1 tvg-id="DE: DAZN 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_8.svg.png",DAZN 8
 plugin://plugin.video.vavooto/?name=DAZN 8
-#EXTINF:-1 tvg-id="DE: DAZN 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 9
+#EXTINF:-1 tvg-id="DE: DAZN 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_9.svg.png",DAZN 9
 plugin://plugin.video.vavooto/?name=DAZN 9
-#EXTINF:-1 tvg-id="DE: DAZN 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png",DAZN 10
-plugin://plugin.video.vavooto/?name=DAZN 10
+
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/517.png",Sky Bundesliga
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/524.png",Sky Bundesliga 1
