@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2024-05-01 02:45:00.931852 -->
+<!-- created on 2024-05-01 21:01:35.339741 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.6+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  MAGENTA TV (DE)  CHANNEL LIST -->
@@ -16685,7 +16685,26 @@
         <country>DE,DD</country>
     </programme>
 
-    <programme start="20240501000000 +0000" stop="20240501002500 +0000" channel="NickToons.de">
+    <programme start="20240430234500 +0000" stop="20240501000500 +0000" channel="NickToons.de">
+        <title lang="de">Best &amp; Bester</title>
+        <sub-title lang="de">Die Geheimzutat / Das sandige Erdloch</sub-title>
+        <desc lang="de">(GB,FI,CA) • S1 E6 • FSK 6
+        Best und Bester beschließen, einkaufen zu gehen, was jedoch zu unerwarteten Folgen führt.</desc>
+        <credits>
+            <director>Kitty Taylor</director>
+        </credits>
+        <category lang="de">Cartoons / Puppets</category>
+        <category lang="de">Children's / Youth programs</category>
+        <category lang="de">Adventure / Western / War</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/2/p22498709_e_h10_aa_2022-09-01T11_26_28.jpg"/>
+        <country>GB,FI,CA</country>
+        <episode-num system="xmltv_ns">0 . 5 . </episode-num>
+        <rating>
+            <value>6</value>
+        </rating>
+    </programme>
+
+    <programme start="20240501000500 +0000" stop="20240501003000 +0000" channel="NickToons.de">
         <title lang="de">Die Brot-Piloten</title>
         <sub-title lang="de">Die Nacht der lebenden Brote</sub-title>
         <desc lang="de">(US) 2014 • S1 E14 • FSK 6
@@ -16706,7 +16725,7 @@
         </rating>
     </programme>
 
-    <programme start="20240501002500 +0000" stop="20240501004500 +0000" channel="NickToons.de">
+    <programme start="20240501003000 +0000" stop="20240501005000 +0000" channel="NickToons.de">
         <title lang="de">Cosmo &amp; Wanda: Wenn Elfen helfen</title>
         <sub-title lang="de">Finster! Finster! Finster!; Dad über Bord</sub-title>
         <desc lang="de">(US,CA) 2011 • S8 E5 • FSK 6
@@ -16727,7 +16746,7 @@
         </rating>
     </programme>
 
-    <programme start="20240501004500 +0000" stop="20240501010500 +0000" channel="NickToons.de">
+    <programme start="20240501005000 +0000" stop="20240501011500 +0000" channel="NickToons.de">
         <title lang="de">Winx Club</title>
         <sub-title lang="de">Das Musik-Café</sub-title>
         <desc lang="de">(IT) 2014 • S6 E22
@@ -16747,7 +16766,7 @@
         <episode-num system="xmltv_ns">5 . 21 . </episode-num>
     </programme>
 
-    <programme start="20240501010500 +0000" stop="20240501013000 +0000" channel="NickToons.de">
+    <programme start="20240501011500 +0000" stop="20240501013500 +0000" channel="NickToons.de">
         <title lang="de">Top Wing - Das coolste Team der Lüfte</title>
         <sub-title lang="de">Die großartige Jet-Wing-Rettung; Schildkrötenzug in Not</sub-title>
         <desc lang="de">(CA) 2018 • S1 E7
@@ -16765,7 +16784,7 @@
         <episode-num system="xmltv_ns">0 . 6 . </episode-num>
     </programme>
 
-    <programme start="20240501013000 +0000" stop="20240501015000 +0000" channel="NickToons.de">
+    <programme start="20240501013500 +0000" stop="20240501015500 +0000" channel="NickToons.de">
         <title lang="de">Top Wing - Das coolste Team der Lüfte</title>
         <sub-title lang="de">Pennys Tiefsee-Tauchgang; Rods großer Sprung</sub-title>
         <desc lang="de">(CA) 2018 • S1 E9
@@ -16783,7 +16802,7 @@
         <episode-num system="xmltv_ns">0 . 8 . </episode-num>
     </programme>
 
-    <programme start="20240501015000 +0000" stop="20240501021500 +0000" channel="NickToons.de">
+    <programme start="20240501015500 +0000" stop="20240501021500 +0000" channel="NickToons.de">
         <title lang="de">SpongeBob Schwammkopf</title>
         <sub-title lang="de">Die Krossen Knochenbrecher; Die Karte</sub-title>
         <desc lang="de">(US) 2008 • S6 E12 • FSK 6
@@ -16801,7 +16820,7 @@
         </rating>
     </programme>
 
-    <programme start="20240501021500 +0000" stop="20240501023500 +0000" channel="NickToons.de">
+    <programme start="20240501021500 +0000" stop="20240501024000 +0000" channel="NickToons.de">
         <title lang="de">SpongeBob Schwammkopf</title>
         <sub-title lang="de">Liebe Wikinger; Schulschwänzer (Toilettenpause)</sub-title>
         <desc lang="de">(US) 2008 • S6 E11 • FSK 6
@@ -16819,7 +16838,7 @@
         </rating>
     </programme>
 
-    <programme start="20240501023500 +0000" stop="20240501030000 +0000" channel="NickToons.de">
+    <programme start="20240501024000 +0000" stop="20240501030000 +0000" channel="NickToons.de">
         <title lang="de">SpongeBob Schwammkopf</title>
         <sub-title lang="de">Piratenopa; Die Kopffüßler-Loge</sub-title>
         <desc lang="de">(US) 2009 • S6 E15 • FSK 6
@@ -19880,7 +19899,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502041137 +0000" stop="20240502060812 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502041137 +0000" stop="20240502060840 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Der vermessene Mensch</title>
         <desc lang="de">(DE) 2023 • FSK 16
         Nachdem im Jahr 1896 einige Herero und Nama aus Namibia nach Berlin gebracht werden, wird der Ethnologie-Doktorand Alexander Hoffmann damit beauftragt, sie nach den Grundsätzen der Rassentheorie zu vermessen. Während seiner Arbeit lernt er die Dolmetscherin der Gruppe, Kezia Kambazembi, kennen, und beginnt die Grundsätze des evolutionären Rassismus zu hinterfragen. Unter dem Vorwand, wertvolle Artefakte zu sammeln, reist er schließlich nach Namibia.</desc>
@@ -19911,7 +19930,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502060812 +0000" stop="20240502080207 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502060840 +0000" stop="20240502080229 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Zeiten des Umbruchs</title>
         <desc lang="de">(US,BR) 2022 • FSK 16
         Paul lebt mit seiner wohlhabenden jüdischen Familie in den 1980-er Jahren in Queens und fühlt sich einzig von seinem Großvater ein wenig verstanden. Zu Beginn des neuen Schuljahres freundet er sich jedoch mit seinem afroamerikanischen Mitschüler Jonathan an, der aus ärmlichen Verhältnissen stammt und seine Großmutter pflegt. Ihre ungewöhnliche Verbindung ist immer wieder vorurteilsbeladener Kritik ausgesetzt, von der sich die beiden jedoch nicht beeindrucken lassen.</desc>
@@ -19949,7 +19968,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502080207 +0000" stop="20240502094539 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502080229 +0000" stop="20240502094601 +0000" channel="Sky Cinema Premiere">
         <title lang="de">On a Wing and a Prayer</title>
         <desc lang="de">(US) 2023 • FSK 16
         Der 56-jährige Apotheker Doug White will nach der Beerdigung seines Bruders in Florida mit seiner Frau und seinen beiden Töchtern zurück nach Louisiana fliegen. Doch als der Pilot des Privatflugzeugs plötzlich an einem Herzinfarkt stirbt, muss Doug selbst das Steuer übernehmen. Gemeinsam mit den Fluglotsen von Fort Myers versucht er, das Flugzeug zu landen und damit das Leben seiner Familie zu retten.</desc>
@@ -19979,7 +19998,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502094539 +0000" stop="20240502113219 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502094601 +0000" stop="20240502113234 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Polite Society</title>
         <desc lang="de">(GB) 2023 • FSK 16
         Die Studentin Ria Khan nimmt in ihrer Freizeit Kampfsportunterricht und ist fest entschlossen, eine weltberühmte Stuntfrau zu werden. Als ihre Schwester Lena ihr Studium abbricht und ankündigt, dass sie einen wohlhabenden Sohn heiraten und in Singapur leben wird, ist Ria untröstlich. Sie stellt diese Entscheidung in Frage und ahnt, dass etwas nicht stimmt. Mit Freunden plant sie, Lena auf ihrer eigenen Hochzeit zu entführen.</desc>
@@ -20017,7 +20036,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502113219 +0000" stop="20240502130945 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502113234 +0000" stop="20240502130956 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Joy Ride - The Trip</title>
         <desc lang="de">(GB,US) 2023 • FSK 16
         Audrey ist eine ehrgeizige junge Anwältin, die auf eine wichtige Geschäftsreise nach China geschickt wird. Da sie jedoch von Amerikanern adoptiert wurde, spricht sie kein Wort Chinesisch. Weshalb sie sich ihre beste Freundin Lolo als Unterstützung mitnimmt. Außerdem schließen sich noch Lolos Cousine Deadeye und Aubreys alte College-Freundin Kat der Reisegruppe an. Und schon bald verwandelt sich die geplante Geschäftsreise zu einem verrückten Roadtrip auf den Spuren ihrer Vorfahren.</desc>
@@ -20053,7 +20072,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502130945 +0000" stop="20240502145150 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502130956 +0000" stop="20240502145153 +0000" channel="Sky Cinema Premiere">
         <title lang="de">The Black Demon</title>
         <desc lang="de">(US,DO,MX) 2023 • FSK 16
         Der Vizepräsident eines großen Erdölkonzerns kehrt mit seiner Familie zu einem einst malerischen Ort an der Pazifikküste Mexikos zurück, um dort Urlaub zu machen. Doch sie finden die Fischerdörfer verlassen und verfallen vor. Auf der nahegelegenen Bohrinsel treffen sie auf einen einsamen Mann, der Geschichten von einem Fluch und einem Meeresmonster erzählt. Als sie von einem gigantischen Megalodon-Hai angegriffen werden, muss sich die Familie der Realität dieser Geschichten stellen.</desc>
@@ -20094,7 +20113,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502145150 +0000" stop="20240502162924 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502145153 +0000" stop="20240502162939 +0000" channel="Sky Cinema Premiere">
         <title lang="de">After Forever</title>
         <desc lang="de">(US) 2022 • FSK 16
         Als eine schockierende Wahrheit über die Familien von Tessa und Hardin ans Licht kommt, entdecken sie, dass sie nicht so verschieden voneinander sind. Sie ist nicht mehr das einfache Mädchen, ebenso wenig ist er nicht mehr der launische Junge.</desc>
@@ -20128,7 +20147,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502162924 +0000" stop="20240502180833 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502162939 +0000" stop="20240502180845 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Perfect Addiction</title>
         <desc lang="de">(US,DE) 2023 • FSK 16
         Sienna Lane ist eine erfolgreiche Boxtrainerin und ihr Freund Jax der amtierende Box-Champion. Als Sienna herausfindet, dass Jax sie mit ihrer eigenen Schwester betrügt, beschließt sie, sich auf kreative Art an ihm zu rächen: Sie beginnt, den einzigen Mann zu trainieren, der Jax als Champion entthronen könnte und der außerdem sein absoluter Erzfeind ist. Ihr neuer Schützling Kayden hat vor allem Erfahrung mit illegalen Kämpfen und muss auf seinen ersten offiziellen Kampf erst vorbereitet werden.</desc>
@@ -20160,7 +20179,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502180833 +0000" stop="20240502195116 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502180845 +0000" stop="20240502195130 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Emmas Herz - Die Lieben meines Lebens</title>
         <desc lang="de">(US) 2023 • FSK 6
         Emma und Jesse führen eine perfekte Ehe miteinander, bis Jesse an ihrem ersten Hochzeitstag nach einem tragischen Hubschrauberabsturz als vermisst gilt. Vier Jahre später findet Emma ihr Liebesglück mit ihrem alten Freund Sam wieder und steht kurz davor, ein zweites Mal zu heiraten. In diesem Moment taucht der totgeglaubte Jesse plötzlich wieder auf und Emma ist bald hin- und hergerissen zwischen der Liebe zu ihrem Verlobten Sam und der zu ihrem Ehemann Jesse.</desc>
@@ -20198,7 +20217,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502195116 +0000" stop="20240502213539 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502195130 +0000" stop="20240502213549 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Küss mich, Mistkerl!</title>
         <desc lang="de">(US) 2021 • FSK 12
         Nach der Fusion zweier Verlage müssen sich Lucy und Joshua, die als Assistenten der Geschäftsführer arbeiten, ein Büro teilen. Das Pikante daran: Beide können sich nicht ausstehen, weil sie in ihrer Art und Berufsauffassung grundverschieden sind. So teilen sie ständig Spitzen gegeneinander aus. Das Ganze spitzt sich zu offener Rivalität zu, als sich beide auf den gleichen Managerposten bewerben. Ein Kuss zwischen beiden zeigt ihnen jedoch, wie dünn die Linie zwischen Liebe und Hass ist.</desc>
@@ -20232,7 +20251,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502213539 +0000" stop="20240502232219 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502213549 +0000" stop="20240502232230 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Polite Society</title>
         <desc lang="de">(GB) 2023 • FSK 16
         Die Studentin Ria Khan nimmt in ihrer Freizeit Kampfsportunterricht und ist fest entschlossen, eine weltberühmte Stuntfrau zu werden. Als ihre Schwester Lena ihr Studium abbricht und ankündigt, dass sie einen wohlhabenden Sohn heiraten und in Singapur leben wird, ist Ria untröstlich. Sie stellt diese Entscheidung in Frage und ahnt, dass etwas nicht stimmt. Mit Freunden plant sie, Lena auf ihrer eigenen Hochzeit zu entführen.</desc>
@@ -20270,7 +20289,7 @@
         </rating>
     </programme>
 
-    <programme start="20240502232219 +0000" stop="20240503005352 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240502232230 +0000" stop="20240503005403 +0000" channel="Sky Cinema Premiere">
         <title lang="de">The Terror Room</title>
         <desc lang="de">(US) 2022 • FSK 16
         Die alleinerziehende Mutter Jessica ist gerade der Drogensucht entkommen und möchte sich darauf konzentrieren, ihre beiden kleinen Kinder im Haus ihrer verstorbenen Großmutter großzuziehen. Plötzlich taucht ihr gewalttätiger und drogenabhängiger Ex-Freund Rob auf, der Jessica in ein Zimmer sperrt, während die Kinder in der Wohnung auf sich allein gestellt sind. Verzweifelt sucht Jessica nach einem Ausweg und versucht gleichzeitig, ihre Kinder vor Robs unberechenbarem Verhalten zu schützen.</desc>
