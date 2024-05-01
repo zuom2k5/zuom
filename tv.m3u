@@ -144,7 +144,7 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 #EXTINF:-1 tvg-id="DE: Warner TV Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/800px-WarnerTV_Serie_Logo_2021.svg.png",WarnerTV Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
-#EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/1280px-Logo_Welt_der_Wunder_neu.svg.png",WELT DER WUNDER
+#EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_Welt_der_Wunder.svg/1200px-Logo_Welt_der_Wunder.svg.png",WELT DER WUNDER
 plugin://plugin.video.vavooto/?name=WELT DER WUNDER
 #EXTINF:-1 tvg-id="DE: ZDF" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/1200px-ZDF_HD_Logo.svg.png",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
@@ -152,47 +152,35 @@ plugin://plugin.video.vavooto/?name=ZDF
 plugin://plugin.video.vavooto/?name=ZDF INFO
 #EXTINF:-1 tvg-id="DE: ZDFneo" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/445px-ZDFneo2017_Logo.svg.png",ZDF neo
 plugin://plugin.video.vavooto/?name=ZDF NEO
-#EXTINF:-1 tvg-id="DE: DAZN 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_1.svg.png",DAZN 1
+#EXTINF:-1 tvg-id="DE: DAZN 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/662px-DAZN_1.svg.png",DAZN 1
 plugin://plugin.video.vavooto/?name=DAZN 1
 #EXTINF:-1 tvg-id="DE: DAZN 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_2.svg.png",DAZN 2
 plugin://plugin.video.vavooto/?name=DAZN 2
-#EXTINF:-1 tvg-id="DE: DAZN 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_3.svg.png",DAZN 3
+#EXTINF:-1 tvg-id="DE: DAZN 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/750px-DAZN_3.svg.png",DAZN 3
 plugin://plugin.video.vavooto/?name=DAZN 3
-#EXTINF:-1 tvg-id="DE: DAZN 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_4.svg.png",DAZN 4
-plugin://plugin.video.vavooto/?name=DAZN 4
-#EXTINF:-1 tvg-id="DE: DAZN 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_5.svg.png",DAZN 5
-plugin://plugin.video.vavooto/?name=DAZN 5
-#EXTINF:-1 tvg-id="DE: DAZN 6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_6.svg.png",DAZN 6
-plugin://plugin.video.vavooto/?name=DAZN 6
-#EXTINF:-1 tvg-id="DE: DAZN 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_7.svg.png",DAZN 7
-plugin://plugin.video.vavooto/?name=DAZN 7
-#EXTINF:-1 tvg-id="DE: DAZN 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_8.svg.png",DAZN 8
-plugin://plugin.video.vavooto/?name=DAZN 8
-#EXTINF:-1 tvg-id="DE: DAZN 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_9.svg.png",DAZN 9
-plugin://plugin.video.vavooto/?name=DAZN 9
-
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/517.png",Sky Bundesliga
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/524.png",Sky Bundesliga 1
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/768px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png",Sky Bundesliga 1
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA1
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/516.png",Sky Bundesliga 2
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png?20210404161259",Sky Bundesliga 2
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 3" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/526.png",Sky Bundesliga 3
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/de/Sky_Sport_Bundesliga_3_Logo_2020.png?20210404161325",Sky Bundesliga 3
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 4" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/515.png",Sky Bundesliga 4
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png?20210404161404",Sky Bundesliga 4
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+4
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 5" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/523.png",Sky Bundesliga 5
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/cd/Sky_Sport_Bundesliga_5_Logo_2020.png?20210404161435",Sky Bundesliga 5
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+5
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 6" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1468.png",Sky Bundesliga 6
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ad/Sky_Sport_Bundesliga_6_Logo_2020.png?20210404162001",Sky Bundesliga 6
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+6
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 7" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1469.png",Sky Bundesliga 7
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/eb/Sky_Sport_Bundesliga_7_Logo_2020.png?20210404162024",Sky Bundesliga 7
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+7
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 8" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1470.png",Sky Bundesliga 8
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/4f/Sky_Sport_Bundesliga_8_Logo_2020.png?20210404162049",Sky Bundesliga 8
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 9" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1471.png",Sky Bundesliga 9
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/7/70/Sky_Sport_Bundesliga_9_Logo_2020.png?20210404162116",Sky Bundesliga 9
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga 10" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1474.png",Sky Bundesliga 10
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/22/Sky_Sport_Bundesliga_10_Logo_2020.png?20210404162140",Sky Bundesliga 10
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
+
 #EXTINF:-1 tvg-id="DE: Sky Sport 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/550.png",Sky Sport 1
 plugin://plugin.video.vavooto/?name=SKY SPORT 1
 #EXTINF:-1 tvg-id="DE: Sky Sport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/568.png",Sky Sport 2
