@@ -241,5 +241,5 @@ plugin://plugin.video.vavooto/?name=NICKELODEON
 #EXTINF:-1 tvg-id="DE: NICKTOONS" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png",Nicktoons
 plugin://plugin.video.vavooto/?name=NICKTOONS
 
-#EXTINF:-1 tvg-id="DE: NICK+JUNIOR" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick JR
+#EXTINF:-1 tvg-id="DE: NICK+JR" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick JR
 plugin://plugin.video.vavooto/?name=NICK+JUNIOR
