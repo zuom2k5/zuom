@@ -213,32 +213,3 @@ plugin://plugin.video.vavooto/?name=SKY SPORT MIX
 plugin://plugin.video.vavooto/?name=SKY SPORT PREMIER LEAGUE
 #EXTINF:-1 tvg-id="DE: Sky Sport News" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1439.png",Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY SPORT NEWS
-#EXTINF:-1 tvg-id="Magenta 1" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 1
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
-#EXTINF:-1 tvg-id="Magenta 2" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 2
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
-#EXTINF:-1 tvg-id="Magenta 3" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 3
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
-#EXTINF:-1 tvg-id="Magenta 4" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 4
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
-#EXTINF:-1 tvg-id="Magenta 5" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 5
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
-#EXTINF:-1 tvg-id="Magenta 6" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 6
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
-#EXTINF:-1 tvg-id="Magenta 7" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 7
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
-#EXTINF:-1 tvg-id="Magenta 8" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 8
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
-#EXTINF:-1 tvg-id="Magenta 9" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 9
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
-#EXTINF:-1 tvg-id="Magenta 10" group-title="Sport" tvg-logo="https://m.media-amazon.com/images/I/61pAdLCxz7L.png",Magenta 10
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
-
-#EXTINF:-1 tvg-id="DE: NICKTOONS" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png",Nicktoons
-plugin://plugin.video.vavooto/?name=NICKTOONS
-
-
-#EXTINF:-1 tvg-id="DE: SKY+SELECT+1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 1
-plugin://plugin.video.vavooto/?name=SKY+SELECT+1
-#EXTINF:-1 tvg-id="DE: Sky Select 2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 2
-plugin://plugin.video.vavooto/?name=SKY+SELECT+2
