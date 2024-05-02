@@ -223,3 +223,76 @@ plugin://plugin.video.vavooto/?name=WDR
 plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
 #EXTINF:-1 tvg-id="DE: Sky Cinema Premieren" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/512px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png",Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
+
+#EXTINF:-1 tvg-id="Magenta 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 1
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
+#EXTINF:-1 tvg-id="Magenta 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 2
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
+#EXTINF:-1 tvg-id="Magenta 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 3
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
+#EXTINF:-1 tvg-id="Magenta 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 4
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
+#EXTINF:-1 tvg-id="Magenta 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 5
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
+#EXTINF:-1 tvg-id="Magenta 6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 6
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
+#EXTINF:-1 tvg-id="Magenta 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 7
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
+#EXTINF:-1 tvg-id="Magenta 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 8
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
+#EXTINF:-1 tvg-id="Magenta 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 9
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
+#EXTINF:-1 tvg-id="Magenta 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 10
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
+
+#EXTINF:-1 tvg-id="DE: Nicktoons" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png",Nicktoons
+plugin://plugin.video.vavooto/?name=NICKTOONS
+
+
+#EXTINF:-1 tvg-id="DE: SKY SELECT 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 1
+plugin://plugin.video.vavooto/?name=SKY+SELECT+1
+#EXTINF:-1 tvg-id="DE: Sky Select 2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 2
+plugin://plugin.video.vavooto/?name=SKY+SELECT+2
+#EXTINF:-1 tvg-id="DE: Sky Select 3" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 3
+plugin://plugin.video.vavooto/?name=SKY+SELECT+3
+#EXTINF:-1 tvg-id="DE: Sky Select 4" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 4
+plugin://plugin.video.vavooto/?name=SKY+SELECT+4
+#EXTINF:-1 tvg-id="DE: Sky Select 5" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 5
+plugin://plugin.video.vavooto/?name=SKY+SELECT+5
+#EXTINF:-1 tvg-id="DE: Sky Select 6" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 6
+plugin://plugin.video.vavooto/?name=SKY+SELECT+6
+#EXTINF:-1 tvg-id="DE: Sky Select 7" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 7
+plugin://plugin.video.vavooto/?name=SKY+SELECT+7
+#EXTINF:-1 tvg-id="DE: Sky Select 8" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 8
+plugin://plugin.video.vavooto/?name=SKY+SELECT+8
+#EXTINF:-1 tvg-id="DE: Sky Select 9" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 9
+plugin://plugin.video.vavooto/?name=SKY+SELECT+9
+#EXTINF:-1 tvg-id="DE: Sky Select 10" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 10
+plugin://plugin.video.vavooto/?name=SKY+SELECT+10
+
+#EXTINF:-1 tvg-id="DE: Sky Popcorn Select 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select Popcorn 1
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+1
+#EXTINF:-1 tvg-id="DE: Sky Popcorn Select 3" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select Popcorn 3
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+3
+#EXTINF:-1 tvg-id="DE: Sky Popcorn Select 4" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select Popcorn 4
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+4
+
+#EXTINF:-1 tvg-id="DE: Rakuten Comedy Movies" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Comedy Movies
+plugin://plugin.video.vavooto/?name=RAKUTEN+COMEDY+MOVIES
+#EXTINF:-1 tvg-id="DE: Rakuten Action Movies" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Action Movies
+plugin://plugin.video.vavooto/?name=RAKUTEN+ACTION+MOVIES
+#EXTINF:-1 tvg-id="DE: Sky Cinema 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Cinema%2B1_DE_Logo_2016.png/1200px-Sky_Cinema%2B1_DE_Logo_2016.png",Sky Cinema 1
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+1
+#EXTINF:-1 tvg-id="DE: Sky Cinema Family" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 tvg-id="DE: Sky Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/768px-Sky_Serie.svg.png",Sky Serie
+plugin://plugin.video.vavooto/?name=SKY+SERIEN+%26+SHOWS
+
+#EXTINF:-1 tvg-id="RTL+" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+
+plugin://plugin.video.vavooto/?name=RTL%2B
+#EXTINF:-1 tvg-id="RTL+ Sport Event 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 2
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+2
+#EXTINF:-1 tvg-id="RTL+ Sport Event 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 3
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+3
+#EXTINF:-1 tvg-id="RTL+ Sport Event 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 4
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+4
