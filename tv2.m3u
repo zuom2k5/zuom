@@ -63,5 +63,9 @@ plugin://plugin.video.vavooto/?name=S.+SPORT+TOP+EVENT
 #EXTINF:-1 tvg-id="DE: SKY CINEMA 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Cinema%2B1_DE_Logo_2016.png/1200px-Sky_Cinema%2B1_DE_Logo_2016.png",Sky Cinema 1
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+1
 
+#EXTINF:-1 tvg-id="DE: SKY CINEMA FAMILY" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+
+
 
 
