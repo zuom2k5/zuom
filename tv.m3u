@@ -213,3 +213,13 @@ plugin://plugin.video.vavooto/?name=SKY SPORT MIX
 plugin://plugin.video.vavooto/?name=SKY SPORT PREMIER LEAGUE
 #EXTINF:-1 tvg-id="DE: Sky Sport News" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_News_DE_Logo_2020.svg/768px-Sky_Sport_News_DE_Logo_2020.svg.png",Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY SPORT NEWS
+#EXTINF:-1 tvg-id="DE: BR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_Bayerischer_Rundfunk.svg/255px-Logo_Bayerischer_Rundfunk.svg.png",BR
+plugin://plugin.video.vavooto/?name=BR
+#EXTINF:-1 tvg-id="DE: MDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MDR_Sachsen-Anhalt_Logo_2017.svg/300px-MDR_Sachsen-Anhalt_Logo_2017.svg.png",MDR SA
+plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
+#EXTINF:-1 tvg-id="DE: WDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
+plugin://plugin.video.vavooto/?name=WDR
+#EXTINF:-1 tvg-id="E! Entertainment" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/E%21_Logo.png/480px-E%21_Logo.png",E! ENTERTAINMENT
+plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
+#EXTINF:-1 tvg-id="DE: Sky Cinema Premieren" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/512px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png",Sky Cinema Premieren
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
