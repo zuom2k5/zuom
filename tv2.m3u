@@ -28,3 +28,22 @@ plugin://plugin.video.vavooto/?name=NICKTOONS
 plugin://plugin.video.vavooto/?name=SKY+SELECT+1
 #EXTINF:-1 tvg-id="DE: Sky Select 2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 2
 plugin://plugin.video.vavooto/?name=SKY+SELECT+2
+#EXTINF:-1 tvg-id="DE: Sky Select 3" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 3
+plugin://plugin.video.vavooto/?name=SKY+SELECT+3
+#EXTINF:-1 tvg-id="DE: Sky Select 4" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 4
+plugin://plugin.video.vavooto/?name=SKY+SELECT+4
+#EXTINF:-1 tvg-id="DE: Sky Select 5" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 5
+plugin://plugin.video.vavooto/?name=SKY+SELECT+5
+#EXTINF:-1 tvg-id="DE: Sky Select 6" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 6
+plugin://plugin.video.vavooto/?name=SKY+SELECT+6
+#EXTINF:-1 tvg-id="DE: Sky Select 7" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 7
+plugin://plugin.video.vavooto/?name=SKY+SELECT+7
+#EXTINF:-1 tvg-id="DE: Sky Select 8" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 8
+plugin://plugin.video.vavooto/?name=SKY+SELECT+8
+#EXTINF:-1 tvg-id="DE: Sky Select 9" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 9
+plugin://plugin.video.vavooto/?name=SKY+SELECT+9
+
+
+
+
+
