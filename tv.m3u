@@ -215,7 +215,7 @@ plugin://plugin.video.vavooto/?name=SKY SPORT PREMIER LEAGUE
 plugin://plugin.video.vavooto/?name=SKY SPORT NEWS
 #EXTINF:-1 tvg-id="DE: BR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_Bayerischer_Rundfunk.svg/255px-Logo_Bayerischer_Rundfunk.svg.png",BR
 plugin://plugin.video.vavooto/?name=BR
-#EXTINF:-1 tvg-id="DE: Mdr" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mdr_Logo_2017.png/800px-Mdr_Logo_2017.png",MDR
+#EXTINF:-1 tvg-id="DE: MDR Sachsen" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mdr_Logo_2017.png/800px-Mdr_Logo_2017.png",MDR
 plugin://plugin.video.vavooto/?name=MDR
 #EXTINF:-1 tvg-id="DE: WDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
