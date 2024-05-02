@@ -52,6 +52,16 @@ plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+3
 #EXTINF:-1 tvg-id="DE: SKY POPCORN SELECT 4" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select Popcorn 4
 plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+4
 
+#EXTINF:-1 tvg-id="DE: RAKUTEN+COMEDY+MOVIES" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Comedy Movies
+plugin://plugin.video.vavooto/?name=RAKUTEN+COMEDY+MOVIES
+#EXTINF:-1 tvg-id="DE: RAKUTEN+ACTION+MOVIES" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Action Movies
+plugin://plugin.video.vavooto/?name=RAKUTEN+ACTION+MOVIES
+
+#EXTINF:-1 tvg-id="S.+SPORT+TOP+EVENT" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/768px-Sky_Sport_Top_Event_Logo_2022.svg.png",Sky Sport TOP EVENT
+plugin://plugin.video.vavooto/?name=S.+SPORT+TOP+EVENT
+
+#EXTINF:-1 tvg-id="DE: SKY CINEMA 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Cinema%2B1_DE_Logo_2016.png/1200px-Sky_Cinema%2B1_DE_Logo_2016.png",Sky Cinema 1
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+1
 
 
 
