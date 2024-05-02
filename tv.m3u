@@ -236,5 +236,3 @@ plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
 
 #EXTINF:-1 tvg-id="DE: NICKTOONS" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png",Nicktoons
 plugin://plugin.video.vavooto/?name=NICKTOONS
-#EXTINF:-1 tvg-id="DE: MDR+Sachsen+Anhalt" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MDR_Sachsen-Anhalt_Logo_2017.svg/300px-MDR_Sachsen-Anhalt_Logo_2017.svg.png",MDR
-plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT

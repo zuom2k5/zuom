@@ -21,7 +21,10 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="DE: WDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
 
-#EXTINF:-1 tvg-id="DE: NICK+JR" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick JR
+#EXTINF:-1 tvg-id="DE: NICK+JUNIOR" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick JR
 plugin://plugin.video.vavooto/?name=NICK+JUNIOR
 #EXTINF:-1 tvg-id="DE: NICKELODEON" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
+#EXTINF:-1 tvg-id="DE: MDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MDR_Sachsen-Anhalt_Logo_2017.svg/300px-MDR_Sachsen-Anhalt_Logo_2017.svg.png",MDR SA
+plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
+
