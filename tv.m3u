@@ -158,7 +158,7 @@ plugin://plugin.video.vavooto/?name=DAZN 1
 plugin://plugin.video.vavooto/?name=DAZN 2
 #EXTINF:-1 tvg-id="DE: DAZN 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/750px-DAZN_3.svg.png",DAZN 3
 plugin://plugin.video.vavooto/?name=DAZN 3
-#EXTINF:-1 tvg-id="DE: Sky Bundesliga" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/517.png",Sky Bundesliga
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/768px-Sky_Sport_Bundesliga_2020.svg.png?20201029143809",Sky Bundesliga
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA1
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/768px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png",Sky Bundesliga 1
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA1
@@ -180,36 +180,36 @@ plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/22/Sky_Sport_Bundesliga_10_Logo_2020.png?20210404162140",Sky Bundesliga 10
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
-
-#EXTINF:-1 tvg-id="DE: Sky Sport 1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/550.png",Sky Sport 1
+#EXTINF:-1 tvg-id="DE: Sky Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/c5/Sky_Sport_1_HD_-_Logo_2020.png?20200926195853",Sky Sport 1
 plugin://plugin.video.vavooto/?name=SKY SPORT 1
-#EXTINF:-1 tvg-id="DE: Sky Sport 2" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/568.png",Sky Sport 2
+#EXTINF:-1 tvg-id="DE: Sky Sport 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ab/Sky_Sport_2_HD_-_Logo_2020.png?20200926195653",Sky Sport 2
 plugin://plugin.video.vavooto/?name=SKY SPORT 2
-#EXTINF:-1 tvg-id="DE: Sky Sport 3" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/534.png",Sky Sport 3
+#EXTINF:-1 tvg-id="DE: Sky Sport 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/1d/Sky_Sport_3_HD_-_Logo_2020.png?20200926195627",Sky Sport 3
 plugin://plugin.video.vavooto/?name=SKY SPORT 3
-#EXTINF:-1 tvg-id="DE: Sky Sport 4" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/569.png",Sky Sport 4
+#EXTINF:-1 tvg-id="DE: Sky Sport 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/2a/Sky_Sport_4_HD_Logo_2020.png?20200926195548",Sky Sport 4
 plugin://plugin.video.vavooto/?name=SKY SPORT 4
-#EXTINF:-1 tvg-id="DE: Sky Sport 5" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/567.png",Sky Sport 5
+#EXTINF:-1 tvg-id="DE: Sky Sport 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/5/58/Sky_Sport_5_HD_Logo_2020.png?20200926195517",Sky Sport 5
 plugin://plugin.video.vavooto/?name=SKY SPORT 5
-#EXTINF:-1 tvg-id="DE: Sky Sport 6" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/558.png",Sky Sport 6
+#EXTINF:-1 tvg-id="DE: Sky Sport 6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/7/70/Sky_Sport_6_HD_Logo_2020.png?20200926195445",Sky Sport 6
 plugin://plugin.video.vavooto/?name=SKY SPORT 6
-#EXTINF:-1 tvg-id="DE: Sky Sport 7" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1173.png",Sky Sport 7
+#EXTINF:-1 tvg-id="DE: Sky Sport 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/04/Sky_Sport_7_HD_Logo_2020.png?20200926195411",Sky Sport 7
 plugin://plugin.video.vavooto/?name=SKY SPORT 7
-#EXTINF:-1 tvg-id="DE: Sky Sport 8" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1174.png",Sky Sport 8
+#EXTINF:-1 tvg-id="DE: Sky Sport 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a9/Sky_Sport_8_HD_Logo_2020.png?20200926195247",Sky Sport 8
 plugin://plugin.video.vavooto/?name=SKY SPORT 8
-#EXTINF:-1 tvg-id="DE: Sky Sport 9" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1175.png",Sky Sport 9
+#EXTINF:-1 tvg-id="DE: Sky Sport 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a1/Sky_Sport_9_HD_Logo_2020.png?20200926195335",Sky Sport 9
 plugin://plugin.video.vavooto/?name=SKY SPORT 9
 #EXTINF:-1 tvg-id="DE: Sky Sport 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/ca/Sky_Sport_10_HD_Logo_2020.png?20200926195153",Sky Sport 10
 plugin://plugin.video.vavooto/?name=SKY SPORT 10
-#EXTINF:-1 tvg-id="DE: Sky Sport F1" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1422.png",Sky Sport Formel 1
+
+#EXTINF:-1 tvg-id="DE: Sky Sport F1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/768px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport Formel 1
 plugin://plugin.video.vavooto/?name=SKY SPORT F1
-#EXTINF:-1 tvg-id="DE: Sky Sport Golf" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1274.png",Sky Sport Golf
+#EXTINF:-1 tvg-id="DE: Sky Sport Golf" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/768px-Sky_Sport_Golf_Logo_2022.svg.png",Sky Sport Golf
 plugin://plugin.video.vavooto/?name=SKY SPORT GOLF
-#EXTINF:-1 tvg-id="DE: Sky Sport Tennis" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1275.png",Sky Sport Tennis
+#EXTINF:-1 tvg-id="DE: Sky Sport Tennis" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/768px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
 plugin://plugin.video.vavooto/?name=SKY SPORT TENNIS
-#EXTINF:-1 tvg-id="DE: Sky Sport Mix" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1273.png",Sky Sport Mix
+#EXTINF:-1 tvg-id="DE: Sky Sport Mix" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/768px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
 plugin://plugin.video.vavooto/?name=SKY SPORT MIX
-#EXTINF:-1 tvg-id="DE: Sky Sport Premier League" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/550.png",Sky Sport Premier League
+#EXTINF:-1 tvg-id="DE: Sky Sport Premier League" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/768px-Sky_Sport_Premier_League_Logo_2022.svg.png",Sky Sport Premier League
 plugin://plugin.video.vavooto/?name=SKY SPORT PREMIER LEAGUE
-#EXTINF:-1 tvg-id="DE: Sky Sport News" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1439.png",Sky Sport News
+#EXTINF:-1 tvg-id="DE: Sky Sport News" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_News_DE_Logo_2020.svg/768px-Sky_Sport_News_DE_Logo_2020.svg.png",Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY SPORT NEWS
