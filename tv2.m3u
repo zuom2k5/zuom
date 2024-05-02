@@ -69,7 +69,7 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 #EXTINF:-1 tvg-id="DE: Sky Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/768px-Sky_Serie.svg.png",Sky Serie
 plugin://plugin.video.vavooto/?name=SKY+SERIEN+%26+SHOWS
 
-#EXTINF:-1 tvg-id="DE: SPORT1 PLUS" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/86/Sport1%2B.svg/863px-Sport1%2B.svg.png?20130719225930",Sport1+
+#EXTINF:-1 tvg-id="DE: SPORT1 PLUS" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Logo_Sport1%2B_2013.svg/600px-Logo_Sport1%2B_2013.svg.png",Sport1+
 plugin://plugin.video.vavooto/?name=SPORT1%2B
 
 
