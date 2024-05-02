@@ -56,21 +56,14 @@ plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+4
 plugin://plugin.video.vavooto/?name=RAKUTEN+COMEDY+MOVIES
 #EXTINF:-1 tvg-id="DE: Rakuten Action Movies" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Action Movies
 plugin://plugin.video.vavooto/?name=RAKUTEN+ACTION+MOVIES
-
-#EXTINF:-1 tvg-id="Sky Sport Top Event" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/768px-Sky_Sport_Top_Event_Logo_2022.svg.png",Sky Sport TOP EVENT
-plugin://plugin.video.vavooto/?name=S.+SPORT+TOP+EVENT
-
 #EXTINF:-1 tvg-id="DE: Sky Cinema 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Cinema%2B1_DE_Logo_2016.png/1200px-Sky_Cinema%2B1_DE_Logo_2016.png",Sky Cinema 1
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+1
-
 #EXTINF:-1 tvg-id="DE: Sky Cinema Family" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
-
 #EXTINF:-1 tvg-id="DE: Sky Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/768px-Sky_Serie.svg.png",Sky Serie
 plugin://plugin.video.vavooto/?name=SKY+SERIEN+%26+SHOWS
 
-#EXTINF:-1 tvg-id="DE: SPORT1 PLUS" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Logo_Sport1%2B_2013.svg/600px-Logo_Sport1%2B_2013.svg.png",Sport1+
-plugin://plugin.video.vavooto/?name=SPORT1%2B
+
 
 
 

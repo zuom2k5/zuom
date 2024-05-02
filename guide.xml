@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2024-05-02 19:25:14.702979 -->
+<!-- created on 2024-05-02 21:43:35.812354 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.6+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  MAGENTA TV (DE)  CHANNEL LIST -->
@@ -17,6 +17,10 @@
         <display-name lang="de">MDR-Fernsehen Sachsen</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/8e11c0abde6c90a68507070c73b443401a24fcff.png" />
     </channel>
+    <channel id="WDR.de">
+        <display-name lang="de">WDR Fernsehen Köln</display-name>
+        <icon src="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png" />
+    </channel>
     <channel id="AnixePlus.de">
         <display-name lang="de">ANIXE+</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/7d936048c94ca83281a61951170b5ad0da756584.png" />
@@ -29,13 +33,13 @@
         <display-name lang="de">Spiegel Geschichte</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/cb6141ae4226647544a9af4b6d69e41d557fe894.png" />
     </channel>
+    <channel id="SPORT1Plus.de">
+        <display-name lang="de">SPORT1+</display-name>
+        <icon src="http://ngiss.t-online.de/cm1s/media/cf512e0bfc3604249cdb0418e3baa80abaaf492d.png" />
+    </channel>
     <channel id="Jukebox.de">
         <display-name lang="de">Jukebox</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/9735a7ac5cfcf3c56acd644069751c8c5b72bbe8.png" />
-    </channel>
-    <channel id="MagentaSport">
-        <display-name lang="de">MagentaSport</display-name>
-        <icon src="http://ngiss.t-online.de/cm1s/media/e69d5f8535a361353369b83b24ce77ed818020b1.png" />
     </channel>
     <channel id="BRNord.de">
         <display-name lang="de">BR Fernsehen Nord</display-name>
@@ -120,6 +124,10 @@
     <channel id="SkyCinemaPremierenPlus24.de">
         <display-name lang="de">Sky Cinema Premieren +24</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/5371a1404566488319991aef236525c5cdd96fd0.png" />
+    </channel>
+    <channel id="Sky Sport Top Event">
+        <display-name lang="de">Sky Sport Top Event</display-name>
+        <icon src="http://ngiss.t-online.de/cm1s/media/8693b13e8355d376c9b2c53e515e7f85abe659d9.png" />
     </channel>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
@@ -1371,9 +1379,17 @@
 
     <programme start="20240503030000 +0000" stop="20240503032458 +0000" channel="Nick/Comedy Central+1">
         <title lang="de">SpongeBob Schwammkopf</title>
-        <desc lang="de">
-        Der Sommer ist angebrochen, was Mr. Krabs ausgesprochen freut, denn nun haben die Kinder endlos viel Zeit, um ihr Taschengeld in seine Burger zu investieren. Mit billigen Tricks und dem selbstlosen körperlichen Einsatz von SpongeBob gelingt ihm das auch - aber nicht lange... // Thaddäus freut sich sehr, denn SpongeBob und Patrick gehen übers Wochenende zum Camping. Doch wieder einmal macht er die Rechnung ohne den Wirt, denn die beiden schlagen ihr Zelt lediglich ein paar Meter von SpongeBobs - und Thaddäusens - Haus entfernt auf. Da er nicht als Weichei gelten will, schließt er sich den beiden an. Doch als Sponge und Pat wilde Geschichten von dem gruseligen Seebären erzählen, wird's ihm doch zu bunt und er tut alles, um den vermeintlichen Schrecken des Ozeans anzulocken. Der kommt auch prompt - und vertrimmt Thaddäus mächtig...</desc>
-        <icon src="http://ngiss.t-online.de/cm1s/media/396540671aaee2a343a8da454ec0ac2f4048af10.png"/>
+        <sub-title lang="de">Sommeranfang; Helden beim Zelten</sub-title>
+        <desc lang="de">(US) 2004 • S3 E19
+        Mr. Krabs baut einen Spielplatz, mit dem er die Kinder in den Ferien ins Restaurant locken will, um Geld zu verdienen. SpongeBob und Patrick wollen zelten, und Thaddäus will mitmachen. Als er nachts seine Klarinette herausholt, wird es gefährlich.</desc>
+        <date>2004</date>
+        <category lang="de">Cartoons / Puppets</category>
+        <category lang="de">Children's / Youth programs</category>
+        <category lang="de">Comedy</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/8/p184854_i_h10_ae_2022-04-21T05_27_33.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">2 . 18 . </episode-num>
     </programme>
 
     <programme start="20240503032458 +0000" stop="20240503034850 +0000" channel="Nick/Comedy Central+1">
@@ -4984,6 +5000,989 @@
         <country>DE</country>
     </programme>
 
+    <programme start="20240501233000 +0000" stop="20240502001500 +0000" channel="WDR.de">
+        <title lang="de">Wir werden Camper</title>
+        <sub-title lang="de">Mit dem pinken Wohnwagen an die niederländische Küste</sub-title>
+        <desc lang="de">(DE) 2023 • S5 E7
+        Das Ehepaar Herrmann reist mit vier Pflegekindern im Camper an die niederländische Küste.</desc>
+        <date>2023</date>
+        <category lang="de">Nature / Animals / Environment</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/5/p25224678_e_h11_aa_2023-08-03T13_24_17.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">4 . 6 . </episode-num>
+    </programme>
+
+    <programme start="20240502001500 +0000" stop="20240502014500 +0000" channel="WDR.de">
+        <title lang="de">Campingperlen, die Sie kennen sollten</title>
+        <desc lang="de">(DE) 2024 • S1
+        Mehr als 40 Millionen Übernachtungen pro Jahr werden auf deutschen Campingplätzen gezählt. Die überraschendsten zeigt die Sendung: Vom Abwasserrohr zum Weinfass, vom durchsichtigen Blasenzelt zum Schlafstrandkorb - keine Nacht gleicht der anderen.</desc>
+        <credits>
+            <director>Dominique Ziesemer</director>
+            <director>Sylvia Berndt</director>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Tourism / Travel</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/7/p27149465_e_h10_aa_2024-04-29T13_44_01.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+    </programme>
+
+    <programme start="20240502014500 +0000" stop="20240502031500 +0000" channel="WDR.de">
+        <title lang="de">Wir werden Camper! Die Erbslöhs in Slowenien</title>
+        <desc lang="de">(DE) 2024
+        Petra und Rüdiger Erbslöh aus Meerbusch fahren mit ihrem Wohnmobil nach Slowenien. Sie besuchen den Bleder See. Ein Roadtrip führt über den Vršičpass. Eine Überraschung wartet in der Hauptstadt Ljubljana. Weiter geht es zu den Höhlen von Postojna.</desc>
+        <date>2024</date>
+        <category lang="de">Nature / Animals / Environment</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/7/p27149395_e_h8_aa_2024-04-29T07_33_51.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502031500 +0000" stop="20240502044500 +0000" channel="WDR.de">
+        <title lang="de">Wir werden Camper! Die Erbslöhs in der Toskana</title>
+        <desc lang="de">(DE) 2023 • S4
+        Das Ehepaar Erbslöh aus Meerbusch durchstreift im Wohnmobil die Toskana. Florenz ist das erste Ziel.</desc>
+        <date>2023</date>
+        <category lang="de">Nature / Animals / Environment</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <category lang="de">Tourism / Travel</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/4/p24789135_e_h10_aa_2023-05-31T10_26_41.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">3 . 0 . </episode-num>
+    </programme>
+
+    <programme start="20240502044500 +0000" stop="20240502051500 +0000" channel="WDR.de">
+        <title lang="de">Wir lieben Camping</title>
+        <desc lang="de">(DE) 2023
+        Die Moderatoren gehen auf Camping-Urlaub mit dem Wohnmobil im benachbarten Holland.</desc>
+        <date>2023</date>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/5/p25349985_i_h8_aa_2023-08-14T10_53_46.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502051500 +0000" stop="20240502052000 +0000" channel="WDR.de">
+        <title lang="de">Erlebnisreisen</title>
+        <sub-title lang="de">Niederlande - Schiermonnikoog, Insel auf Wanderschaft</sub-title>
+        <desc lang="de">(DE) 2021 E728
+        Gezeigt werden Zusammenfassungen von Magazinbeiträgen oder kürzere exklusive Reportagen.</desc>
+        <date>2021</date>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Tourism / Travel</category>
+        <category lang="de">Further education</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20012235_e_h11_aa_2023-07-14T11_08_37.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 727 . </episode-num>
+    </programme>
+
+    <programme start="20240502052000 +0000" stop="20240502055000 +0000" channel="WDR.de">
+        <title lang="de">Planet Schule: David and Red Clips (1/3)</title>
+        <desc lang="de">(DE) 2016
+        Planet Schule schlägt ein neues Kapitel auf. Das Projekt bietet modernes, mediengestütztes Lernen und Unterrichten - für Lehrer, für Schüler und Bildungsinteressierte. Dafür erweitern und aktualisieren wir kontinuierlich unser Angebot.</desc>
+        <credits>
+            <director>Katja Schwarz</director>
+            <director>Sina Hutt</director>
+            <director>Anton Stoychev</director>
+        </credits>
+        <date>2016</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16703918_i_h10_ab_2022-09-14T18_06_48.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502055000 +0000" stop="20240502060500 +0000" channel="WDR.de">
+        <title lang="de">Planet Schule: David and Red in England - David's Travel Guide to London</title>
+        <sub-title lang="de">David and Red in England: David's travel guide to London</sub-title>
+        <desc lang="de">(DE) 2013
+        Der Engländer David Fermer erklärt in kurzen Clips Landestypisches aus Großbritannien.</desc>
+        <credits>
+            <director>Katja Schwarz</director>
+            <director>Sina Hutt</director>
+            <director>Anton Stoychev</director>
+        </credits>
+        <date>2013</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16703915_i_h10_aa_2022-08-12T14_48_43.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502060500 +0000" stop="20240502062500 +0000" channel="WDR.de">
+        <title lang="de">planet schule: Sozialexperimente bei planet schule - Das Schweine-Experiment: Was ist uns das Tierwohl wert?</title>
+        <desc lang="de">(DE) 2024
+        In Deutschland gibt es über 20 Millionen Schweine, die der Fleischproduktion dienen. Viele Züchter sagen, dass der Preis des verkauften Schweinefleischs zu niedrig für eine bessere Haltung sei. Die Sendung stellt Konsumenten auf die Probe.</desc>
+        <credits>
+            <director>Katja Schwarz</director>
+            <director>Sina Hutt</director>
+            <director>Anton Stoychev</director>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26368653_i_h10_aa_2024-01-08T16_23_52.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502062500 +0000" stop="20240502071000 +0000" channel="WDR.de">
+        <title lang="de">Gefragt - Gejagt</title>
+        <sub-title lang="de">Folge 548</sub-title>
+        <desc lang="de">(DE) 2021 • S7 E37
+        Vier Kandidaten müssen eine Minute lang Fragen gegen die Uhr beantworten. Pro richtige Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den "Jäger" müssen sie dann ihr Geld verteidigen. Werden sie dabei eingeholt, scheiden sie aus.</desc>
+        <credits>
+            <director>Alexandra Farrensteiner</director>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20185594_i_h8_ab_2023-07-12T08_29_28.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">6 . 36 . </episode-num>
+    </programme>
+
+    <programme start="20240502071000 +0000" stop="20240502074000 +0000" channel="WDR.de">
+        <title lang="de">Servicezeit</title>
+        <desc lang="de">(DE) 2024
+        Die Magazinsendung beschäftigt sich mit Themen aus den Bereichen Gesundheit, Geld und Ernährung.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Further education</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26271687_i_h8_aa_2024-01-18T12_04_24.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502074000 +0000" stop="20240502082500 +0000" channel="WDR.de">
+        <title lang="de">Aktuelle Stunde</title>
+        <desc lang="de">(DE) 2024
+        Regionales Infotainmentmagazin mit den aktuellsten Neuigkeiten aus Nordrhein-Westfalen, Deutschland und der Welt. Die Aktuelle Stunde bringt Themen und Geschichten, die die Menschen zwischen Rhein und Weser interessieren, bewegen und berühren.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26270597_i_h8_aa_2024-01-02T13_03_42.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502082500 +0000" stop="20240502085500 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit Geschichten</title>
+        <desc lang="de">(DE) 2024
+        In der Sendung werden Geschichten zu einem bestimmten Thema wie Ferien präsentiert.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26344882_i_h8_aa_2024-01-02T18_23_04.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502085500 +0000" stop="20240502095500 +0000" channel="WDR.de">
+        <title lang="de">Planet Wissen Extra</title>
+        <sub-title lang="de">Extra: Zurück zur Natur - Wie Pflanzen unser Wohlbefinden fördern</sub-title>
+        <desc lang="de">(DE) 2023 E897
+        Natur erscheint als ruhiger und sicherer Gegenpool zu einer hektischen, krisengeschüttelten Welt. Längst hat ein Naturboom eingesetzt: Waldbaden, Gärtnern und Zimmerpflanzen liegen im Trend. Sind die Erwartungen berechtigt oder völlig überzogen?</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/3/p23614315_i_h10_aa_2023-01-09T10_28_21.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 896 . </episode-num>
+    </programme>
+
+    <programme start="20240502095500 +0000" stop="20240502104500 +0000" channel="WDR.de">
+        <title lang="de">Das Waisenhaus für wilde Tiere</title>
+        <sub-title lang="de">Abenteuer Afrika</sub-title>
+        <desc lang="de">(DE) 2015 • S3 E26
+        Pavianneuzugang Franzi macht einen Ausflug. Nachdem der kleine Affe von seinen Artgenossen gut aufgenommen wurde, darf er zum ersten Mal bei einem "Baboon-Walk" dabei sein. Noch darf er auf Everets Arm anstatt im Transportkäfig reisen.</desc>
+        <credits>
+            <director>Tim Hübschle</director>
+            <director>Maximilian Stelzle</director>
+            <director>Peter Rabinger</director>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Nature / Animals / Environment</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11307292_i_h10_ab_2024-03-05T15_53_27.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">2 . 25 . </episode-num>
+    </programme>
+
+    <programme start="20240502104500 +0000" stop="20240502110000 +0000" channel="WDR.de">
+        <title lang="de">WDR aktuell</title>
+        <sub-title lang="de">vom 02.05.2024, 12:45 Uhr</sub-title>
+        <desc lang="de">(DE) 2024
+        Das Sendung bietet Nachrichten für und aus Nordrhein-Westfalen im Magazinformat.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26291648_i_h10_aa_2024-01-02T12_23_30.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502110000 +0000" stop="20240502115000 +0000" channel="WDR.de">
+        <title lang="de">Giraffe, Erdmännchen &amp; Co. (188)</title>
+        <sub-title lang="de">Nachwuchs beim Fingertier</sub-title>
+        <desc lang="de">(DE) 2012 • S5 E24
+        Sensation im Frankfurter Zoo: Zum ersten Mal in Deutschland ist es gelungen, ein Fingertier zu züchten! Doch das seltene Jungtier hielt sich anfangs gut versteckt. Wird es heute zu sehen sein? Die Geparden im Kronberger Opel-Zoo bekommen Verstärkung durch Kater Obelix. Der darf heute zum ersten Mal auf die Außenanlage zu einem Rendezvous mit den beiden Gepardinnen. Ob die drei sich gut verstehen werden?</desc>
+        <date>2012</date>
+        <category lang="de">Nature / Animals / Environment</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11967545_e_h10_aa_2020-12-08T12_00_45.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">4 . 23 . </episode-num>
+    </programme>
+
+    <programme start="20240502115000 +0000" stop="20240502122000 +0000" channel="WDR.de">
+        <title lang="de">Panda, Gorilla &amp; Co.</title>
+        <sub-title lang="de">Loslassen</sub-title>
+        <desc lang="de">(DE) 2014
+        Beim Kapuzineräffchen Sina ist der Abnabelungsprozess von den Tierpflegern noch immer in vollem Gange. Täglich wird mit dem fünf Monate alten Flaschenkind das Alleinsein trainiert, denn das Loslassen fällt beiden Seiten schwer.</desc>
+        <credits>
+            <director>Jana von Rautenberg</director>
+        </credits>
+        <date>2014</date>
+        <category lang="de">Nature / Animals / Environment</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/9/9/p9987889_i_h10_aa_2021-01-29T03_56_08.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502122000 +0000" stop="20240502131000 +0000" channel="WDR.de">
+        <title lang="de">In aller Freundschaft - Die jungen Ärzte (247)</title>
+        <sub-title lang="de">Schmerzgrenzen</sub-title>
+        <desc lang="de">(DE) 2021 • S6 E37
+        Die Ärzte haben es mit einem Paar zu tun. Es kommt zu Meinungverschiedenheiten bei der Belegschaft. Nach ihrer Rückkehr aus Brüssel will Theresa um ihre Beziehung zu Marc kämpfen. Dr. Elly Winter erleidet einen Treppensturz.</desc>
+        <credits>
+            <director>Peter Wekwerth</director>
+            <director>Susanne Boeing</director>
+            <actor>Sanam Afrashteh</actor>
+            <actor>Mike Adler</actor>
+            <actor>Philipp Danne</actor>
+            <actor>Stefan Ruppe</actor>
+            <actor>Katharina Nesytowa</actor>
+            <actor>Mirka Pigulla</actor>
+            <actor>Christian Beermann</actor>
+            <actor>Juliane Fisch</actor>
+            <producer>Jana Brandt</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p19372821_e_h8_ab_2024-01-19T08_23_05.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">5 . 36 . </episode-num>
+    </programme>
+
+    <programme start="20240502131000 +0000" stop="20240502140000 +0000" channel="WDR.de">
+        <title lang="de">In aller Freundschaft - Die jungen Ärzte (248)</title>
+        <sub-title lang="de">Herzstolpern</sub-title>
+        <desc lang="de">(DE) 2021 • S6 E38
+        Rebecca Krieger und Prof. Karin Patzelt übernehmen die Behandlung eines Mannes, der von seinem Sohn nach einem Sturz ins Klinikum gebracht wird. Dr. Elly Winter ist noch immer Patientin und ihr Handgelenksbruch ist komplizierter als gedacht.</desc>
+        <credits>
+            <director>Susanne Boeing</director>
+            <actor>Sanam Afrashteh</actor>
+            <actor>Mike Adler</actor>
+            <actor>Philipp Danne</actor>
+            <actor>Stefan Ruppe</actor>
+            <actor>Katharina Nesytowa</actor>
+            <actor>Mirka Pigulla</actor>
+            <actor>Christian Beermann</actor>
+            <actor>Elisa Agbaglah</actor>
+            <actor>Milena Straube</actor>
+            <actor>Luan Gummich</actor>
+            <actor>Marijam Agischewa</actor>
+            <actor>Horst-Günter Marx</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p19420592_e_h8_aa_2021-02-19T02_06_08.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">5 . 37 . </episode-num>
+    </programme>
+
+    <programme start="20240502140000 +0000" stop="20240502141500 +0000" channel="WDR.de">
+        <title lang="de">WDR aktuell</title>
+        <sub-title lang="de">vom 02.05.2024, 16:00 Uhr</sub-title>
+        <desc lang="de">(DE) 2024
+        Das Sendung bietet Nachrichten für und aus Nordrhein-Westfalen im Magazinformat.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26291648_i_h10_aa_2024-01-02T12_23_30.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502141500 +0000" stop="20240502160000 +0000" channel="WDR.de">
+        <title lang="de">Hier und heute</title>
+        <desc lang="de">(DE) 2024
+        Im regionalen Nachrichtenmagazin steht der Alltag von Menschen in NRW im Mittelpunkt. Neben aktuellen Berichten aus der Region gibt es auch Zeitreisen in die Vergangenheit und für Zuschauer die Möglichkeit, mit Studiogästen in Kontakt zu treten.</desc>
+        <date>2024</date>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26270715_i_h8_aa_2024-01-02T14_03_11.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502160000 +0000" stop="20240502161500 +0000" channel="WDR.de">
+        <title lang="de">WDR aktuell / Lokalzeit</title>
+        <sub-title lang="de">vom 05.07.2021, 18:00 Uhr</sub-title>
+        <desc lang="de">(DE) 2021
+        Das Sendung bietet Nachrichten für und aus Nordrhein-Westfalen im Magazinformat.</desc>
+        <date>2021</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p19164928_i_h10_aa_2022-07-14T08_18_44.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502161500 +0000" stop="20240502164500 +0000" channel="WDR.de">
+        <title lang="de">Servicezeit</title>
+        <desc lang="de">(DE) 2024
+        Die Magazinsendung beschäftigt sich mit Themen aus den Bereichen Gesundheit, Geld und Ernährung.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Further education</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26271687_i_h8_aa_2024-01-18T12_04_24.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502164500 +0000" stop="20240502173000 +0000" channel="WDR.de">
+        <title lang="de">Aktuelle Stunde</title>
+        <desc lang="de">(DE) 2024
+        Regionales Infotainmentmagazin mit den aktuellsten Neuigkeiten aus Nordrhein-Westfalen, Deutschland und der Welt. Die Aktuelle Stunde bringt Themen und Geschichten, die die Menschen zwischen Rhein und Weser interessieren, bewegen und berühren.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26270597_i_h8_aa_2024-01-02T13_03_42.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502173000 +0000" stop="20240502180000 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit aus Köln</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Köln.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11024414_i_h8_af_2023-08-29T07_34_04.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502180000 +0000" stop="20240502181500 +0000" channel="WDR.de">
+        <title lang="de">Tagesschau</title>
+        <sub-title lang="de">vom 02.05.2024, 20:00 Uhr</sub-title>
+        <desc lang="de">(DE) 2024
+        Diese Sendung berichtet über die aktuellsten und wichtigsten Nachrichten der Bundesrepublik.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26229056_i_h8_aa_2024-01-02T13_43_09.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502181500 +0000" stop="20240502190000 +0000" channel="WDR.de">
+        <title lang="de">Quarks</title>
+        <sub-title lang="de">Akku leer? So kommen wir aus dem Energietief raus</sub-title>
+        <desc lang="de">(DE) 2024 E212
+        Wenn einen der Spagat zwischen viel Arbeit, Familie und Freizeit stresst und die permanent schlechten Nachrichten zusätzlich belasten, kann das auf Dauer auslaugen. Die Sendung zeigt, wie man es aus dem Energietief rauskommt.</desc>
+        <date>2024</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13710060_i_h10_ad_2023-04-21T11_16_43.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 211 . </episode-num>
+    </programme>
+
+    <programme start="20240502190000 +0000" stop="20240502194500 +0000" channel="WDR.de">
+        <title lang="de">Die Ernährungs-Docs (70)</title>
+        <sub-title lang="de">Diabetes Typ 2, Fibromyalgie, Schlaf-Apnoe</sub-title>
+        <desc lang="de">(DE) 2024 • S10 E3
+        Drei Mediziner wollen allein mit gezielten Ernährungsstrategien Symptome deutlich verbessern und Krankheiten sogar heilen. Die Reihe zeigt, wie mit speziellem Essen schon innerhalb weniger Monate oft mehr erreicht werden kann als mit Tabletten.</desc>
+        <date>2024</date>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Further education</category>
+        <category lang="de">Cooking</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26530162_i_h10_aa_2024-01-22T09_03_07.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">9 . 2 . </episode-num>
+    </programme>
+
+    <programme start="20240502194500 +0000" stop="20240502201500 +0000" channel="WDR.de">
+        <title lang="de">WDR aktuell</title>
+        <sub-title lang="de">vom 02.05.2024, 21:45 Uhr</sub-title>
+        <desc lang="de">(DE) 2024
+        Das Sendung bietet Nachrichten für und aus Nordrhein-Westfalen im Magazinformat.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26291648_i_h10_aa_2024-01-02T12_23_30.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502201500 +0000" stop="20240502210000 +0000" channel="WDR.de">
+        <title lang="de">Menschen hautnah: Für immer zu dick</title>
+        <desc lang="de">(DE) 2024
+        Der Film handelt von drei Frauen, die von Kindheit an mit dem Thema Übergewicht konfrontiert worden sind. Es geht unter anderem um unvergessene Bemerkungen aus der Kindheit, Diäten, Kalorien zählen und um die Angst vor der eigenen Hochzeit.</desc>
+        <credits>
+            <director>Annette Zinkant</director>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Movie / Drama</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26381147_i_h10_aa_2024-01-22T08_23_37.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502210000 +0000" stop="20240502223500 +0000" channel="WDR.de">
+        <title lang="de">Sibyl - Therapie zwecklos</title>
+        <desc lang="de">(FR,BE) 2019
+        Die frustrierte Psychotherapeutin Sibyl beschließt, sich ihrer Leidenschaft zu widmen. Sie will Schriftstellerin werden. Sie erhält Inspiration von ihrer Patientin Margot, einer verletzlichen Schauspielerin, die ein Kind erwartet.</desc>
+        <credits>
+            <director>Justine Triet</director>
+            <actor>Virginie Efira</actor>
+            <actor>Adèle Exarchopoulos</actor>
+            <actor>Gaspard Ulliel</actor>
+            <actor>Sandra Hüller</actor>
+            <actor>Laure Calamy</actor>
+            <actor>Niels Schneider</actor>
+            <actor>Paul Hamy</actor>
+            <actor>Arthur Harari</actor>
+            <producer>David Thion</producer>
+            <producer>Philippe Martin</producer>
+            <producer>Genevieve Lemal</producer>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Comedy</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16938255_v_h8_ad_2020-11-09T04_30_42.jpg"/>
+        <country>FR,BE</country>
+    </programme>
+
+    <programme start="20240502223500 +0000" stop="20240503001500 +0000" channel="WDR.de">
+        <title lang="de">Zwei im falschen Film</title>
+        <desc lang="de">(DE) 2017 • FSK 12
+        Laura und Hans sind schon seit einer geraumen Zeit ein Paar. Die beiden wollen ihren Jahrestag mit einem gemeinsamen Kinobesuch feiern. Die großen Gefühle, die das Paar auf der Leinwand zu sehen bekommt, stimmen aber leider gar nicht mit ihren eigenen Erfahrungen überein. Was anfangs nur eine Verurteilung der fiktiven wahren Liebe ist, führt jedoch schnell zu einer echten Beziehungskrise.</desc>
+        <credits>
+            <director>Laura Lackmann</director>
+            <actor>Laura Tonke</actor>
+            <actor>Marc Hosemann</actor>
+            <actor>David Bredin</actor>
+            <actor>Katrin Wichmann</actor>
+            <actor>Christine Schorn</actor>
+            <actor>Josefine Voss</actor>
+            <actor>Sebastian Schwarz</actor>
+            <producer>Milena Maitz</producer>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Comedy</category>
+        <category lang="de">Romance</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16086857_k_h10_aa_2023-07-28T09_13_45.jpg"/>
+        <country>DE</country>
+        <rating>
+            <value>12</value>
+        </rating>
+    </programme>
+
+    <programme start="20240503001500 +0000" stop="20240503003000 +0000" channel="WDR.de">
+        <title lang="de">Erlebnisreisen</title>
+        <sub-title lang="de">Bretagne - Der stürmische Westen</sub-title>
+        <desc lang="de">(DE) 2024 E759
+        Gezeigt werden Zusammenfassungen von Magazinbeiträgen oder kürzere exklusive Reportagen.</desc>
+        <date>2024</date>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Tourism / Travel</category>
+        <category lang="de">Further education</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26405375_i_h10_aa_2024-01-02T16_43_30.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 758 . </episode-num>
+    </programme>
+
+    <programme start="20240503003000 +0000" stop="20240503010000 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit aus Köln</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Köln.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11024414_i_h8_af_2023-08-29T07_34_04.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503010000 +0000" stop="20240503012500 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit aus Aachen</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Aachen.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26270889_i_h8_aa_2024-01-02T14_13_49.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503012500 +0000" stop="20240503015500 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit Bergisches Land</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus dem Bergischen Land.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11024448_i_h8_ac_2023-01-09T10_07_01.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503015500 +0000" stop="20240503022500 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit Ruhr</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus dem Ruhrgebiet.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11024446_i_h8_ab_2023-08-29T09_03_50.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503022500 +0000" stop="20240503025500 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit aus Dortmund</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Dortmund.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11024455_i_h10_ac_2023-08-29T09_04_01.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503025500 +0000" stop="20240503032500 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit Münsterland</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus dem Münsterland.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11024439_i_h8_ad_2023-01-09T10_06_33.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503032500 +0000" stop="20240503035000 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit OWL</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Ostwestfalen-Lippe.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26271464_i_h10_aa_2024-01-02T16_53_22.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503035000 +0000" stop="20240503042000 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit Südwestfalen</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Südwestfalen.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26271603_i_h10_ab_2024-03-07T10_23_16.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503042000 +0000" stop="20240503045000 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit aus Bonn</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Bonn.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11024418_i_h10_ad_2023-08-29T08_04_18.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503045000 +0000" stop="20240503052000 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit aus Duisburg</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Duisburg. Die regionalen Nachricht rund um Duisburg sprechen Themen in Bereichen Gesellschaft, Politik, Wirtschaft und Kultur an.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Talk show</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26271087_i_h8_aa_2024-01-02T15_23_14.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503052000 +0000" stop="20240503053500 +0000" channel="WDR.de">
+        <title lang="de">Planet Schule: David and Red Clips (2/3)</title>
+        <desc lang="de">(DE) 2016
+        David und Red ein kleines Abenteuer. Erste Vokabeln werden spielerisch vermittelt.</desc>
+        <credits>
+            <director>Katja Schwarz</director>
+            <director>Sina Hutt</director>
+            <director>Anton Stoychev</director>
+        </credits>
+        <date>2016</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13422275_e_h10_aa_2021-11-30T09_46_18.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503053500 +0000" stop="20240503060500 +0000" channel="WDR.de">
+        <title lang="de">Planet Schule: David and Red Clips (3/3)</title>
+        <desc lang="de">(DE) 2016
+        David und Red ein kleines Abenteuer. Erste Vokabeln werden spielerisch vermittelt.</desc>
+        <credits>
+            <director>Katja Schwarz</director>
+            <director>Sina Hutt</director>
+            <director>Anton Stoychev</director>
+        </credits>
+        <date>2016</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/3/p13422275_e_h10_aa_2021-11-30T09_46_18.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503060500 +0000" stop="20240503062500 +0000" channel="WDR.de">
+        <title lang="de">planet schule: Sozialexperimente bei planet schule - Das Atommüll-Experiment</title>
+        <sub-title lang="de">Sozialexperimente bei planet schule - Das Schweine-Experiment: Was ist uns das Tierwohl wert?</sub-title>
+        <desc lang="de">(DE) 2024
+        In Deutschland gibt es über 20 Millionen Schweine, die der Fleischproduktion dienen. Viele Züchter sagen, dass der Preis des verkauften Schweinefleischs zu niedrig für eine bessere Haltung sei. Die Sendung stellt Konsumenten auf die Probe.</desc>
+        <credits>
+            <director>Katja Schwarz</director>
+            <director>Sina Hutt</director>
+            <director>Anton Stoychev</director>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26368653_i_h10_aa_2024-01-08T16_23_52.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503062500 +0000" stop="20240503071000 +0000" channel="WDR.de">
+        <title lang="de">Gefragt - Gejagt</title>
+        <sub-title lang="de">Folge 549</sub-title>
+        <desc lang="de">(DE) 2021 • S7 E39
+        Vier Kandidaten müssen eine Minute lang Fragen gegen die Uhr beantworten. Pro richtige Antwort wird ihnen Geld gutgeschrieben. In Einzelduellen gegen den "Jäger" müssen sie dann ihr Geld verteidigen. Werden sie dabei eingeholt, scheiden sie aus.</desc>
+        <credits>
+            <director>Alexandra Farrensteiner</director>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20185594_i_h8_ab_2023-07-12T08_29_28.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">6 . 38 . </episode-num>
+    </programme>
+
+    <programme start="20240503071000 +0000" stop="20240503074000 +0000" channel="WDR.de">
+        <title lang="de">Europamagazin</title>
+        <desc lang="de">(DE) 2024
+        Das Wissensmagazin bietet Orientierung und aktuelle Information. Die Moderatoren versuchen, die schwierigen politischen Prozesse der EU verständlich zu erklären. Berichte und Reportagen helfen dabei und geben Einblicke in Alltag der Europäer.</desc>
+        <credits>
+            <director>Julia Ballaschk</director>
+            <director>Ulrike Schmidt</director>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26324885_i_h8_aa_2024-01-31T09_53_53.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503074000 +0000" stop="20240503082500 +0000" channel="WDR.de">
+        <title lang="de">Aktuelle Stunde</title>
+        <desc lang="de">(DE) 2024
+        Regionales Infotainmentmagazin mit den aktuellsten Neuigkeiten aus Nordrhein-Westfalen, Deutschland und der Welt. Die Aktuelle Stunde bringt Themen und Geschichten, die die Menschen zwischen Rhein und Weser interessieren, bewegen und berühren.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26270597_i_h8_aa_2024-01-02T13_03_42.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503082500 +0000" stop="20240503085500 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit aus Köln</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Köln.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11024414_i_h8_af_2023-08-29T07_34_04.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503085500 +0000" stop="20240503095500 +0000" channel="WDR.de">
+        <title lang="de">Planet Wissen: Kaminöfen - Gemütlich und gefährlich</title>
+        <desc lang="de">(DE) 2023 E899
+        Mehr als 11 Millionen Kaminöfen sorgen in deutschen Wohnungen für wohlige Wärme. Aber der dunkle Ruß ist Gift für das Klima, denn das freigesetzte CO2 reichert sich in der Atmosphäre an, schneller als nachwachsende Bäume es wieder aufnehmen.</desc>
+        <date>2023</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/3/p23614315_i_h10_aa_2023-01-09T10_28_21.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 898 . </episode-num>
+    </programme>
+
+    <programme start="20240503095500 +0000" stop="20240503104500 +0000" channel="WDR.de">
+        <title lang="de">Das Waisenhaus für wilde Tiere</title>
+        <sub-title lang="de">Abenteuer Afrika</sub-title>
+        <desc lang="de">(DE) 2015 • S3 E26
+        Pavianneuzugang Franzi macht einen Ausflug. Nachdem der kleine Affe von seinen Artgenossen gut aufgenommen wurde, darf er zum ersten Mal bei einem "Baboon-Walk" dabei sein. Noch darf er auf Everets Arm anstatt im Transportkäfig reisen.</desc>
+        <credits>
+            <director>Tim Hübschle</director>
+            <director>Maximilian Stelzle</director>
+            <director>Peter Rabinger</director>
+        </credits>
+        <date>2015</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Nature / Animals / Environment</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11307292_i_h10_ab_2024-03-05T15_53_27.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">2 . 25 . </episode-num>
+    </programme>
+
+    <programme start="20240503104500 +0000" stop="20240503110000 +0000" channel="WDR.de">
+        <title lang="de">WDR aktuell</title>
+        <sub-title lang="de">vom 03.05.2024, 12:45 Uhr</sub-title>
+        <desc lang="de">(DE) 2024
+        Das Sendung bietet Nachrichten für und aus Nordrhein-Westfalen im Magazinformat.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26291648_i_h10_aa_2024-01-02T12_23_30.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503110000 +0000" stop="20240503115000 +0000" channel="WDR.de">
+        <title lang="de">Giraffe, Erdmännchen &amp; Co. (189)</title>
+        <sub-title lang="de">Freigang für die Tigerbabys</sub-title>
+        <desc lang="de">(DE) 2012 • S5 E25
+        Die beiden Tigerbabys im Frankfurter Zoo haben heute zum ersten Mal Freigang. Mit Mutter Malea erkunden sie die Außenanlage des Katzendschungels und zeigen sich dabei ganz und gar nicht schüchtern. Wird das so bleiben, wenn plötzlich Vater Iban auftaucht? Im Kronberger Opel-Zoo packt Tierpfleger Oliver Reinhardt einen mit Früchten gefüllten Karton, um die Stachelschweine zu beschäftigen.</desc>
+        <date>2012</date>
+        <category lang="de">Nature / Animals / Environment</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11371384_e_h12_aa_2017-07-21T10_42_00.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">4 . 24 . </episode-num>
+    </programme>
+
+    <programme start="20240503115000 +0000" stop="20240503122000 +0000" channel="WDR.de">
+        <title lang="de">Panda, Gorilla &amp; Co. (19)</title>
+        <sub-title lang="de">Lebensrettung</sub-title>
+        <desc lang="de">(DE) 2014
+        Auf der Südamerika-Anlage im Zoo herrscht große Aufregung. Die drei kleinen Wasserschweinkinder von Mama Lucia erobern das Außengehege und sorgen damit für Irritationen bei ihren Mitbewohnern, den Guanakos. Eines der Kinder verliert den Anschluss.</desc>
+        <credits>
+            <director>Jana von Rautenberg</director>
+        </credits>
+        <date>2014</date>
+        <category lang="de">Nature / Animals / Environment</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/9/9/p9987889_i_h10_aa_2021-01-29T03_56_08.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503122000 +0000" stop="20240503131000 +0000" channel="WDR.de">
+        <title lang="de">In aller Freundschaft - Die jungen Ärzte (249)</title>
+        <sub-title lang="de">Klarheit</sub-title>
+        <desc lang="de">(DE) 2021 • S6 E39
+        Dr. Leyla Sherbaz ist völlig vor den Kopf gestoßen, als sie ihre Tochter Raya mit einer fremden Frau vor dem JTK sieht. Ben Ahlbeck hat nicht erzählt, dass er sich in Hamburg ein wenig Unterstützung geholt hat. Isabelle ist Rayas Babysitterin.</desc>
+        <credits>
+            <director>Peter Wekwerth</director>
+            <director>Susanne Boeing</director>
+            <actor>Roy Peter Link</actor>
+            <actor>Sanam Afrashteh</actor>
+            <actor>Mike Adler</actor>
+            <actor>Philipp Danne</actor>
+            <actor>Stefan Ruppe</actor>
+            <actor>Katharina Nesytowa</actor>
+            <producer>Jana Brandt</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p19743238_e_h10_aa_2021-04-15T22_36_34.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">5 . 38 . </episode-num>
+    </programme>
+
+    <programme start="20240503131000 +0000" stop="20240503140000 +0000" channel="WDR.de">
+        <title lang="de">In aller Freundschaft - Die jungen Ärzte (250)</title>
+        <sub-title lang="de">Hindernisse</sub-title>
+        <desc lang="de">(DE) 2021 • S6 E40
+        Die junge Feuerwehrfrau Mira Escher wurde bei einem Löscheinsatz schwer verletzt und ihr droht eine Lähmung halsabwärts. Dr. Theresa Koshka und Dr. Matteo Moreau übernehmen den Fall zusammen, sind sich aber uneinig über die realen Chancen von Mira.</desc>
+        <credits>
+            <director>Peter Wekwerth</director>
+            <director>Micaela Zschieschow</director>
+            <actor>Roy Peter Link</actor>
+            <actor>Sanam Afrashteh</actor>
+            <actor>Mike Adler</actor>
+            <actor>Philipp Danne</actor>
+            <actor>Stefan Ruppe</actor>
+            <actor>Katharina Nesytowa</actor>
+            <producer>Jana Brandt</producer>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p19782785_e_h10_aa_2022-01-21T13_28_52.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">5 . 39 . </episode-num>
+    </programme>
+
+    <programme start="20240503140000 +0000" stop="20240503141500 +0000" channel="WDR.de">
+        <title lang="de">WDR aktuell</title>
+        <sub-title lang="de">vom 03.05.2024, 16:00 Uhr</sub-title>
+        <desc lang="de">(DE) 2024
+        Das Sendung bietet Nachrichten für und aus Nordrhein-Westfalen im Magazinformat.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26291648_i_h10_aa_2024-01-02T12_23_30.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503141500 +0000" stop="20240503160000 +0000" channel="WDR.de">
+        <title lang="de">Hier und heute</title>
+        <desc lang="de">(DE) 2024
+        Im regionalen Nachrichtenmagazin steht der Alltag von Menschen in NRW im Mittelpunkt. Neben aktuellen Berichten aus der Region gibt es auch Zeitreisen in die Vergangenheit und für Zuschauer die Möglichkeit, mit Studiogästen in Kontakt zu treten.</desc>
+        <date>2024</date>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26270715_i_h8_aa_2024-01-02T14_03_11.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503160000 +0000" stop="20240503161500 +0000" channel="WDR.de">
+        <title lang="de">WDR aktuell / Lokalzeit</title>
+        <sub-title lang="de">vom 05.07.2021, 18:00 Uhr</sub-title>
+        <desc lang="de">(DE) 2021
+        Das Sendung bietet Nachrichten für und aus Nordrhein-Westfalen im Magazinformat.</desc>
+        <date>2021</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p19164928_i_h10_aa_2022-07-14T08_18_44.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503161500 +0000" stop="20240503164500 +0000" channel="WDR.de">
+        <title lang="de">Unsere eigene Farm</title>
+        <sub-title lang="de">Joana und Dominick - Milchkühe im Sauerland</sub-title>
+        <desc lang="de">(DE) 2023 • S3 E9
+        Die Reportage begleitet das junge Paar Dominick und Joana auf ihren Bauernhof mit über 180 Milchkühen bei Lüdenscheid. Ihr Sohn Hannes ist gerade auf die Welt gekommen und wirbelt den Alltag des Paares ganz schön durcheinander.</desc>
+        <date>2023</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Nature / Animals / Environment</category>
+        <category lang="de">Show / Game show</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/4/p24971270_e_h10_aa_2023-06-15T09_56_29.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">2 . 8 . </episode-num>
+    </programme>
+
+    <programme start="20240503164500 +0000" stop="20240503173000 +0000" channel="WDR.de">
+        <title lang="de">Aktuelle Stunde</title>
+        <desc lang="de">(DE) 2024
+        Regionales Infotainmentmagazin mit den aktuellsten Neuigkeiten aus Nordrhein-Westfalen, Deutschland und der Welt. Die Aktuelle Stunde bringt Themen und Geschichten, die die Menschen zwischen Rhein und Weser interessieren, bewegen und berühren.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26270597_i_h8_aa_2024-01-02T13_03_42.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503173000 +0000" stop="20240503180000 +0000" channel="WDR.de">
+        <title lang="de">Lokalzeit aus Köln</title>
+        <desc lang="de">(DE) 2024
+        Das Lokalzeit-Studio versorgt die Zuschauer mit Nachrichten und Berichten aus Köln.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11024414_i_h8_af_2023-08-29T07_34_04.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503180000 +0000" stop="20240503181500 +0000" channel="WDR.de">
+        <title lang="de">Tagesschau</title>
+        <sub-title lang="de">vom 03.05.2024, 20:00 Uhr</sub-title>
+        <desc lang="de">(DE) 2024
+        Diese Sendung berichtet über die aktuellsten und wichtigsten Nachrichten der Bundesrepublik.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26229056_i_h8_aa_2024-01-02T13_43_09.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503181500 +0000" stop="20240503190000 +0000" channel="WDR.de">
+        <title lang="de">100 Jahre Kölner Messe - Das Tor zur Welt</title>
+        <desc lang="de">(DE) 2024
+        Die Kölner Messe steht auf einem riesigen Gelände im Herzen von Köln. Seit jetzt einem Jahrhundert sind auf dem Handelsplatz prominente Persönlichkeiten zu Gast. Die Sendung erzählt zum 100-jährigen Jubiläum die Geschichte der Messe.</desc>
+        <credits>
+            <director>Jan Krebs</director>
+            <director>Jörg Levsen</director>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/7/p27165814_i_h8_aa_2024-04-26T07_14_12.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503190000 +0000" stop="20240503194500 +0000" channel="WDR.de">
+        <title lang="de">Wie NRW das Auto lieben lernte</title>
+        <desc lang="de">(DE) 2022
+        Wenn man in Deutschland über Autoindustrie spricht, dann redet man über Bayern, Baden-Württemberg und Niedersachsen. Aber das erste Auto für jedermann, kam aus Köln. Denn hier hatten sich die Pioniere der industriellen Autoproduktion angesiedelt.</desc>
+        <date>2022</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Education / Science / Factual topics</category>
+        <category lang="de">Motor sport</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/1/p21342201_i_h8_aa_2022-01-05T05_26_51.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503194500 +0000" stop="20240503200000 +0000" channel="WDR.de">
+        <title lang="de">WDR aktuell</title>
+        <sub-title lang="de">vom 03.05.2024, 21:45 Uhr</sub-title>
+        <desc lang="de">(DE) 2024
+        Das Sendung bietet Nachrichten für und aus Nordrhein-Westfalen im Magazinformat.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26291648_i_h10_aa_2024-01-02T12_23_30.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503200000 +0000" stop="20240503220000 +0000" channel="WDR.de">
+        <title lang="de">Kölner Treff</title>
+        <desc lang="de">(DE) 2024 E708
+        Zu Gast in der Sendung sind diesmal unter anderem die Schauspielerin Jutta Speidel, die Köchin Lea Linster, der Zauberer Marc Weide, der Adelsexperte Michael Begasse und die ehemalige Tennisprofispielerin Andrea Petković.</desc>
+        <date>2024</date>
+        <category lang="de">Talk show</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26369310_i_h8_aa_2024-01-10T04_43_20.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 707 . </episode-num>
+    </programme>
+
+    <programme start="20240503220000 +0000" stop="20240503233000 +0000" channel="WDR.de">
+        <title lang="de">Legendär - Eurovision Song Contest</title>
+        <desc lang="de">(DE) 2023
+        Die Zeitreise blickt zurück auf Höhepunkte des jährlich veranstalteten Schlagerwettbewerbs des "Eurovision Song Contest". Nicole gewann mit 17 Jahren für Deutschland und die Travestiekünstlerin Conchita Wurst gewann den Pokal für Österreich.</desc>
+        <date>2023</date>
+        <category lang="de">Music / Ballet / Dance</category>
+        <category lang="de">new media</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/4/p24477462_i_h8_ab_2023-04-18T22_45_32.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503233000 +0000" stop="20240504013000 +0000" channel="WDR.de">
+        <title lang="de">Kölner Treff</title>
+        <desc lang="de">(DE) 2024 E708
+        Zu Gast in der Sendung sind diesmal unter anderem die Schauspielerin Jutta Speidel, die Köchin Lea Linster, der Zauberer Marc Weide, der Adelsexperte Michael Begasse und die ehemalige Tennisprofispielerin Andrea Petković.</desc>
+        <date>2024</date>
+        <category lang="de">Talk show</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26369310_i_h8_aa_2024-01-10T04_43_20.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 707 . </episode-num>
+    </programme>
+
     <programme start="20240502000000 +0000" stop="20240502003000 +0000" channel="AnixePlus.de">
         <title lang="de">Kraftvoll Leben - Übersieh nicht deinen Segen</title>
         <sub-title lang="de">Lieben wie Jesus</sub-title>
@@ -7569,6 +8568,445 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/f75f815ea2d84187b25f52b2f4da48f3d224feca.png"/>
     </programme>
 
+    <programme start="20240501220500 +0000" stop="20240502000500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Eishockey - Svenska Hockeyligan - Finals</title>
+        <desc lang="de">
+        Der Pay-TV-Sender SPORT1+ hat mit der Svenska Hockeyligan (SHL) eine der besten Eishockey-Ligen der Welt im Programm. In der schwedischen Liga dreht sich alles um den begehrten Le Mat Pokal. Zum Meister krönte sich zuletzt Växjö Lakers mit dem deutschen Topspieler Tobias Rieder. Die Stärke der SHL zeigt sich auch in der europäischen Champions Hockey League (CHL), wo schwedische Teams in den vergangenen Jahren stets eine gewichtige Rolle spielten.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240502000500 +0000" stop="20240502010000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Bullriding</title>
+        <sub-title lang="de">PBR Everett, WA</sub-title>
+        <desc lang="de">(US) 2024 E17
+        In den USA zählt Bullriding zu den beliebtesten und spannendsten Sport- und Unterhaltungsveranstaltungen. Acht Sekunden muss sich der Cowboy auf dem Rücken des Stiers, der bis zu eine Tonne wiegen kann, halten.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <category lang="de">Adventure / Western / War</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/1/p215464_i_h10_aa_2021-11-18T04_36_21.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 16 . </episode-num>
+    </programme>
+
+    <programme start="20240502010000 +0000" stop="20240502032000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <sub-title lang="de">Toronto Blue Jays - Dodgers</sub-title>
+        <desc lang="de"> 2024
+        Aus dem Rogers Centre in Toronto, Kanada.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26152904_tb2_h8_ah_2024-04-04T01_15_10.jpg"/>
+    </programme>
+
+    <programme start="20240502032000 +0000" stop="20240502032500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2023 E40
+        'SPORT1 News' präsentiert die aktuellen Themen aus der Bundesliga und 2. Bundesliga, dem internationalen Fußball sowie aus weiteren populären Sportarten.</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/0/p10907597_i_h8_ae_2024-02-05T13_03_47.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 39 . </episode-num>
+    </programme>
+
+    <programme start="20240502032500 +0000" stop="20240502051500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Rugby - NRL Telstra Premiership</title>
+        <desc lang="de">
+        Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. Rugby ist in Australien Nationalsport – daher kommt es nicht von ungefähr, dass die NRL Telstra Premiership seit Jahren als die weltweit beste Rugby-Liga der Welt gilt. Die National Rugby League wird in der heutigen Form seit 1999 ausgetragen, die Ursprünge des traditionsreichen Wettbewerbs gehen allerdings bis 1908 zurück. Neben 16 australischen Teams ist mit den Warriors aus Auckland auch ein Vertreter aus Neuseeland in der Liga vertreten. Amtierender Champion sind die Penrith Panthers. SPORT1+ zeigt ausgewählte Spiele der NRL.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240502051500 +0000" stop="20240502052000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2023 E40
+        'SPORT1 News' präsentiert die aktuellen Themen aus der Bundesliga und 2. Bundesliga, dem internationalen Fußball sowie aus weiteren populären Sportarten.</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/0/p10907597_i_h8_ae_2024-02-05T13_03_47.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 39 . </episode-num>
+    </programme>
+
+    <programme start="20240502052000 +0000" stop="20240502065500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Rugby - NRL Telstra Premiership</title>
+        <desc lang="de">
+        Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. Rugby ist in Australien Nationalsport – daher kommt es nicht von ungefähr, dass die NRL Telstra Premiership seit Jahren als die weltweit beste Rugby-Liga der Welt gilt. Die National Rugby League wird in der heutigen Form seit 1999 ausgetragen, die Ursprünge des traditionsreichen Wettbewerbs gehen allerdings bis 1908 zurück. Neben 16 australischen Teams ist mit den Warriors aus Auckland auch ein Vertreter aus Neuseeland in der Liga vertreten. Amtierender Champion sind die Penrith Panthers. SPORT1+ zeigt ausgewählte Spiele der NRL.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240502065500 +0000" stop="20240502070000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2023 E40
+        'SPORT1 News' präsentiert die aktuellen Themen aus der Bundesliga und 2. Bundesliga, dem internationalen Fußball sowie aus weiteren populären Sportarten.</desc>
+        <date>2023</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/0/p10907597_i_h8_ae_2024-02-05T13_03_47.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 39 . </episode-num>
+    </programme>
+
+    <programme start="20240502070000 +0000" stop="20240502085000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Rugby - NRL Telstra Premiership</title>
+        <desc lang="de">
+        Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. Rugby ist in Australien Nationalsport – daher kommt es nicht von ungefähr, dass die NRL Telstra Premiership seit Jahren als die weltweit beste Rugby-Liga der Welt gilt. Die National Rugby League wird in der heutigen Form seit 1999 ausgetragen, die Ursprünge des traditionsreichen Wettbewerbs gehen allerdings bis 1908 zurück. Neben 16 australischen Teams ist mit den Warriors aus Auckland auch ein Vertreter aus Neuseeland in der Liga vertreten. Amtierender Champion sind die Penrith Panthers. SPORT1+ zeigt ausgewählte Spiele der NRL.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240502085000 +0000" stop="20240502094500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Rugby - NRL Telstra Premiership</title>
+        <desc lang="de">
+        Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. SPORT1+ zeigt das Highlightmagazin zu dem Wettbewerb.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240502094500 +0000" stop="20240502114500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Rugby Live - NRL Telstra Premiership</title>
+        <sub-title lang="de">South Sydney Rabbitohs - Penrith Panthers</sub-title>
+        <desc lang="de"> 2024
+        Aus dem Accor Stadium in Sydney, Australien.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26223774_tb2_h8_be_2023-12-02T07_20_08.jpg"/>
+    </programme>
+
+    <programme start="20240502114500 +0000" stop="20240502133000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Fußball - Jupiler Pro League</title>
+        <sub-title lang="de">KRC Genk - FC Brügge</sub-title>
+        <desc lang="de"> 2024
+        Aus der Cegeka Arena in Genk, Limburg, Belgien.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26951041_tb2_h8_ae_2024-04-10T07_58_09.jpg"/>
+    </programme>
+
+    <programme start="20240502133000 +0000" stop="20240502153500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Eishockey - Svenska Hockeyligan - Finals</title>
+        <desc lang="de">
+        Der Pay-TV-Sender SPORT1+ hat mit der Svenska Hockeyligan (SHL) eine der besten Eishockey-Ligen der Welt im Programm. In der schwedischen Liga dreht sich alles um den begehrten Le Mat Pokal. Zum Meister krönte sich zuletzt Växjö Lakers mit dem deutschen Topspieler Tobias Rieder. Die Stärke der SHL zeigt sich auch in der europäischen Champions Hockey League (CHL), wo schwedische Teams in den vergangenen Jahren stets eine gewichtige Rolle spielten. SPORt1+ zeigt das vierte Finalspiel.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240502153500 +0000" stop="20240502173500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Eishockey - Svenska Hockeyligan - Finals</title>
+        <desc lang="de">
+        Der Pay-TV-Sender SPORT1+ hat mit der Svenska Hockeyligan (SHL) eine der besten Eishockey-Ligen der Welt im Programm. In der schwedischen Liga dreht sich alles um den begehrten Le Mat Pokal. Zum Meister krönte sich zuletzt Växjö Lakers mit dem deutschen Topspieler Tobias Rieder. Die Stärke der SHL zeigt sich auch in der europäischen Champions Hockey League (CHL), wo schwedische Teams in den vergangenen Jahren stets eine gewichtige Rolle spielten.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240502173500 +0000" stop="20240502174000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240502174000 +0000" stop="20240502200000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <sub-title lang="de">Toronto Blue Jays - Dodgers</sub-title>
+        <desc lang="de"> 2024
+        Aus dem Rogers Centre in Toronto, Kanada.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26152904_tb2_h8_ah_2024-04-04T01_15_10.jpg"/>
+    </programme>
+
+    <programme start="20240502200000 +0000" stop="20240502200500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240502200500 +0000" stop="20240502221500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <sub-title lang="de">Boston Red Sox - Cubs</sub-title>
+        <desc lang="de"> 2024
+        Aus dem Fenway Park in Boston, Massachusetts, USA.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26152791_tb2_h8_aa_2023-11-23T19_35_32.jpg"/>
+    </programme>
+
+    <programme start="20240502221500 +0000" stop="20240502222000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240502222000 +0000" stop="20240503003000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <sub-title lang="de">Milwaukee Brewers - Tampa Bay Rays</sub-title>
+        <desc lang="de"> 2024
+        Aus dem American Family Field in Milwaukee, Wisconsin, USA.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26153259_tb2_h8_ab_2023-11-23T22_05_06.jpg"/>
+    </programme>
+
+    <programme start="20240503003000 +0000" stop="20240503003500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240503003500 +0000" stop="20240503010000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <sub-title lang="de">Highlightmagazin #4</sub-title>
+        <desc lang="de"> 2024
+        Aktueller Titelträger sind die Texas Rangers. Ausgewählte Partien der Rangers ebenso wie viele weitere Matches der Regular Season sind auf SPORT1+ zu sehen.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/3/p337570_i_h10_ac_2022-10-03T04_56_11.jpg"/>
+    </programme>
+
+    <programme start="20240503010000 +0000" stop="20240503025000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Volleyball - Bundesliga Finale</title>
+        <sub-title lang="de">Finale, Spiel 5: SSC Palmberg Schwerin - Allianz MTV Stuttgart</sub-title>
+        <desc lang="de"> 2024
+        Wer krönt sich zum deutschen Meister in der Volleyball Bundesliga der Frauen 2024? Der Showdown in Schwerin in Spiel 5.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/7/p27132684_tb2_h8_ab_2024-04-24T12_48_58.jpg"/>
+    </programme>
+
+    <programme start="20240503025000 +0000" stop="20240503050500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <sub-title lang="de">Toronto Blue Jays - Dodgers</sub-title>
+        <desc lang="de"> 2024
+        Aus dem Rogers Centre in Toronto, Kanada.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26152904_tb2_h8_ah_2024-04-04T01_15_10.jpg"/>
+    </programme>
+
+    <programme start="20240503050500 +0000" stop="20240503051000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240503051000 +0000" stop="20240503060500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Rugby - NRL Telstra Premiership</title>
+        <desc lang="de">
+        Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. SPORT1+ zeigt das Highlightmagazin zu dem Wettbewerb.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240503060500 +0000" stop="20240503075000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Rugby - NRL Telstra Premiership</title>
+        <desc lang="de">
+        Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. Neben der Hauptrunde der NRL Telstra Premiership gibt es auch die Finals und das Grand Final Anfang Oktober zum krönenden Abschluss live auf dem Pay-TV-Sender zu sehen. Rugby ist in Australien Nationalsport – daher kommt es nicht von ungefähr, dass die NRL Telstra Premiership seit Jahren als die weltweit beste Rugby-Liga der Welt gilt. Die National Rugby League wird in der heutigen Form seit 1999 ausgetragen, die Ursprünge des traditionsreichen Wettbewerbs gehen allerdings bis 1908 zurück. Neben 16 australischen Teams ist mit den Warriors aus Auckland auch ein Vertreter aus Neuseeland in der Liga vertreten. Amtierender Champion sind die Penrith Panthers. Nun zeigt SPORT1+ ihre Partie gegen die Sydney Rabbitohs.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240503075000 +0000" stop="20240503075500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240503075500 +0000" stop="20240503095500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Rugby Live - NRL Telstra Premiership</title>
+        <sub-title lang="de">Manly-Warringah Sea Eagles - Canberra Raiders</sub-title>
+        <desc lang="de"> 2024
+        Aus dem 4 Pines Park in Brookvale, New South Wales, Australien.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26223777_tb2_h8_an_2023-12-02T07_25_58.jpg"/>
+    </programme>
+
+    <programme start="20240503095500 +0000" stop="20240503115500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Rugby Live - NRL Telstra Premiership</title>
+        <sub-title lang="de">Brisbane Broncos - Sydney Roosters</sub-title>
+        <desc lang="de"> 2024
+        Aus dem Suncorp Stadium in Milton, Australien.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26223783_tb2_h8_ac_2023-12-02T07_21_05.jpg"/>
+    </programme>
+
+    <programme start="20240503115500 +0000" stop="20240503120000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240503120000 +0000" stop="20240503134500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Fußball - Jupiler Pro League</title>
+        <sub-title lang="de">KSV Cercle Brügge - RSC Anderlecht</sub-title>
+        <desc lang="de"> 2024
+        Aus dem Jan Breydel-Stadion in Brügge, Belgien.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26951054_tb2_h8_ae_2024-04-10T07_58_09.jpg"/>
+    </programme>
+
+    <programme start="20240503134500 +0000" stop="20240503154000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Eishockey - Svenska Hockeyligan - Finals</title>
+        <desc lang="de">
+        Der Pay-TV-Sender SPORT1+ hat mit der Svenska Hockeyligan (SHL) eine der besten Eishockey-Ligen der Welt im Programm. In der schwedischen Liga dreht sich alles um den begehrten Le Mat Pokal. Zum Meister krönte sich zuletzt Växjö Lakers mit dem deutschen Topspieler Tobias Rieder. Die Stärke der SHL zeigt sich auch in der europäischen Champions Hockey League (CHL), wo schwedische Teams in den vergangenen Jahren stets eine gewichtige Rolle spielten. SPORt1+ zeigt das vierte Finalspiel.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240503154000 +0000" stop="20240503173500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Eishockey - Svenska Hockeyligan - Finals</title>
+        <desc lang="de">
+        Der Pay-TV-Sender SPORT1+ hat mit der Svenska Hockeyligan (SHL) eine der besten Eishockey-Ligen der Welt im Programm. In der schwedischen Liga dreht sich alles um den begehrten Le Mat Pokal. Zum Meister krönte sich zuletzt Växjö Lakers mit dem deutschen Topspieler Tobias Rieder. Die Stärke der SHL zeigt sich auch in der europäischen Champions Hockey League (CHL), wo schwedische Teams in den vergangenen Jahren stets eine gewichtige Rolle spielten.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240503173500 +0000" stop="20240503174000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240503174000 +0000" stop="20240503181000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <sub-title lang="de">Highlightmagazin #5</sub-title>
+        <desc lang="de"> 2024
+        Aktueller Titelträger sind die Texas Rangers, deren Partien, neben vielen anderen, auf SPORT1+ zu sehen sein werden. SPORT1+ zeigt das Highlightmagazin zu der Liga.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/3/p337570_i_h10_ac_2022-10-03T04_56_11.jpg"/>
+    </programme>
+
+    <programme start="20240503181000 +0000" stop="20240503181500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240503181500 +0000" stop="20240503210000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball Live - MLB Regular Season</title>
+        <sub-title lang="de">Cubs - Milwaukee Brewers</sub-title>
+        <desc lang="de"> 2024
+        Aus dem Wrigley Field in Chicago, Illinois, USA.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26153480_tb2_h8_ac_2023-11-23T22_50_51.jpg"/>
+    </programme>
+
+    <programme start="20240503210000 +0000" stop="20240503210500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240503210500 +0000" stop="20240503220000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Motorsport - NASCAR Cup Series</title>
+        <sub-title lang="de">Highlightmagazin, Dover</sub-title>
+        <desc lang="de"> 2024
+        Die NASCAR Cup Series ist die Königsklasse der drei landesweiten Ligen der NASCAR (National Association for Stock Car Auto Racing; gegründet 1949). SPORT!+ zeigt das Highlightmagazin.</desc>
+        <date>2024</date>
+        <category lang="de">Motor sport</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/8/9/p8929377_i_h8_aa_2020-04-16T05_00_10.jpg"/>
+    </programme>
+
+    <programme start="20240503220000 +0000" stop="20240503223000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <sub-title lang="de">Highlightmagazin #4</sub-title>
+        <desc lang="de"> 2024
+        Aktueller Titelträger sind die Texas Rangers. Ausgewählte Partien der Rangers ebenso wie viele weitere Matches der Regular Season sind auf SPORT1+ zu sehen.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/3/p337570_i_h10_ac_2022-10-03T04_56_11.jpg"/>
+    </programme>
+
+    <programme start="20240503223000 +0000" stop="20240503223500 +0000" channel="SPORT1Plus.de">
+        <title lang="de">SPORT1 News</title>
+        <desc lang="de">(DE) 2024 E127
+        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
+        <date>2024</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+    </programme>
+
+    <programme start="20240503223500 +0000" stop="20240504010000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball Live - MLB Regular Season</title>
+        <sub-title lang="de">Pirates - Colorado Rockies</sub-title>
+        <desc lang="de"> 2024
+        Aus dem PNC Park in Pittsburgh, USA.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26153539_tb2_h8_ah_2024-04-04T02_59_27.jpg"/>
+    </programme>
+
     <programme start="20240502000000 +0000" stop="20240502010000 +0000" channel="Jukebox.de">
         <title lang="de">ROCK</title>
         <desc lang="de">(DE) 2014
@@ -7736,102 +9174,6 @@
         <category lang="de">Music / Ballet / Dance</category>
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/1/p11968990_i_h10_ab_2023-01-13T11_26_20.jpg"/>
         <country>DE</country>
-    </programme>
-
-    <programme start="20240502000000 +0000" stop="20240502040000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240502040000 +0000" stop="20240502080000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240502080000 +0000" stop="20240502120000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240502120000 +0000" stop="20240502160000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240502160000 +0000" stop="20240502200000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240502200000 +0000" stop="20240503000000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240503000000 +0000" stop="20240503040000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240503040000 +0000" stop="20240503080000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240503080000 +0000" stop="20240503120000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240503120000 +0000" stop="20240503160000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240503160000 +0000" stop="20240503200000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
-    </programme>
-
-    <programme start="20240503200000 +0000" stop="20240504000000 +0000" channel="MagentaSport">
-        <title lang="de">MagentaSport Programmübersicht</title>
-        <desc lang="de"> 2021
-        Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
-        <date>2021</date>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20360120_i_h10_ae_2022-06-03T15_04_03.jpg"/>
     </programme>
 
     <programme start="20240501230500 +0000" stop="20240502004000 +0000" channel="BRNord.de">
@@ -28756,6 +30098,327 @@
         <desc lang="de">
         Hier wird nicht mehr gesendet – auf deinen neuen Sky Cinema Sendern geht es mit geballter Power weiter. Mehr Infos unter: sky.de/hilfe</desc>
         <icon src="http://ngiss.t-online.de/cm1s/media/1cb358b2d9bc4619d50182011b5ee522b0707488.png"/>
+    </programme>
+
+    <programme start="20240502000000 +0000" stop="20240502003000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Fußball: scooore Niederlande! Alle Tore</title>
+        <sub-title lang="de">31. Spieltag</sub-title>
+        <desc lang="de">(DE) 2024
+        scooore Niederlande! Alle Tore.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/3/p23894882_i_h8_ab_2023-08-14T13_23_49.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502003000 +0000" stop="20240502012500 +0000" channel="Sky Sport Top Event">
+        <title lang="de">PGA Tour Champions: Highlights Mitsubishi Electric Classic</title>
+        <desc lang="de">(DE) 2024
+        In der Serie wird auf die verschiedenen Stationen der PGA Tour Champions zurückgeblickt.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16866556_i_h8_aa_2019-06-26T14_20_37.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502012500 +0000" stop="20240502014000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">NHL: Highlights NYI@CAR, Playoffs, 1. Runde, Spiel 5</title>
+        <desc lang="de">(US) 2024 E432
+        Höhepunkte aus der NHL.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/4/4/p448880_i_h8_ah_2019-05-14T15_01_02.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 431 . </episode-num>
+    </programme>
+
+    <programme start="20240502014000 +0000" stop="20240502020000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">NHL: Highlights COL@WPG, Playoffs, 1. Runde, Spiel 5</title>
+        <desc lang="de">(US) 2024 E433
+        Höhepunkte aus der NHL.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/4/4/p448880_i_h8_ah_2019-05-14T15_01_02.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 432 . </episode-num>
+    </programme>
+
+    <programme start="20240502020000 +0000" stop="20240502050000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live NHL: Edmonton Oilers - Los Angeles Kings, Playoffs, 1. Runde, Spiel 5</title>
+        <desc lang="de"> 2024
+        Aus dem Rogers Place in Edmonton, Alberta, Kanada.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26941934_tb2_h8_ac_2024-04-22T10_19_33.jpg"/>
+    </programme>
+
+    <programme start="20240502050000 +0000" stop="20240502100000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live Golf: Volvo China Open, 1. Tag in Shenzhen (China)</title>
+        <desc lang="de"> 2024
+        From Hidden Grace GC in Shenzhen, Guangdong, China.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20993758_i_h8_ac_2022-04-26T15_48_27.jpg"/>
+    </programme>
+
+    <programme start="20240502100000 +0000" stop="20240502110000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">3. Liga: Alle Spiele, alle Tore, 35. Spieltag komplett</title>
+        <desc lang="de">(DE) 2024
+        Das Beste vom Spieltag: Sky zeigt alle Spiele und alle Tore vom Spieltag der 3. Liga.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/5/p25281504_i_h8_aa_2023-07-26T12_33_55.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240502110000 +0000" stop="20240502130000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">ATP 1000: C. Alcaraz (ESP) - A. Rublev, Mutua Madrid Open in Madrid (Spanien), Viertelfinale 1</title>
+        <desc lang="de">
+        Aufschlag in Madrid: Welcher Tennis-Star setzt sich beim 1000er-Turnier der ATP &amp; WTA gegen die Konkurrenz durch? Kommentar: U.a. Stefan Hempel, Julian Jander &amp; Paul Häuser.</desc>
+        <icon src="http://ngiss.t-online.de/cm1s/media/ec4dbb472348c5652000ea39c786a08e103298ec.png"/>
+    </programme>
+
+    <programme start="20240502130000 +0000" stop="20240502140000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">ATP 1000: Review Monte-Carlo</title>
+        <desc lang="de"> 2024
+        Tennis der Extraklasse: Der Rückblick auf das ATP-Turnier in Monte-Carlo.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/9/7/p9786177_i_h10_af_2022-05-14T04_37_49.jpg"/>
+    </programme>
+
+    <programme start="20240502140000 +0000" stop="20240502160000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live WTA 1000: I. Swiatek (POL) - M. Keys (USA), Mutua Madrid Open in Madrid (Spanien), Halbfinale 1</title>
+        <desc lang="de">
+        Aufschlag in Madrid: Welcher Tennis-Star setzt sich beim 1000er-Turnier der ATP &amp; WTA gegen die Konkurrenz durch? Kommentar: U.a. Stefan Hempel, Julian Jander &amp; Paul Häuser.</desc>
+        <icon src="http://ngiss.t-online.de/cm1s/media/ec4dbb472348c5652000ea39c786a08e103298ec.png"/>
+    </programme>
+
+    <programme start="20240502160000 +0000" stop="20240502182000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live Golf: The CJ Cup Byron Nelson, 1. Tag (Early Coverage)</title>
+        <desc lang="de"> 2024
+        Von der TPC Craig Ranch in McKinney, Texas, USA.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/8/4/p845788_i_h10_ad_2022-05-05T12_57_36.jpg"/>
+    </programme>
+
+    <programme start="20240502182000 +0000" stop="20240502203000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live PL: FC Chelsea - Tottenham Hotspur, Nachholspiel vom 26. Spieltag</title>
+        <desc lang="de"> 2024
+        Aus dem Stamford Bridge Stadion in London, Großbritannien.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/5/p25015721_e_h10_aa_2024-01-26T10_32_56.jpg"/>
+    </programme>
+
+    <programme start="20240502203000 +0000" stop="20240502220000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live WTA 1000: E. Rybakina (KAZ) - A. Sabalenka, Mutua Madrid Open in Madrid (Spanien), Halbfinale 2</title>
+        <desc lang="de">
+        Aufschlag in Madrid: Welcher Tennis-Star setzt sich beim 1000er-Turnier der ATP &amp; WTA gegen die Konkurrenz durch? Kommentar: U.a. Stefan Hempel, Julian Jander &amp; Paul Häuser.</desc>
+        <icon src="http://ngiss.t-online.de/cm1s/media/ec4dbb472348c5652000ea39c786a08e103298ec.png"/>
+    </programme>
+
+    <programme start="20240502220000 +0000" stop="20240502230000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live Golf: The CJ Cup Byron Nelson, 1. Tag in McKinney, Texas (USA)</title>
+        <desc lang="de"> 2024
+        Von der TPC Craig Ranch in McKinney, Texas, USA.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/8/4/p845788_i_h10_ad_2022-05-05T12_57_36.jpg"/>
+    </programme>
+
+    <programme start="20240502230000 +0000" stop="20240502233000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">PL: The Big Interview (Alisson)</title>
+        <sub-title lang="de">Alisson Becker</sub-title>
+        <desc lang="de"> 2024 • S23 E38
+        Liverpools Alisson Becker und der ehemalige brasilianische Torwart Claudio Taffarel sehen sich einige von Alissons besten Paraden an und analysieren seine Entscheidungsfindung und Trainingsdisziplinen.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/5/p25304363_i_h10_ab_2023-11-01T12_53_46.jpg"/>
+        <episode-num system="xmltv_ns">22 . 37 . </episode-num>
+    </programme>
+
+    <programme start="20240502233000 +0000" stop="20240503000000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">PL: The Big Interview (Alexander Isak)</title>
+        <desc lang="de"> 2024
+        Große Persönlichkeiten der Premier League stellen sich in The Big Interview spannenden Fragen.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/2/p22616464_i_h10_ae_2023-11-01T12_53_46.jpg"/>
+    </programme>
+
+    <programme start="20240503000000 +0000" stop="20240503030000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live NHL: Toronto Maple Leafs - Boston Bruins, Playoffs, 1. Runde, Spiel 6</title>
+        <desc lang="de"> 2024
+        Aus der Scotiabank Arena in Toronto, Kanada.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26941944_tb2_h8_ae_2024-05-01T10_18_50.jpg"/>
+    </programme>
+
+    <programme start="20240503030000 +0000" stop="20240503033000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Golf: One Shot Away (1)</title>
+        <desc lang="de"> 2024 • S5 E1
+        Die Serie berichtet über Korn Ferry Profi-Golfer, die von einem Aufstieg in die PGA-Tour träumen.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/8/p18735412_i_h10_ad_2022-05-18T06_46_32.jpg"/>
+        <episode-num system="xmltv_ns">4 . 0 . </episode-num>
+    </programme>
+
+    <programme start="20240503033000 +0000" stop="20240503040000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">PL: PL Stories: Hall Of Fame 2024</title>
+        <sub-title lang="de">Hall of Fame 2024 Inductees</sub-title>
+        <desc lang="de">(GB) 2024 • S3 E48
+        PL Stories stellt die Persönlichkeiten vor, die die Premier League Geschichte geprägt haben.</desc>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/7/p27173071_e_h8_aa_2024-04-29T03_12_56.jpg"/>
+        <country>GB</country>
+        <episode-num system="xmltv_ns">2 . 47 . </episode-num>
+    </programme>
+
+    <programme start="20240503040000 +0000" stop="20240503043000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">BL: Bundesliga Weekly</title>
+        <desc lang="de">
+        Das wöchentliche Magazin mit Themen rund um die Bundesliga. "Bundesliga Weekly" liefert einen Einblick in die Welt der höchsten deutschen Fußball-Liga.</desc>
+        <icon src="http://ngiss.t-online.de/cm1s/media/ec4dbb472348c5652000ea39c786a08e103298ec.png"/>
+    </programme>
+
+    <programme start="20240503043000 +0000" stop="20240503050000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Fußball: BVB-Herstory - Der Dortmunder Weg nach oben</title>
+        <desc lang="de">
+        Seit ein paar Jahren hat auch der BVB eine Abteilung für Frauen- und Mädchenfußball. Wie schlägt sich das Team in der Liga und welche Ziele werden gesetzt? Sky blickt auf den bisherigen Weg nach oben.</desc>
+        <icon src="http://ngiss.t-online.de/cm1s/media/ec4dbb472348c5652000ea39c786a08e103298ec.png"/>
+    </programme>
+
+    <programme start="20240503050000 +0000" stop="20240503100000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live Golf: Volvo China Open, 2. Tag in Shenzhen (China)</title>
+        <desc lang="de"> 2024
+        Vom Hidden Grace GC in Shenzhen, China.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20993758_i_h8_ac_2022-04-26T15_48_27.jpg"/>
+    </programme>
+
+    <programme start="20240503100000 +0000" stop="20240503101500 +0000" channel="Sky Sport Top Event">
+        <title lang="de">F1: Top 10 Onboards: GP China</title>
+        <desc lang="de">(DE) 2024
+        Sky Sport F1 präsentiert die Top 10 Onboards der bisherigen Saisonrennen. Die besten Rennsituationen direkt aus der Fahrer-Perspektive. In dieser Ausgabe: GP China 2024.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20776275_i_h10_aa_2021-10-08T03_27_22.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503101500 +0000" stop="20240503104500 +0000" channel="Sky Sport Top Event">
+        <title lang="de">BL: Best of April</title>
+        <desc lang="de">(DE) 2024
+        Übertragungen der Höhepunkte und Zusammenfassungen aus der 1. deutschen Bundesliga.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/7/9/p7956966_i_h10_ad_2022-02-28T08_56_32.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503104500 +0000" stop="20240503111500 +0000" channel="Sky Sport Top Event">
+        <title lang="de">BL: Achterbahn Abstiegskampf (1)</title>
+        <desc lang="de">(DE) 2024 • S1 E1
+        Packende Themen rund um die Bundesliga. Der Bundesliga Report. Diesmal im Fokus: Der packende Abstiegskampf in der Bundesliga.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote_genres/g199_h10_aa.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+    </programme>
+
+    <programme start="20240503111500 +0000" stop="20240503114500 +0000" channel="Sky Sport Top Event">
+        <title lang="de">BL: Achterbahn Abstiegskampf (2)</title>
+        <desc lang="de">(DE) 2024 • S1 E2
+        Packende Themen rund um die Bundesliga. Der Bundesliga Report. Diesmal im Fokus: Der packende Abstiegskampf in der Bundesliga.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote_genres/g199_h10_aa.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+    </programme>
+
+    <programme start="20240503114500 +0000" stop="20240503140000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live Golf: The CJ Cup Byron Nelson, 2. Tag (Early Coverage)</title>
+        <desc lang="de"> 2024
+        From TPC Craig Ranch in McKinney, Texas.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/8/4/p845788_i_h10_ad_2022-05-05T12_57_36.jpg"/>
+    </programme>
+
+    <programme start="20240503140000 +0000" stop="20240503154500 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live ATP 1000: Halbfinale, Mutua Madrid Open in Madrid (Spanien), Halbfinale 1</title>
+        <desc lang="de"> 2024
+        Aufschlag in Madrid: Welcher Tennis-Star setzt sich beim 1000er-Turnier der ATP &amp; WTA gegen die Konkurrenz durch? Kommentar: U.a. Stefan Hempel, Julian Jander &amp; Paul Häuser.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26486627_i_h8_aa_2024-03-18T16_43_35.jpg"/>
+    </programme>
+
+    <programme start="20240503154500 +0000" stop="20240503183000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live 2. BL: Freitags-Konferenz, 32. Spieltag</title>
+        <desc lang="de">(DE) 2024
+        Übertragung der Freitagskonferenz der 2. Bundesliga.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/9/7/p9796960_b_h10_ai_2023-10-19T11_23_43.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503183000 +0000" stop="20240503200000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live 2. BL Alle Spiele, alle Tore: 32. Spieltag, Freitag</title>
+        <desc lang="de">(DE) 2024
+        Alle Spiele, alle Tore aus der 2. Bundesliga.</desc>
+        <date>2024</date>
+        <category lang="de">Football / Soccer</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/5/p25234502_i_h10_aa_2023-08-14T14_04_18.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503200000 +0000" stop="20240503201500 +0000" channel="Sky Sport Top Event">
+        <title lang="de">F1: Top 10 Onboards: GP China</title>
+        <desc lang="de">(DE) 2024
+        Sky Sport F1 präsentiert die Top 10 Onboards der bisherigen Saisonrennen. Die besten Rennsituationen direkt aus der Fahrer-Perspektive. In dieser Ausgabe: GP China 2024.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20776275_i_h10_aa_2021-10-08T03_27_22.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20240503201500 +0000" stop="20240503214500 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live F1: Sprint Qualifying - GP Miami</title>
+        <sub-title lang="de">GP Miami: Sprint Qualifying</sub-title>
+        <desc lang="de"> 2024
+        Vom Miami International Autodrome in Miami Gardens, Florida, USA.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/6/9/p691060_i_h8_az_2022-07-15T18_52_32.jpg"/>
+    </programme>
+
+    <programme start="20240503214500 +0000" stop="20240503230000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live Golf: The CJ Cup Byron Nelson, 2. Tag in McKinney, Texas (USA)</title>
+        <desc lang="de"> 2024
+        From TPC Craig Ranch in McKinney, Texas.</desc>
+        <date>2024</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/8/4/p845788_i_h10_ad_2022-05-05T12_57_36.jpg"/>
+    </programme>
+
+    <programme start="20240503230000 +0000" stop="20240504020000 +0000" channel="Sky Sport Top Event">
+        <title lang="de">Live NHL: Topspiel</title>
+        <desc lang="de"> 2008
+        Die Reihe überträgt aktuelle Spiele der nordamerikanischen Eishockey Liga NHL.</desc>
+        <date>2008</date>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/9/p191278_i_h8_an_2023-01-17T20_26_13.jpg"/>
     </programme>
 
 </tv>

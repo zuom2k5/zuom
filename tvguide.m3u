@@ -28,3 +28,8 @@ plugin://plugin.video.vavooto/?name=NICKELODEON
 #EXTINF:-1 tvg-id="DE: MDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MDR_Sachsen-Anhalt_Logo_2017.svg/300px-MDR_Sachsen-Anhalt_Logo_2017.svg.png",MDR SA
 plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 
+#EXTINF:-1 tvg-id="DE: SPORT1 PLUS" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Logo_Sport1%2B_2013.svg/600px-Logo_Sport1%2B_2013.svg.png",Sport1+
+plugin://plugin.video.vavooto/?name=SPORT1%2B
+#EXTINF:-1 tvg-id="Sky Sport Top Event" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/768px-Sky_Sport_Top_Event_Logo_2022.svg.png",Sky Sport TOP EVENT
+plugin://plugin.video.vavooto/?name=S.+SPORT+TOP+EVENT
+
