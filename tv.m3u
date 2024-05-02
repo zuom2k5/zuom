@@ -296,3 +296,7 @@ plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+2
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+3
 #EXTINF:-1 tvg-id="RTL+ Sport Event 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 4
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+4
+#EXTINF:-1 tvg-id="DE: Nick Junior" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick JR
+plugin://plugin.video.vavooto/?name=NICK+JUNIOR
+#EXTINF:-1 tvg-id="DE: Nickelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
+plugin://plugin.video.vavooto/?name=NICKELODEON
