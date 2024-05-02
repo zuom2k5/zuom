@@ -45,12 +45,12 @@ plugin://plugin.video.vavooto/?name=SKY+SELECT+9
 #EXTINF:-1 tvg-id="DE: Sky Select 10" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 10
 plugin://plugin.video.vavooto/?name=SKY+SELECT+10
 
-#EXTINF:-1 tvg-id="DE: SKY+POPCORN+SELECT+1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Popcorn Select 1
+#EXTINF:-1 tvg-id="DE: SKY+POPCORN+SELECT+1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select Popcorn 1
 plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+1
-#EXTINF:-1 tvg-id="DE: SKY+POPCORN+SELECT+2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Popcorn Select 2
-plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+2
-#EXTINF:-1 tvg-id="DE: SKY+POPCORN+SELECT+3" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Popcorn Select 3
+#EXTINF:-1 tvg-id="DE: SKY+POPCORN+SELECT+3" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select Popcorn 3
 plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+3
+#EXTINF:-1 tvg-id="DE: SKY+POPCORN+SELECT+4" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select Popcorn 4
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+4
 
 
 
