@@ -114,7 +114,7 @@ plugin://plugin.video.vavooto/?name=SKY+1
 #EXTINF:-1 tvg-id="DE: Sky Replay" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Sky_Replay_logo_2020.svg/768px-Sky_Replay_logo_2020.svg.png?20231125051026",Sky Replay
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
 #EXTINF:-1 tvg-id="DE: Anixe Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ANIXE_HD_SERIE_Logo_2016.svg/800px-ANIXE_HD_SERIE_Logo_2016.svg.png",Anixe Serie
-plugin://plugin.video.vavooto/?name=SONY CHANNEL
+plugin://plugin.video.vavooto/?name=ANIXE+SERIE
 #EXTINF:-1 tvg-id="DE: Spiegel TV Wissen" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Spiegel_TV_Wissen_Logo_2016.png",Spiegel TV Wissen
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="DE: SPORT1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sport-1-Logo%2C_2013.svg/1200px-Sport-1-Logo%2C_2013.svg.png",Sport 1
@@ -236,3 +236,5 @@ plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
 
 #EXTINF:-1 tvg-id="DE: NICKTOONS" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png",Nicktoons
 plugin://plugin.video.vavooto/?name=NICKTOONS
+#EXTINF:-1 tvg-id="DE: MDR+Sachsen+Anhalt" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MDR_Sachsen-Anhalt_Logo_2017.svg/300px-MDR_Sachsen-Anhalt_Logo_2017.svg.png",MDR
+plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT

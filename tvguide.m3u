@@ -4,8 +4,6 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
 #EXTINF:-1 tvg-id="Jukebox" group-title="Musik" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
 plugin://plugin.video.vavooto/?name=JUKEBOX
-#EXTINF:-1 tvg-id="DE: MDR+Sachsen+Anhalt" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MDR_Sachsen-Anhalt_Logo_2017.svg/300px-MDR_Sachsen-Anhalt_Logo_2017.svg.png",MDR
-plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 #EXTINF:-1 tvg-id="PULS 4" group-title="ORF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1052.png",PULS 4
 plugin://plugin.video.vavooto/?name=PULS+4
 #EXTINF:-1 tvg-id="DE: Sky Cinema Best Of" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sky_Cinema_Best_Of_DE_Logo_2020.svg/512px-Sky_Cinema_Best_Of_DE_Logo_2020.svg.png",Sky Cinema Best of
