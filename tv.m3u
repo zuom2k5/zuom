@@ -279,7 +279,7 @@ plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+3
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+4
 #EXTINF:-1 tvg-id="DE: Nick Jr." group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick JR
 plugin://plugin.video.vavooto/?name=NICK+JUNIOR
-#EXTINF:-1 tvg-id="DE: Nickelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
+#EXTINF:-1 tvg-id="DE: Nick" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
 
 #EXTINF:-1 tvg-id="DE: Romance TV" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/1280px-Romance_TV_Logo_10.2019.svg.png",Romance TV
