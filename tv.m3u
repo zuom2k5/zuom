@@ -285,7 +285,10 @@ plugin://plugin.video.vavooto/?name=NICK+JUNIOR
 #EXTINF:-1 tvg-id="DE: Nickelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
 
-#EXTINF:-1 tvg-id="DE: Romance TV" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Romance TV
+#EXTINF:-1 tvg-id="DE: Romance TV" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/1280px-Romance_TV_Logo_10.2019.svg.png",Romance TV
 plugin://plugin.video.vavooto/?name=ROMANCE+TV
+
+#EXTINF:-1 tvg-id="DE: Cartoonito" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
+plugin://plugin.video.vavooto/?name=CARTOONITO
 
 
