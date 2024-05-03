@@ -221,7 +221,7 @@ plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 plugin://plugin.video.vavooto/?name=WDR
 #EXTINF:-1 tvg-id="E! Entertainment" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/E%21_Logo.png/480px-E%21_Logo.png",E! ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
-#EXTINF:-1 tvg-id="DE: Sky Cinema Premieren" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/512px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png",Sky Cinema Premieren
+#EXTINF:-1 tvg-id="DE: Sky Cinema Premiere" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Cinema_Premieren_DE_Logo_2020.svg/512px-Sky_Cinema_Premieren_DE_Logo_2020.svg.png",Sky Cinema Premiere
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 
 #EXTINF:-1 tvg-id="Magenta 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 1
@@ -268,8 +268,6 @@ plugin://plugin.video.vavooto/?name=SKY+SELECT+7
 plugin://plugin.video.vavooto/?name=RAKUTEN+COMEDY+MOVIES
 #EXTINF:-1 tvg-id="DE: Rakuten Action Movies" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Action Movies
 plugin://plugin.video.vavooto/?name=RAKUTEN+ACTION+MOVIES
-#EXTINF:-1 tvg-id="DE: Sky Cinema" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/768px-Sky_Cinema_-_Logo_2020.svg.png",Sky Cinema
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+1
 #EXTINF:-1 tvg-id="DE: Sky Cinema Family" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 #EXTINF:-1 tvg-id="DE: Sky Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/768px-Sky_Serie.svg.png",Sky Serie
