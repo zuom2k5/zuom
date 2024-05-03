@@ -219,7 +219,7 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 #EXTINF:-1 tvg-id="DE: WDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
-#EXTINF:-1 tvg-id="E! Entertainment" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/E%21_Logo.png/480px-E%21_Logo.png",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="DE E! Entertainment" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/E%21_Logo.png/480px-E%21_Logo.png",E! ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=E!+ENTERTAINMENT
 
 
