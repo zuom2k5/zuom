@@ -115,7 +115,7 @@ plugin://plugin.video.vavooto/?name=SKY+1
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
 #EXTINF:-1 tvg-id="DE: Anixe Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ANIXE_HD_SERIE_Logo_2016.svg/800px-ANIXE_HD_SERIE_Logo_2016.svg.png",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE+SERIE
-#EXTINF:-1 tvg-id="DE: Spiegel TV Wissen" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Spiegel_TV_Wissen_Logo_2016.png",Spiegel TV Wissen
+#EXTINF:-1 tvg-id="DE: Spiegel TV Wissen" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Spiegel_TV_Wissen_Logo_2016.png",Spiegel TV Wissen ist aktuell Offline
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="DE: SPORT1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sport-1-Logo%2C_2013.svg/1200px-Sport-1-Logo%2C_2013.svg.png",Sport 1
 plugin://plugin.video.vavooto/?name=SPORT1
