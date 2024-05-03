@@ -283,11 +283,11 @@ plugin://plugin.video.vavooto/?name=ROMANCE+TV
 #EXTINF:-1 tvg-id="DE: Nickelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
 
-#EXTINF:-1 tvg-id="DE: Tagesschau 24" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/452px-Tagesschau24-2012.svg.png",ARD Tagesschau 24
+#EXTINF:-1 tvg-id="DE: Tagesschau 24" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png",ARD Tagesschau 24
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 
-#EXTINF:-1 tvg-id="DE: Prime Video 2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",AMAZON PrimeVideo 2
+#EXTINF:-1 tvg-id="DE: Prime Video 2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 2
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+2
-#EXTINF:-1 tvg-id="DE: Prime Video 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",AMAZON PrimeVideo 1
+#EXTINF:-1 tvg-id="DE: Prime Video 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 1
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+1
 
