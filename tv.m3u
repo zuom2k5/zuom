@@ -11,6 +11,8 @@ plugin://plugin.video.vavooto/?name=AXN
 plugin://plugin.video.vavooto/?name=ARTE
 #EXTINF:-1 tvg-id="DE: Auto Motor und Sport" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png",Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 tvg-id="DE: Spiegel Wissen" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Spiegel_TV_Wissen_Logo_2016.png",Spiegel TV Wissen -OFFLINE-
+plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="DE: Cartoon Network" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/800px-Cartoon_Network_logo_%281992-2010%29.svg.png",Cartoon Network
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="DE: Comedy Central" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png",Comedy Central
