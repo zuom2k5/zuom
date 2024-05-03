@@ -38,7 +38,7 @@ plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="DE: History" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png",History
 plugin://plugin.video.vavooto/?name=HISTORY
 #EXTINF:-1 tvg-id="DE: Kabel Eins" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/800px-Kabel_eins_Logo_2015.svg.png",Kabel 1
-plugin://plugin.video.vavooto/?name=KABEL 1
+plugin://plugin.video.vavooto/?name=KABEL+1
 #EXTINF:-1 tvg-id="DE: Kabel Eins CLASSICS" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/798px-Kabel_Eins_Classics_2021.svg.png",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 #EXTINF:-1 tvg-id="DE: Kabel Eins Doku" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/800px-Kabel_eins_Doku_Logo_2016.svg.png",Kabel 1 Doku
