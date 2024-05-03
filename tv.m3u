@@ -163,7 +163,7 @@ plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA1
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/768px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png",Sky Bundesliga 1
 plugin://plugin.video.vavooto/?name=SKY BUNDESLIGA1
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png?20210404161259",Sky Bundesliga 2
-plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2+%5BLIVE+DURING+EVENTS+ONLY%5D
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/de/Sky_Sport_Bundesliga_3_Logo_2020.png?20210404161325",Sky Bundesliga 3
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
 #EXTINF:-1 tvg-id="DE: Sky Bundesliga 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png?20210404161404",Sky Bundesliga 4
