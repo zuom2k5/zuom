@@ -127,8 +127,6 @@ plugin://plugin.video.vavooto/?name=SUPER+RTL
 plugin://plugin.video.vavooto/?name=SYFY
 #EXTINF:-1 tvg-id="DE: TLC" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/450px-TLC_Logo.svg.png",TLC
 plugin://plugin.video.vavooto/?name=TLC
-#EXTINF:-1 tvg-id="DE: Tagesschau24" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/1198px-Tagesschau24HD.svg.png",Tagesschau 24
-plugin://plugin.video.vavooto/?name=TAGESSCHAU24
 #EXTINF:-1 tvg-id="DE: TELE 5" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/375px-Tele_5_Logo_2021.svg.png",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
 #EXTINF:-1 tvg-id="DE: TOGGO plus" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_of_Toggo_Plus.png",Toggo Plus
@@ -283,7 +281,7 @@ plugin://plugin.video.vavooto/?name=ROMANCE+TV
 #EXTINF:-1 tvg-id="DE: Nickelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
 
-#EXTINF:-1 tvg-id="DE: Tagesschau 24" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png",ARD Tagesschau 24
+#EXTINF:-1 tvg-id="DE: Tagesschau24" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png",ARD Tagesschau 24
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 
 #EXTINF:-1 tvg-id="DE: Prime Video 2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 2
