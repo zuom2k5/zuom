@@ -264,7 +264,7 @@ plugin://plugin.video.vavooto/?name=RAKUTEN+COMEDY+MOVIES
 plugin://plugin.video.vavooto/?name=RAKUTEN+ACTION+MOVIES
 #EXTINF:-1 tvg-id="DE: Sky Cinema Family" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
-#EXTINF:-1 tvg-id="DE: RTL PLUS" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+
+#EXTINF:-1 tvg-id="DE: RTL PLUS" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ -OFFLINE-
 plugin://plugin.video.vavooto/?name=RTL%2B
 #EXTINF:-1 tvg-id="DE: RTL+ Sport Event 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 2
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+2
