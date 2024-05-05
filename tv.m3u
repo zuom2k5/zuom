@@ -281,7 +281,7 @@ plugin://plugin.video.vavooto/?name=ROMANCE+TV
 #EXTINF:-1 tvg-id="DE: Tagesschau24" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png",ARD Tagesschau 24
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 
-#EXTINF:-1 tvg-id="DE: Prime Video 2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 2 -OFFLINE-
+#EXTINF:-1 tvg-id="DE: Prime Video 2" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 2
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+2
 #EXTINF:-1 tvg-id="DE: Prime Video 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 1
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+1
@@ -295,5 +295,9 @@ plugin://plugin.video.vavooto/?name=ESPORTS+1
 
 #EXTINF:-1 tvg-id="DE: Senderliste von zuom" group-title="Standart" tvg-logo="https://www.digital-eliteboard.com/data/avatars/l/594/594250.jpg?1714431211",zX Senderliste von zuom Xz
 plugin://plugin.video.vavooto/?name=ESPORTS+15
+
+
+#EXTINF:-1 tvg-id="DE: Sky Cinema Highlights" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Sky Cinema Highlights
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 
 
