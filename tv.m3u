@@ -218,7 +218,7 @@ plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 #EXTINF:-1 tvg-id="DE: WDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
 
-#EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 1
+#EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 #EXTINF:-1 tvg-id="Magenta 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 2
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
