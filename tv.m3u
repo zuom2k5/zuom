@@ -122,7 +122,7 @@ plugin://plugin.video.vavooto/?name=ANIXE+SERIE
 plugin://plugin.video.vavooto/?name=SPORT1
 #EXTINF:-1 tvg-id="DE: SPORTDIGITAL FUSSBALL" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/800px-Sport-Digital.svg.png",Sport digital
 plugin://plugin.video.vavooto/?name=SPORTDIGITALL+FUSSBALL
-#EXTINF:-1 tvg-id="DE: Super RTL" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTL_Super_Logo_2023.svg/768px-RTL_Super_Logo_2023.svg.png",Super RTL
+#EXTINF:-1 tvg-id="DE: Super RTL" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTL_Super_Logo_2023.svg/768px-RTL_Super_Logo_2023.svg.png",RTL Super
 plugin://plugin.video.vavooto/?name=SUPER+RTL
 #EXTINF:-1 tvg-id="DE: Syfy" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/209px-Syfy.svg.png",Syfy
 plugin://plugin.video.vavooto/?name=SYFY
@@ -205,7 +205,7 @@ plugin://plugin.video.vavooto/?name=SKY SPORT F1
 #EXTINF:-1 tvg-id="DE: Sky Sport Golf" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/768px-Sky_Sport_Golf_Logo_2022.svg.png",Sky Sport Golf
 plugin://plugin.video.vavooto/?name=SKY SPORT GOLF
 #EXTINF:-1 tvg-id="DE: Sky Sport Tennis" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/768px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
-plugin://plugin.video.vavooto/?name=SKY SPORT TENNIS
+plugin://plugin.video.vavooto/?name=SKY+SPORT+TENNIS+%5BLIVE+DURING+EVENTS+ONLY%5D
 #EXTINF:-1 tvg-id="DE: Sky Sport Mix" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/768px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
 plugin://plugin.video.vavooto/?name=SKY SPORT MIX
 #EXTINF:-1 tvg-id="DE: Sky Sport Premier League" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/768px-Sky_Sport_Premier_League_Logo_2022.svg.png",Sky Sport Premier League
@@ -297,7 +297,7 @@ plugin://plugin.video.vavooto/?name=ESPORTS+1
 plugin://plugin.video.vavooto/?name=ESPORTS+15
 
 
-#EXTINF:-1 tvg-id="DE: Sky Cinema Highlights" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Sky Cinema Highlights
+#EXTINF:-1 tvg-id="DE: Sky Cinema Highlights" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sky_Cinema_Highlights_Logo_2024.svg/768px-Sky_Cinema_Highlights_Logo_2024.svg.png",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 
 
