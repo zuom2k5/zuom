@@ -235,9 +235,9 @@ plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
 #EXTINF:-1 tvg-id="Magenta 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 8
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
 #EXTINF:-1 tvg-id="Magenta 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 9
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
 #EXTINF:-1 tvg-id="Magenta 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magenta_TV_Logo_%282021%29.svg/768px-Magenta_TV_Logo_%282021%29.svg.png",Magenta 10
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
 
 #EXTINF:-1 tvg-id="DE: Nicktoons" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png",Nicktoons
 plugin://plugin.video.vavooto/?name=NICKTOONS
@@ -286,3 +286,7 @@ plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+2
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+1
 #EXTINF:-1 tvg-id="DE: Nickelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
+
+#EXTINF:-1 tvg-id="DE: ESports 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Esports1_ox2_W1000xh0.png",ESports 1
+plugin://plugin.video.vavooto/?name=ESPORTS+1
+
