@@ -13,5 +13,3 @@ plugin://plugin.video.vavooto/?name=CARTOONITO
 #EXTINF:-1 tvg-id="DE: Nick Jr." group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick JR
 plugin://plugin.video.vavooto/?name=NICK+JR
 
-#EXTINF:-1 tvg-id="DE: eSports1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Esports1_ox2_W1000xh0.png",eSports 1
-plugin://plugin.video.vavooto/?name=ESPORTS+1

@@ -287,5 +287,6 @@ plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+1
 #EXTINF:-1 tvg-id="DE: Nickelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
 
-
+#EXTINF:-1 tvg-id="DE: eSports1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Esports1_ox2_W1000xh0.png",eSports 1
+plugin://plugin.video.vavooto/?name=ESPORTS+1
 
