@@ -10,6 +10,5 @@ plugin://plugin.video.vavooto/?name=S.+SPORT+TOP+EVENT
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 tvg-id="DE: Cartoonito" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
 plugin://plugin.video.vavooto/?name=CARTOONITO
-#EXTINF:-1 tvg-id="DE: Nick Jr." group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick JR
-plugin://plugin.video.vavooto/?name=NICK+JR
+
 
