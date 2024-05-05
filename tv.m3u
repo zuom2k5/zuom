@@ -219,7 +219,7 @@ plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 plugin://plugin.video.vavooto/?name=WDR
 
 #EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 1
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
 #EXTINF:-1 tvg-id="Magenta Sport 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 2
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
 #EXTINF:-1 tvg-id="Magenta Sport 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 3
