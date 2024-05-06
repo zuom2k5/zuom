@@ -22,7 +22,7 @@ plugin://plugin.video.vavooto/?name=VIVA
 plugin://plugin.video.vavooto/?name=A%26E
 #EXTINF:-1 tvg-id="DE: Das Erste" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ARD_logo.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+%2D+DAS+ERSTE
-#EXTINF:-1 tvg-id="DE: Deluxe Music" group-title="Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DELUXE_MUSIC_Logo_2019.png/520px-DELUXE_MUSIC_Logo_2019.png",DELUXE MUSIC
+#EXTINF:-1 tvg-id="DE: Deluxe Music" group-title="Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DELUXE_MUSIC_Logo_2019.png/520px-DELUXE_MUSIC_Logo_2019.png",Deluxe Music
 plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
 #EXTINF:-1 tvg-id="DE: DMAX" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/DMAX.svg/211px-DMAX.svg.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
