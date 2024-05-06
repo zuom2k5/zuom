@@ -286,15 +286,10 @@ plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+2
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+1
 #EXTINF:-1 tvg-id="DE: nicKelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
-#EXTINF:-1 tvg-id="DE: NicK jr" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick jr
+#EXTINF:-1 tvg-id="DE: NicKjr." group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick jr
 plugin://plugin.video.vavooto/?name=NICK+JR
 #EXTINF:-1 tvg-id="DE: eSports1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Esports1_ox2_W1000xh0.png",eSports 1
 plugin://plugin.video.vavooto/?name=ESPORTS+1
-
-
-#EXTINF:-1 tvg-id="DE: Senderliste von zuom" group-title="Standart" tvg-logo="https://www.digital-eliteboard.com/data/avatars/l/594/594250.jpg?1714431211",zX Senderliste von zuom Xz
-plugin://plugin.video.vavooto/?name=ESPORTS+15
-
 
 #EXTINF:-1 tvg-id="DE: Sky Cinema Highlights" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sky_Cinema_Highlights_Logo_2024.svg/768px-Sky_Cinema_Highlights_Logo_2024.svg.png",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
