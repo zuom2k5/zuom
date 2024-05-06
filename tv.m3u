@@ -104,17 +104,17 @@ plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 #EXTINF:-1 tvg-id="DE: Sky Cinema Classics" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sky_Cinema_Classics_DE_Logo_2020.svg/768px-Sky_Cinema_Classics_DE_Logo_2020.svg.png",Sky Cinema Classics
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
-#EXTINF:-1 tvg-id="DE: Sky Crime" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Crime_DE_Logo_2021.svg/768px-Sky_Crime_DE_Logo_2021.svg.png",Sky Crime
+#EXTINF:-1 tvg-id="DE: Sky Crime" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Crime_DE_Logo_2021.svg/768px-Sky_Crime_DE_Logo_2021.svg.png",Sky crime
 plugin://plugin.video.vavooto/?name=SKY+CRIME
-#EXTINF:-1 tvg-id="DE: Sky Documentaries" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/1200px-Sky_Documentaries_Logo_2020.png",Sky Documentaries
+#EXTINF:-1 tvg-id="DE: Sky Documentaries" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/1200px-Sky_Documentaries_Logo_2020.png",Sky documentaries
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
-#EXTINF:-1 tvg-id="DE: Sky Krimi" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/768px-Sky_Krimi_2020.svg.png",Sky Krimi
+#EXTINF:-1 tvg-id="DE: Sky Krimi" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/768px-Sky_Krimi_2020.svg.png",Sky krimi
 plugin://plugin.video.vavooto/?name=SKY+KRIMI
-#EXTINF:-1 tvg-id="DE: Sky Nature" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/768px-Sky_Nature.svg.png",Sky Nature
+#EXTINF:-1 tvg-id="DE: Sky Nature" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/768px-Sky_Nature.svg.png",Sky nature
 plugin://plugin.video.vavooto/?name=SKY+NATURE
-#EXTINF:-1 tvg-id="DE: Sky One" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/8a/Sky_One_Logo_June_2020.svg/450px-Sky_One_Logo_June_2020.svg.png",Sky One
+#EXTINF:-1 tvg-id="DE: Sky One" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/8a/Sky_One_Logo_June_2020.svg/450px-Sky_One_Logo_June_2020.svg.png",Sky one
 plugin://plugin.video.vavooto/?name=SKY+1
-#EXTINF:-1 tvg-id="DE: Sky Replay" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Sky_Replay_logo_2020.svg/768px-Sky_Replay_logo_2020.svg.png?20231125051026",Sky Replay
+#EXTINF:-1 tvg-id="DE: Sky Replay" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Sky_Replay_logo_2020.svg/768px-Sky_Replay_logo_2020.svg.png?20231125051026",Sky replay
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
 #EXTINF:-1 tvg-id="DE: Anixe Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ANIXE_HD_SERIE_Logo_2016.svg/800px-ANIXE_HD_SERIE_Logo_2016.svg.png",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE+SERIE
