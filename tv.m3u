@@ -136,7 +136,8 @@ plugin://plugin.video.vavooto/?name=TOGGO+PLUS
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="DE: VOX" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Vox_Logo.svg/1073px-Vox_Logo.svg.png?20090503084621",VOX
 plugin://plugin.video.vavooto/?name=VOX
-#EXTINF:-1 tvg-id="DE: VOXup" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Voxup_Logo_2019.svg/1199px-Voxup_Logo_2019.svg.png?20211014192650",VOX UP plugin://plugin.video.vavooto/?name=VOX+UP
+#EXTINF:-1 tvg-id="DE: VOXup" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Voxup_Logo_2019.svg/1199px-Voxup_Logo_2019.svg.png?20211014192650",VOX UP
+plugin://plugin.video.vavooto/?name=VOX+UP
 #EXTINF:-1 tvg-id="DE: Warner TV Comedy" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Warner_TV_Comedy_Logo.png",WarnerTV Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 #EXTINF:-1 tvg-id="DE: Warner TV Film" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/WarnerTV_Film_Logo_2021.svg/800px-WarnerTV_Film_Logo_2021.svg.png",WarnerTV Film
