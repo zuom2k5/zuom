@@ -11,6 +11,4 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 tvg-id="DE: Cartoonito" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
 plugin://plugin.video.vavooto/?name=CARTOONITO
 
-#EXTINF:-1 tvg-id="DE: VOXUp" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Voxup_Logo_2019.svg/798px-Voxup_Logo_2019.svg.png?20211014192650",Vox up
-plugin://plugin.video.vavooto/?name=VOX+UP
 
