@@ -143,7 +143,7 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 #EXTINF:-1 tvg-id="DE: Warner TV Serie" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/800px-WarnerTV_Serie_Logo_2021.svg.png",WarnerTV Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
-#EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_Welt_der_Wunder.svg/1200px-Logo_Welt_der_Wunder.svg.png",WELT DER WUNDER
+#EXTINF:-1 tvg-id="DE: Welt der Wunder" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_Welt_der_Wunder.svg/1200px-Logo_Welt_der_Wunder.svg.png",Welt der Wunder
 plugin://plugin.video.vavooto/?name=WELT DER WUNDER
 #EXTINF:-1 tvg-id="DE: ZDF" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/1200px-ZDF_HD_Logo.svg.png",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
