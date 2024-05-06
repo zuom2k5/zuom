@@ -20,7 +20,7 @@ plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 plugin://plugin.video.vavooto/?name=VIVA
 #EXTINF:-1 tvg-id="DE: Crime+Investigation" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/48/Crime_%2B_Investigation_HD_Logo_10.2019.png/800px-Crime_%2B_Investigation_HD_Logo_10.2019.png?20210917015955",Crime + Investigation
 plugin://plugin.video.vavooto/?name=A%26E
-#EXTINF:-1 tvg-id="DE: Das Erste" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ARD_logo.png",ARD
+#EXTINF:-1 tvg-id="DE: Das Erste" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ARD_logo.png",ARD Das Erste
 plugin://plugin.video.vavooto/?name=ARD+%2D+DAS+ERSTE
 #EXTINF:-1 tvg-id="DE: Deluxe Music" group-title="Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DELUXE_MUSIC_Logo_2019.png/520px-DELUXE_MUSIC_Logo_2019.png",Deluxe Music
 plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
