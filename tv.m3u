@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://xmltv.info/de/epg.xml"
 #EXTINF:-1 tvg-id="DE: 13th Street" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d3/13th_Street_HD_Logo_2020.png",13th Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
-#EXTINF:-1 tvg-id="DE: 3sat" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/775px-3sat-Logo.svg.png",3Sat
+#EXTINF:-1 tvg-id="DE: 3sat" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/775px-3sat-Logo.svg.png",3sat
 plugin://plugin.video.vavooto/?name=3+SAT
 #EXTINF:-1 tvg-id="DE: ARD alpha" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_ARD-alpha.svg/533px-Logo_ARD-alpha.svg.png",ARD alpha
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
@@ -284,9 +284,9 @@ plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+2
 #EXTINF:-1 tvg-id="DE: Prime Video 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 1
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+1
-#EXTINF:-1 tvg-id="DE: Nickelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
+#EXTINF:-1 tvg-id="DE: nicKelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
-#EXTINF:-1 tvg-id="DE: NickJr." group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick jr
+#EXTINF:-1 tvg-id="DE: NicK jr" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick jr
 plugin://plugin.video.vavooto/?name=NICK+JR
 #EXTINF:-1 tvg-id="DE: eSports1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Esports1_ox2_W1000xh0.png",eSports 1
 plugin://plugin.video.vavooto/?name=ESPORTS+1
