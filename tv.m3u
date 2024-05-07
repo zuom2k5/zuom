@@ -263,6 +263,10 @@ plugin://plugin.video.vavooto/?name=RAKUTEN+COMEDY+MOVIES
 plugin://plugin.video.vavooto/?name=RAKUTEN+ACTION+MOVIES
 #EXTINF:-1 tvg-id="DE: Sky Cinema Family" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+
+#EXTINF:-1 tvg-id="DE: RTL+ Sport Event 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+1
+
 #EXTINF:-1 tvg-id="DE: RTL+ Sport Event 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 2
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+2
 #EXTINF:-1 tvg-id="DE: RTL+ Sport 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png",RTL+ Sport 3
@@ -281,7 +285,7 @@ plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+2
 #EXTINF:-1 tvg-id="DE: Prime Video 1" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1280px-Amazon_Prime_Video_logo_%282022%29.svg.png",Prime Video 1
 plugin://plugin.video.vavooto/?name=AMAZON+PRIME+VIDEO+1
-#EXTINF:-1 tvg-id="DE: NicK" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
+#EXTINF:-1 tvg-id="DE: NICKELODEON" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
 #EXTINF:-1 tvg-id="DE: NicK jr." group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/800px-Nick_Jr._logo_2023_%28outline%29.svg.png",Nick jr.
 plugin://plugin.video.vavooto/?name=NICK+JR
