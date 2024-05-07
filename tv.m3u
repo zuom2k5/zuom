@@ -200,7 +200,6 @@ plugin://plugin.video.vavooto/?name=SKY SPORT 8
 plugin://plugin.video.vavooto/?name=SKY SPORT 9
 #EXTINF:-1 tvg-id="DE: Sky Sport 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/ca/Sky_Sport_10_HD_Logo_2020.png?20200926195153",Sky Sport 10
 plugin://plugin.video.vavooto/?name=SKY SPORT 10
-
 #EXTINF:-1 tvg-id="DE: Sky Sport F1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/768px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport Formel 1
 plugin://plugin.video.vavooto/?name=SKY SPORT F1
 #EXTINF:-1 tvg-id="DE: Sky Sport Golf" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/768px-Sky_Sport_Golf_Logo_2022.svg.png",Sky Sport Golf
@@ -219,7 +218,6 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 #EXTINF:-1 tvg-id="DE: WDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
-
 #EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
 #EXTINF:-1 tvg-id="Magenta Sport 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 2
@@ -240,7 +238,6 @@ plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
 #EXTINF:-1 tvg-id="Magenta Sport 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 10
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
-
 #EXTINF:-1 tvg-id="DE: Nicktoons" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png",NickToons
 plugin://plugin.video.vavooto/?name=NICKTOONS
 
