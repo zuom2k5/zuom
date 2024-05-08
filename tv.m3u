@@ -218,23 +218,23 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
 #EXTINF:-1 tvg-id="DE: WDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
-#EXTINF:-1 tvg-id="Magenta Sport 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 2
+#EXTINF:-1 tvg-id="DE: Magenta Sport 2" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 2
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
-#EXTINF:-1 tvg-id="Magenta Sport 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 3
+#EXTINF:-1 tvg-id="DE: Magenta Sport 3" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 3
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
-#EXTINF:-1 tvg-id="Magenta Sport 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 4
+#EXTINF:-1 tvg-id="DE: Magenta Sport 4" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 4
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
-#EXTINF:-1 tvg-id="Magenta Sport 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 5
+#EXTINF:-1 tvg-id="DE: Magenta Sport 5" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 5
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
-#EXTINF:-1 tvg-id="Magenta Sport 6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 6
+#EXTINF:-1 tvg-id="DE: Magenta Sport 6" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 6
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
-#EXTINF:-1 tvg-id="Magenta Sport 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 7
+#EXTINF:-1 tvg-id="DE: Magenta Sport 7" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 7
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
-#EXTINF:-1 tvg-id="Magenta Sport 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 8
+#EXTINF:-1 tvg-id="DE: Magenta Sport 8" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 8
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
-#EXTINF:-1 tvg-id="Magenta Sport 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 9
+#EXTINF:-1 tvg-id="DE: Magenta Sport 9" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 9
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
-#EXTINF:-1 tvg-id="Magenta Sport 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 10
+#EXTINF:-1 tvg-id="DE: Magenta Sport 10" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 10
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
 #EXTINF:-1 tvg-id="DE: Nicktoons" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png",NickToons
 plugin://plugin.video.vavooto/?name=NICKTOONS
@@ -292,5 +292,5 @@ plugin://plugin.video.vavooto/?name=ESPORTS+1
 #EXTINF:-1 tvg-id="DE: Sky Cinema Highlights" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sky_Cinema_Highlights_Logo_2024.svg/768px-Sky_Cinema_Highlights_Logo_2024.svg.png",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 
-#EXTINF:-1 tvg-id="DE: NicKelodeon DE" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
+#EXTINF:-1 tvg-id="DE: NicKelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
