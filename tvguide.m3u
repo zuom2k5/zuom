@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://github.com/zuom2k5/zuom/blob/main/guide.xml"
 #EXTINF:-1 tvg-id="DE: Jukebox" group-title="Musik" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1400.png",Jukebox
 plugin://plugin.video.vavooto/?name=JUKEBOX
 #EXTINF:-1 tvg-id="DE: Spiegel Geschichte" group-title="Dokumentation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Spiegel_Geschichte_HD_Logo_2016.svg/512px-Spiegel_Geschichte_HD_Logo_2016.svg.png",Spiegel Geschichte
