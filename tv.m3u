@@ -259,7 +259,7 @@ plugin://plugin.video.vavooto/?name=SKY+SELECT+6
 #EXTINF:-1 tvg-id="DE: Sky Select 7" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Select_-_Logo_2016.svg/768px-Sky_Select_-_Logo_2016.svg.png",Sky Select 7
 plugin://plugin.video.vavooto/?name=SKY+SELECT+7
 
-#EXTINF:-1 tvg-id="DE: Komodien.de" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Comedy
+#EXTINF:-1 tvg-id="DE: Rakuten Comedy Movies" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Comedy
 plugin://plugin.video.vavooto/?name=RAKUTEN+COMEDY+MOVIES
 #EXTINF:-1 tvg-id="DE: Rakuten Action" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",Rakuten Action
 plugin://plugin.video.vavooto/?name=RAKUTEN+ACTION+MOVIES
