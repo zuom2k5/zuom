@@ -216,7 +216,7 @@ plugin://plugin.video.vavooto/?name=SKY SPORT NEWS
 plugin://plugin.video.vavooto/?name=BR
 #EXTINF:-1 tvg-id="DE: MDR Sachsen-Anhalt" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MDR_Sachsen-Anhalt_Logo_2017.svg/450px-MDR_Sachsen-Anhalt_Logo_2017.svg.png",MDR Sachsen Anhalt
 plugin://plugin.video.vavooto/?name=MDR+SACHSEN+ANHALT
-#EXTINF:-1 tvg-id="DE: WDR" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
+#EXTINF:-1 tvg-id="DE: WDRFernsehen" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/800px-WDR_Dachmarke.svg.png",WDR
 plugin://plugin.video.vavooto/?name=WDR
 
 #EXTINF:-1 tvg-id="DE: Magenta Sport 1" group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png",Magenta Sport 1
@@ -296,5 +296,5 @@ plugin://plugin.video.vavooto/?name=ESPORTS+1
 #EXTINF:-1 tvg-id="DE: Sky Cinema Highlights" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sky_Cinema_Highlights_Logo_2024.svg/768px-Sky_Cinema_Highlights_Logo_2024.svg.png",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 
-#EXTINF:-1 tvg-id="DE: Nickelodeon.de" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
+#EXTINF:-1 tvg-id="DE: Nickelodeon" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
