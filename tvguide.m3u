@@ -10,6 +10,3 @@ plugin://plugin.video.vavooto/?name=S.+SPORT+TOP+EVENT
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 tvg-id="DE: Cartoonito" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito
 plugin://plugin.video.vavooto/?name=CARTOONITO
-
-#EXTINF:-1 tvg-id="DE: Nick/Comedy" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
-plugin://plugin.video.vavooto/?name=NICKELODEON
