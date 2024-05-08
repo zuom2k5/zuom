@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2024-05-08 01:54:09.141218 -->
+<!-- created on 2024-05-08 13:06:35.570799 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.6+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  MAGENTA TV (DE)  CHANNEL LIST -->
@@ -2276,7 +2276,7 @@
         <country>GB</country>
     </programme>
 
-    <programme start="20240508033000 +0000" stop="20240508035500 +0000" channel="VOXup.de">
+    <programme start="20240508033000 +0000" stop="20240508040000 +0000" channel="VOXup.de">
         <title lang="de">Wohnen nach Wunsch - Ein Duo für vier Wände</title>
         <sub-title lang="de">Ein Traum in rosa</sub-title>
         <desc lang="de">(DE) 2023
@@ -2288,7 +2288,7 @@
         <country>DE</country>
     </programme>
 
-    <programme start="20240508035500 +0000" stop="20240508042500 +0000" channel="VOXup.de">
+    <programme start="20240508040000 +0000" stop="20240508043000 +0000" channel="VOXup.de">
         <title lang="de">Wohnen nach Wunsch - Ein Duo für vier Wände</title>
         <sub-title lang="de">Segeltörn</sub-title>
         <desc lang="de">(DE) 2023
@@ -2300,7 +2300,7 @@
         <country>DE</country>
     </programme>
 
-    <programme start="20240508042500 +0000" stop="20240508053000 +0000" channel="VOXup.de">
+    <programme start="20240508043000 +0000" stop="20240508053000 +0000" channel="VOXup.de">
         <title lang="de">Verklag mich doch!</title>
         <sub-title lang="de">Vom Angestellten ruiniert</sub-title>
         <desc lang="de">(DE) 2012 E260
@@ -2317,7 +2317,7 @@
         <episode-num system="xmltv_ns">0 . 259 . </episode-num>
     </programme>
 
-    <programme start="20240508053000 +0000" stop="20240508063500 +0000" channel="VOXup.de">
+    <programme start="20240508053000 +0000" stop="20240508064500 +0000" channel="VOXup.de">
         <title lang="de">Verklag mich doch!</title>
         <sub-title lang="de">Die Kunst des Erbens</sub-title>
         <desc lang="de">(DE) 2013 E320
@@ -2334,7 +2334,7 @@
         <episode-num system="xmltv_ns">0 . 319 . </episode-num>
     </programme>
 
-    <programme start="20240508063500 +0000" stop="20240508073500 +0000" channel="VOXup.de">
+    <programme start="20240508064500 +0000" stop="20240508074500 +0000" channel="VOXup.de">
         <title lang="de">Verklag mich doch!</title>
         <sub-title lang="de">Albtraum Kochlehre</sub-title>
         <desc lang="de">(DE) 2012 E112
@@ -2347,7 +2347,7 @@
         <episode-num system="xmltv_ns">0 . 111 . </episode-num>
     </programme>
 
-    <programme start="20240508073500 +0000" stop="20240508084000 +0000" channel="VOXup.de">
+    <programme start="20240508074500 +0000" stop="20240508084500 +0000" channel="VOXup.de">
         <title lang="de">Verklag mich doch!</title>
         <sub-title lang="de">Rachefeldzug</sub-title>
         <desc lang="de">(DE) 2013 E358
@@ -2364,7 +2364,7 @@
         <episode-num system="xmltv_ns">0 . 357 . </episode-num>
     </programme>
 
-    <programme start="20240508084000 +0000" stop="20240508094500 +0000" channel="VOXup.de">
+    <programme start="20240508084500 +0000" stop="20240508095000 +0000" channel="VOXup.de">
         <title lang="de">Verklag mich doch!</title>
         <sub-title lang="de">Fahrerflucht</sub-title>
         <desc lang="de">(DE) 2012 E63
@@ -2381,7 +2381,7 @@
         <episode-num system="xmltv_ns">0 . 62 . </episode-num>
     </programme>
 
-    <programme start="20240508094500 +0000" stop="20240508115500 +0000" channel="VOXup.de">
+    <programme start="20240508095000 +0000" stop="20240508120000 +0000" channel="VOXup.de">
         <title lang="de">Verklag mich doch!</title>
         <sub-title lang="de">Nichts bleibt ungesühnt</sub-title>
         <desc lang="de">(DE) 2014 E517
@@ -2394,7 +2394,7 @@
         <episode-num system="xmltv_ns">0 . 516 . </episode-num>
     </programme>
 
-    <programme start="20240508115500 +0000" stop="20240508125500 +0000" channel="VOXup.de">
+    <programme start="20240508120000 +0000" stop="20240508130000 +0000" channel="VOXup.de">
         <title lang="de">Verklag mich doch!</title>
         <sub-title lang="de">Hotel Mama</sub-title>
         <desc lang="de">(DE) 2012 E60
@@ -2411,7 +2411,7 @@
         <episode-num system="xmltv_ns">0 . 59 . </episode-num>
     </programme>
 
-    <programme start="20240508125500 +0000" stop="20240508135000 +0000" channel="VOXup.de">
+    <programme start="20240508130000 +0000" stop="20240508135500 +0000" channel="VOXup.de">
         <title lang="de">CSI: Den Tätern auf der Spur</title>
         <sub-title lang="de">Der Schattenmann</sub-title>
         <desc lang="de">(US) 2000 • S1 E8
@@ -2455,7 +2455,7 @@
         <episode-num system="xmltv_ns">0 . 7 . </episode-num>
     </programme>
 
-    <programme start="20240508135000 +0000" stop="20240508145000 +0000" channel="VOXup.de">
+    <programme start="20240508135500 +0000" stop="20240508145000 +0000" channel="VOXup.de">
         <title lang="de">CSI: Den Tätern auf der Spur</title>
         <sub-title lang="de">Über den Wolken</sub-title>
         <desc lang="de">(US) 2000 • S1 E9
@@ -2499,7 +2499,7 @@
         <episode-num system="xmltv_ns">0 . 8 . </episode-num>
     </programme>
 
-    <programme start="20240508145000 +0000" stop="20240508154500 +0000" channel="VOXup.de">
+    <programme start="20240508145000 +0000" stop="20240508155000 +0000" channel="VOXup.de">
         <title lang="de">CSI: Den Tätern auf der Spur</title>
         <sub-title lang="de">Sex, Lügen und Larven</sub-title>
         <desc lang="de">(US) 2000 • S1 E10
@@ -2543,7 +2543,7 @@
         <episode-num system="xmltv_ns">0 . 9 . </episode-num>
     </programme>
 
-    <programme start="20240508154500 +0000" stop="20240508163000 +0000" channel="VOXup.de">
+    <programme start="20240508155000 +0000" stop="20240508163500 +0000" channel="VOXup.de">
         <title lang="de">Burn Notice</title>
         <sub-title lang="de">Datenklau</sub-title>
         <desc lang="de">(US) 2009 • S3 E8
@@ -2569,7 +2569,7 @@
         <episode-num system="xmltv_ns">2 . 7 . </episode-num>
     </programme>
 
-    <programme start="20240508163000 +0000" stop="20240508172000 +0000" channel="VOXup.de">
+    <programme start="20240508163500 +0000" stop="20240508172000 +0000" channel="VOXup.de">
         <title lang="de">Burn Notice</title>
         <sub-title lang="de">Irisches Blut</sub-title>
         <desc lang="de">(US) 2009 • S3 E9
@@ -2618,7 +2618,7 @@
         <episode-num system="xmltv_ns">2 . 9 . </episode-num>
     </programme>
 
-    <programme start="20240508181500 +0000" stop="20240508201000 +0000" channel="VOXup.de">
+    <programme start="20240508181500 +0000" stop="20240508201500 +0000" channel="VOXup.de">
         <title lang="de">Hot oder Schrott - Die Allestester</title>
         <sub-title lang="de">U. a.: Banana-Boot</sub-title>
         <desc lang="de">(DE) 2023 • S13 E2
@@ -2630,7 +2630,7 @@
         <episode-num system="xmltv_ns">12 . 1 . </episode-num>
     </programme>
 
-    <programme start="20240508201000 +0000" stop="20240508210000 +0000" channel="VOXup.de">
+    <programme start="20240508201500 +0000" stop="20240508211000 +0000" channel="VOXup.de">
         <title lang="de">Burn Notice</title>
         <sub-title lang="de">Bankenkrise</sub-title>
         <desc lang="de">(US) 2009 • S2 E13
@@ -2657,7 +2657,7 @@
         <episode-num system="xmltv_ns">1 . 12 . </episode-num>
     </programme>
 
-    <programme start="20240508210000 +0000" stop="20240508220000 +0000" channel="VOXup.de">
+    <programme start="20240508211000 +0000" stop="20240508220500 +0000" channel="VOXup.de">
         <title lang="de">Burn Notice</title>
         <sub-title lang="de">Aussichtslos</sub-title>
         <desc lang="de">(US) 2010 • S4 E18
@@ -2681,7 +2681,7 @@
         <episode-num system="xmltv_ns">3 . 17 . </episode-num>
     </programme>
 
-    <programme start="20240508220000 +0000" stop="20240508225500 +0000" channel="VOXup.de">
+    <programme start="20240508220500 +0000" stop="20240508230500 +0000" channel="VOXup.de">
         <title lang="de">Burn Notice</title>
         <sub-title lang="de">Teuflische Tricks</sub-title>
         <desc lang="de">(US) 2011 • S5 E12
@@ -2707,7 +2707,7 @@
         <episode-num system="xmltv_ns">4 . 11 . </episode-num>
     </programme>
 
-    <programme start="20240508225500 +0000" stop="20240508233500 +0000" channel="VOXup.de">
+    <programme start="20240508230500 +0000" stop="20240509000500 +0000" channel="VOXup.de">
         <title lang="de">Burn Notice</title>
         <sub-title lang="de">Flucht aus Panama</sub-title>
         <desc lang="de">(US) 2012 • S6 E11
@@ -2738,18 +2738,6 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/9/5/p9531374_e_h10_ab_2024-04-17T15_43_33.jpg"/>
         <country>US</country>
         <episode-num system="xmltv_ns">5 . 10 . </episode-num>
-    </programme>
-
-    <programme start="20240508233500 +0000" stop="20240509000500 +0000" channel="VOXup.de">
-        <title lang="de">Wohnen nach Wunsch - Ein Duo für vier Wände</title>
-        <sub-title lang="de">Dolce vita</sub-title>
-        <desc lang="de">(DE) 2023
-        Enie van de Meiklokjes verschönert gemeinsam mit dem Bauprofi Mark Kühler deutsche Wohnungen. Die gelernte Dekorateurin hat auch einen sicheren Blick für das, was schön und zeitgemäß ist. Mark Kühler, gelernter Maurermeister, sagt, was machbar ist.</desc>
-        <date>2023</date>
-        <category lang="de">Further education</category>
-        <category lang="de">Documentary</category>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/5/p25724500_e_h11_aa_2023-11-24T06_34_33.jpg"/>
-        <country>DE</country>
     </programme>
 
     <programme start="20240509000500 +0000" stop="20240509030500 +0000" channel="VOXup.de">
@@ -3722,7 +3710,7 @@
         <category lang="de">Children's / Youth programs</category>
         <category lang="de">Adventure / Western / War</category>
         <category lang="de">Comedy</category>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16584607_e_h10_aa_2019-11-05T19_00_40.jpg"/>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16584607_e_h10_ab_2024-05-08T05_03_34.jpg"/>
         <country>FR,CA</country>
         <episode-num system="xmltv_ns">0 . 16 . </episode-num>
     </programme>
@@ -9551,7 +9539,15 @@
         <episode-num system="xmltv_ns">0 . 126 . </episode-num>
     </programme>
 
-    <programme start="20240509032000 +0000" stop="20240509050500 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509032000 +0000" stop="20240509033000 +0000" channel="SPORT1Plus.de">
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <desc lang="de">
+        „Take Me Out To The Ballgame!” – SPORT1+ ist bis 2026 weiterhin die „Home Base of Baseball“ im deutschsprachigen Raum und zeigt ausgewählte Partien der Major League Baseball (MLB) live. In der neuen Saison liegt der besondere Fokus aus deutscher Sicht auf dem Berliner Max Kepler von den Minnesota Twins, der für das Team als Outfielder spielt. Aktueller Titelträger sind die Texas Rangers, deren Partien, neben vielen anderen, auf SPORT1+ zu sehen sein werden. SPORT1+ zeigt das Highlightmagazin zu den Spielen der MLB.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
+    </programme>
+
+    <programme start="20240509033000 +0000" stop="20240509051500 +0000" channel="SPORT1Plus.de">
         <title lang="de">Rugby - NRL Telstra Premiership</title>
         <desc lang="de">
         Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. Neben der Hauptrunde der NRL Telstra Premiership gibt es auch die Finals und das Grand Final Anfang Oktober zum krönenden Abschluss live auf dem Pay-TV-Sender zu sehen. Rugby ist in Australien Nationalsport – daher kommt es nicht von ungefähr, dass die NRL Telstra Premiership seit Jahren als die weltweit beste Rugby-Liga der Welt gilt. Die National Rugby League wird in der heutigen Form seit 1999 ausgetragen, die Ursprünge des traditionsreichen Wettbewerbs gehen allerdings bis 1908 zurück. Neben 16 australischen Teams ist mit den Warriors aus Auckland auch ein Vertreter aus Neuseeland in der Liga vertreten. Amtierender Champion sind die Penrith Panthers. Nun zeigt SPORT1+ ihre Partie gegen die Sydney Rabbitohs.</desc>
@@ -9559,7 +9555,7 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
     </programme>
 
-    <programme start="20240509050500 +0000" stop="20240509051000 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509051500 +0000" stop="20240509052000 +0000" channel="SPORT1Plus.de">
         <title lang="de">SPORT1 News</title>
         <desc lang="de">(DE) 2024 E127
         Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
@@ -9571,7 +9567,7 @@
         <episode-num system="xmltv_ns">0 . 126 . </episode-num>
     </programme>
 
-    <programme start="20240509051000 +0000" stop="20240509065500 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509052000 +0000" stop="20240509070000 +0000" channel="SPORT1Plus.de">
         <title lang="de">Rugby - NRL Telstra Premiership</title>
         <desc lang="de">
         Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. Neben der Hauptrunde der NRL Telstra Premiership gibt es auch die Finals und das Grand Final Anfang Oktober zum krönenden Abschluss live auf dem Pay-TV-Sender zu sehen. Rugby ist in Australien Nationalsport – daher kommt es nicht von ungefähr, dass die NRL Telstra Premiership seit Jahren als die weltweit beste Rugby-Liga der Welt gilt. Die National Rugby League wird in der heutigen Form seit 1999 ausgetragen, die Ursprünge des traditionsreichen Wettbewerbs gehen allerdings bis 1908 zurück. Neben 16 australischen Teams ist mit den Warriors aus Auckland auch ein Vertreter aus Neuseeland in der Liga vertreten. Amtierender Champion sind die Penrith Panthers. Nun zeigt SPORT1+ die Partie Manly-Warringah Sea Eagles gegen Canberra Raiders.</desc>
@@ -9579,7 +9575,7 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
     </programme>
 
-    <programme start="20240509065500 +0000" stop="20240509070000 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509070000 +0000" stop="20240509070500 +0000" channel="SPORT1Plus.de">
         <title lang="de">SPORT1 News</title>
         <desc lang="de">(DE) 2024 E127
         Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
@@ -9591,7 +9587,7 @@
         <episode-num system="xmltv_ns">0 . 126 . </episode-num>
     </programme>
 
-    <programme start="20240509070000 +0000" stop="20240509084500 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509070500 +0000" stop="20240509085000 +0000" channel="SPORT1Plus.de">
         <title lang="de">Rugby - NRL Telstra Premiership</title>
         <desc lang="de">
         Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. Neben der Hauptrunde der NRL Telstra Premiership gibt es auch die Finals und das Grand Final Anfang Oktober zum krönenden Abschluss live auf dem Pay-TV-Sender zu sehen. Rugby ist in Australien Nationalsport – daher kommt es nicht von ungefähr, dass die NRL Telstra Premiership seit Jahren als die weltweit beste Rugby-Liga der Welt gilt. Die National Rugby League wird in der heutigen Form seit 1999 ausgetragen, die Ursprünge des traditionsreichen Wettbewerbs gehen allerdings bis 1908 zurück. Neben 16 australischen Teams ist mit den Warriors aus Auckland auch ein Vertreter aus Neuseeland in der Liga vertreten. Amtierender Champion sind die Penrith Panthers.</desc>
@@ -9599,7 +9595,7 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
     </programme>
 
-    <programme start="20240509084500 +0000" stop="20240509094000 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509085000 +0000" stop="20240509094000 +0000" channel="SPORT1Plus.de">
         <title lang="de">Rugby - NRL Telstra Premiership</title>
         <desc lang="de">
         Mit der National Rugby League (NRL) hat SPORT+ die populärste und beste Rugby-Liga der Welt im Programm. Neben der Hauptrunde der NRL Telstra Premiership gibt es auch die Finals und das Grand Final Anfang Oktober zum krönenden Abschluss live auf dem Pay-TV-Sender zu sehen. Rugby ist in Australien Nationalsport – daher kommt es nicht von ungefähr, dass die NRL Telstra Premiership seit Jahren als die weltweit beste Rugby-Liga der Welt gilt. SPORT1+ zeigt auch das Highlightmagazin zu den Spieltagen.</desc>
@@ -9630,15 +9626,11 @@
     </programme>
 
     <programme start="20240509114500 +0000" stop="20240509115000 +0000" channel="SPORT1Plus.de">
-        <title lang="de">SPORT1 News</title>
-        <desc lang="de">(DE) 2024 E127
-        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
-        <date>2024</date>
-        <category lang="de">News / Current affairs</category>
-        <category lang="de">Football / Soccer</category>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
-        <country>DE</country>
-        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
+        <title lang="de">Baseball - MLB Regular Season</title>
+        <desc lang="de">
+        „Take Me Out To The Ballgame!” – SPORT1+ ist bis 2026 weiterhin die „Home Base of Baseball“ im deutschsprachigen Raum und zeigt ausgewählte Partien der Major League Baseball (MLB) live. In der neuen Saison liegt der besondere Fokus aus deutscher Sicht auf dem Berliner Max Kepler von den Minnesota Twins, der für das Team als Outfielder spielt. Aktueller Titelträger sind die Texas Rangers, deren Partien, neben vielen anderen, auf SPORT1+ zu sehen sein werden. SPORT1+ zeigt das Highlightmagazin zu der Liga.</desc>
+        <category lang="de">Sports</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/721be6d04faa5de8f827e5b02f7df07a5945f032.png"/>
     </programme>
 
     <programme start="20240509115000 +0000" stop="20240509120500 +0000" channel="SPORT1Plus.de">
@@ -9651,7 +9643,7 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/3/p337570_i_h10_ac_2022-10-03T04_56_11.jpg"/>
     </programme>
 
-    <programme start="20240509120500 +0000" stop="20240509130000 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509120500 +0000" stop="20240509125500 +0000" channel="SPORT1Plus.de">
         <title lang="de">Motorsport - European Le Mans Series</title>
         <sub-title lang="de">Highlightmagazin, Barcelona</sub-title>
         <desc lang="de">(FR) 2024
@@ -9662,7 +9654,7 @@
         <country>FR</country>
     </programme>
 
-    <programme start="20240509130000 +0000" stop="20240509132500 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509125500 +0000" stop="20240509132500 +0000" channel="SPORT1Plus.de">
         <title lang="de">Motorsport - Michelin Le Mans Cup 1</title>
         <desc lang="de">
         Motorsport - Michelin Le Mans Cup 1 Highlightmagazin, Barcelona</desc>
@@ -9713,19 +9705,7 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26154417_tb2_h8_as_2024-04-03T20_11_55.jpg"/>
     </programme>
 
-    <programme start="20240509195000 +0000" stop="20240509195500 +0000" channel="SPORT1Plus.de">
-        <title lang="de">SPORT1 News</title>
-        <desc lang="de">(DE) 2024 E127
-        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
-        <date>2024</date>
-        <category lang="de">News / Current affairs</category>
-        <category lang="de">Football / Soccer</category>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
-        <country>DE</country>
-        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
-    </programme>
-
-    <programme start="20240509195500 +0000" stop="20240509221000 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509195000 +0000" stop="20240509220500 +0000" channel="SPORT1Plus.de">
         <title lang="de">Baseball - MLB Regular Season</title>
         <sub-title lang="de">Phillies - Toronto Blue Jays</sub-title>
         <desc lang="de"> 2024
@@ -9735,19 +9715,7 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26154138_tb2_h8_ad_2023-11-24T01_15_30.jpg"/>
     </programme>
 
-    <programme start="20240509221000 +0000" stop="20240509221500 +0000" channel="SPORT1Plus.de">
-        <title lang="de">SPORT1 News</title>
-        <desc lang="de">(DE) 2024 E127
-        Gezeigt werden Sport-Highlights vom Tage sowie die wichtigsten Nachrichten aus der Welt des Sports.</desc>
-        <date>2024</date>
-        <category lang="de">News / Current affairs</category>
-        <category lang="de">Football / Soccer</category>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/6/p26346508_i_h8_aa_2024-02-05T13_03_38.jpg"/>
-        <country>DE</country>
-        <episode-num system="xmltv_ns">0 . 126 . </episode-num>
-    </programme>
-
-    <programme start="20240509221500 +0000" stop="20240510001500 +0000" channel="SPORT1Plus.de">
+    <programme start="20240509220500 +0000" stop="20240510000500 +0000" channel="SPORT1Plus.de">
         <title lang="de">Fußball - Croky Cup</title>
         <sub-title lang="de">Finale: Union Saint-Gilloise - Royal Antwerp</sub-title>
         <desc lang="de"> 2024
@@ -10492,7 +10460,7 @@
         <category lang="de">Children's / Youth programs</category>
         <category lang="de">Adventure / Western / War</category>
         <category lang="de">Comedy</category>
-        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16584607_e_h10_aa_2019-11-05T19_00_40.jpg"/>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16584607_e_h10_ab_2024-05-08T05_03_34.jpg"/>
         <country>FR,CA</country>
         <episode-num system="xmltv_ns">0 . 16 . </episode-num>
     </programme>
@@ -15524,7 +15492,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509043515 +0000" stop="20240509063112 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509043515 +0000" stop="20240509063123 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Der vermessene Mensch</title>
         <desc lang="de">(DE) 2023 • FSK 16
         Nachdem im Jahr 1896 einige Herero und Nama aus Namibia nach Berlin gebracht werden, wird der Ethnologie-Doktorand Alexander Hoffmann damit beauftragt, sie nach den Grundsätzen der Rassentheorie zu vermessen. Während seiner Arbeit lernt er die Dolmetscherin der Gruppe, Kezia Kambazembi, kennen, und beginnt die Grundsätze des evolutionären Rassismus zu hinterfragen. Unter dem Vorwand, wertvolle Artefakte zu sammeln, reist er schließlich nach Namibia.</desc>
@@ -15555,7 +15523,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509063112 +0000" stop="20240509082925 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509063123 +0000" stop="20240509082929 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Meg 2: Die Tiefe</title>
         <desc lang="de">(US,CN) 2023 • FSK 16
         Jonas Taylor führt sein Forschungsteam auf einen Erkundungstauchgang in die tiefsten Bereiche des Ozeans. Allerdings hat auch ein rücksichtsloses Unternehmen für Unterwasser-Bergbau bei der Suche nach wertvollen Rohstoffen ein Auge auf das Tauchgebiet geworfen. Durch ihr skrupelloses Vorgehen werden riesige prähistorische Haie aus den finsteren Tiefen des uralten Ökosystems gelockt und Taylors Crew findet sich in einem Kampf ums Überleben wieder.</desc>
@@ -15593,7 +15561,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509082925 +0000" stop="20240509101944 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509082929 +0000" stop="20240509101947 +0000" channel="Sky Cinema Premiere">
         <title lang="de">What's Love Got to Do with It?</title>
         <desc lang="de">(GB) 2022 • FSK 6
         Die junge Dokumentarfilmerin Zoe schlägt sich von einem schlechten Date zum nächsten und auch mithilfe von Dating-Apps schafft sie es nicht, ihr Singledasein zu beenden. Zu ihrem Frust versucht ihre chaotische Mutter sich auch noch in ihr Liebesleben mit einzumischen und sie mit ihrem Tierarzt zu verkuppeln. Probleme mit denen ihr Kindsheitsfreund und Nachbar Kaz nichts zu tun hat, denn seine Eltern haben eine hübsche Braut aus Pakistan für ihn ausgesucht.</desc>
@@ -15631,7 +15599,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509101944 +0000" stop="20240509120037 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509101947 +0000" stop="20240509120040 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Trauzeugen</title>
         <desc lang="de">(DE) 2023 • FSK 6
         Zwei grundverschiedene Menschen treffen aufeinander, als sie beide Trauzeugen einer Hochzeit sind. Jakob ist Scheidungsanwalt, während Marie Paartherapeutin ist. Sie können den anderen nicht ausstehen, doch müssen sie sich zusammenreißen. Doch die Hochzeit von ihren besten Freunden Tobi und Ruth steht kurz vor dem Scheitern. Aus dem grund müssen sich Jakob und Marie zusammenschließen, um diese zu retten.</desc>
@@ -15660,7 +15628,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509120037 +0000" stop="20240509142414 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509120040 +0000" stop="20240509142410 +0000" channel="Sky Cinema Premiere">
         <title lang="de">The Flash</title>
         <desc lang="de">(US,CA,AU,NZ) 2023 • FSK 16
         Flash benutzt seine Superkräfte, um in der Zeit zurückzureisen und die Ereignisse der Vergangenheit zu verändern. Als er jedoch bei dem Versuch, seine Familie zu retten, versehentlich die Zukunft verändert, wird er in einer Realität gefangen, in der General Zod zurückgekehrt ist. Da es keine anderen Superhelden gibt, an die er sich wenden kann, versucht Flash, einen ganz anderen Batman aus dem Ruhestand zu holen und einen gefangenen Kryptonier zu retten - wenn auch nicht den, nach dem er sucht.</desc>
@@ -15698,7 +15666,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509142414 +0000" stop="20240509160616 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509142410 +0000" stop="20240509160626 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Emmas Herz - Die Lieben meines Lebens</title>
         <desc lang="de">(US) 2023 • FSK 6
         Emma und Jesse führen eine perfekte Ehe miteinander, bis Jesse an ihrem ersten Hochzeitstag nach einem tragischen Hubschrauberabsturz als vermisst gilt. Vier Jahre später findet Emma ihr Liebesglück mit ihrem alten Freund Sam wieder und steht kurz davor, ein zweites Mal zu heiraten. In diesem Moment taucht der totgeglaubte Jesse plötzlich wieder auf und Emma ist bald hin- und hergerissen zwischen der Liebe zu ihrem Verlobten Sam und der zu ihrem Ehemann Jesse.</desc>
@@ -15736,7 +15704,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509160616 +0000" stop="20240509180909 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509160626 +0000" stop="20240509180919 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Die Drei Musketiere - D'Artagnan</title>
         <desc lang="de">(FR,DE,ES,BE) 2023 • FSK 16
         Das Königreich Frankreich ist durch die Religionskriege gespalten und ständig von einer Invasion Englands bedroht. Eine kleine Gruppe von Männern und Frauen verbindet ihr Schicksal mit dem ihres Landes und kreuzt dafür die Schwerter. Im Mittelpunkt steht dabei der junge Gascogner Charles D'Artagnan, der zur Garde der drei Musketiere des Königs gehören möchte und sich Athos, Porthos und Aramis anschließt.</desc>
@@ -15769,7 +15737,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509180909 +0000" stop="20240509195649 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509180919 +0000" stop="20240509195658 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Past Lives - In einem anderen Leben</title>
         <desc lang="de">(US,KR) 2023
         Mit zwölf Jahren wurden die eng verbundenen Kindheitsfreunde Nora und Hae Sung getrennt, nachdem Noras Familie aus Südkorea ausgewandert ist. 24 Jahre später sind sie für eine Woche wieder vereint, als Hae Sung die mittlerweile glücklich verheiratete Nora in New York besucht. Das erneute Zusammentreffen mit ihrem alten Freund löst in Nora einige Zweifel darüber aus, wie ihr Leben getrennt von Hae Sung verlaufen ist.</desc>
@@ -15799,7 +15767,7 @@
         <country>US,KR</country>
     </programme>
 
-    <programme start="20240509195649 +0000" stop="20240509214009 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509195658 +0000" stop="20240509214026 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Die Rumba-Therapie</title>
         <desc lang="de">(FR) 2022 • FSK 6
         Tony hat seine Tochter verlassen, als sie noch ein Baby war. Mittlerweile in seinen Fünfzigern angekommen, ist er ein "alter Junggeselle", ein bisschen "Macho" und versucht, mit ihr in Kontakt zu treten, um ihre Verbindung zueinander aufzubauen. Als er herausfindet, dass sie Gesellschaftstanzlehrerin ist, beschließt er, sich für einen ihrer Rumba-Kurse anzumelden. All das, obwohl er das Tanzen zuvor nie für sich entdecken konnte.</desc>
@@ -15824,7 +15792,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509214009 +0000" stop="20240509232037 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509214026 +0000" stop="20240509232055 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Trauzeugen</title>
         <desc lang="de">(DE) 2023 • FSK 6
         Zwei grundverschiedene Menschen treffen aufeinander, als sie beide Trauzeugen einer Hochzeit sind. Jakob ist Scheidungsanwalt, während Marie Paartherapeutin ist. Sie können den anderen nicht ausstehen, doch müssen sie sich zusammenreißen. Doch die Hochzeit von ihren besten Freunden Tobi und Ruth steht kurz vor dem Scheitern. Aus dem grund müssen sich Jakob und Marie zusammenschließen, um diese zu retten.</desc>
@@ -15853,7 +15821,7 @@
         </rating>
     </programme>
 
-    <programme start="20240509232037 +0000" stop="20240510011812 +0000" channel="Sky Cinema Premiere">
+    <programme start="20240509232055 +0000" stop="20240510011722 +0000" channel="Sky Cinema Premiere">
         <title lang="de">Der vermessene Mensch</title>
         <desc lang="de">(DE) 2023 • FSK 12
         Nachdem im Jahr 1896 einige Herero und Nama aus Namibia nach Berlin gebracht werden, wird der Ethnologie-Doktorand Alexander Hoffmann damit beauftragt, sie nach den Grundsätzen der Rassentheorie zu vermessen. Während seiner Arbeit lernt er die Dolmetscherin der Gruppe, Kezia Kambazembi, kennen, und beginnt die Grundsätze des evolutionären Rassismus zu hinterfragen. Unter dem Vorwand, wertvolle Artefakte zu sammeln, reist er schließlich nach Namibia.</desc>
@@ -16007,7 +15975,7 @@
     </programme>
 
     <programme start="20240508230000 +0000" stop="20240509010000 +0000" channel="Sky Sport Top Event">
-        <title lang="de">ATP 1000: Topspiel, Internazionali BNL d'Italia in Rom (Italien), 1. Tag</title>
+        <title lang="de">ATP 1000: Y. Hanfmann (GER) - J. Mensik (CZE), Internazionali BNL d'Italia in Rom (Italien), 1. Tag</title>
         <desc lang="de">
         In der "Ewigen Stadt": Die ATP und WTA kommt zum 1000er-Turnier nach Rom. Wer siegt beim Sandplatzturnier in Italien? Kommentar: U.a. Marcel Meinert, Stefan Hempel &amp; Jens Westen.</desc>
         <icon src="http://ngiss.t-online.de/cm1s/media/ec4dbb472348c5652000ea39c786a08e103298ec.png"/>
