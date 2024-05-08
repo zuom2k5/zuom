@@ -296,7 +296,7 @@ plugin://plugin.video.vavooto/?name=ESPORTS+1
 #EXTINF:-1 tvg-id="DE: Sky Cinema Highlights" group-title="SKY/Filme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sky_Cinema_Highlights_Logo_2024.svg/768px-Sky_Cinema_Highlights_Logo_2024.svg.png",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 
-#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon.de" group-title="Kinder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
 
 
