@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2024-05-09 14:39:41.480016 -->
+<!-- created on 2024-05-09 21:09:04.153711 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.6+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  MAGENTA TV (DE)  CHANNEL LIST -->
@@ -212,7 +212,7 @@
         <episode-num system="xmltv_ns">0 . 1 . </episode-num>
     </programme>
 
-    <programme start="20240509015811 +0000" stop="20240509020455 +0000" channel="Cartoonito">
+    <programme start="20240509015811 +0000" stop="20240509020500 +0000" channel="Cartoonito">
         <title lang="de">Grizzy und die Lemminge</title>
         <sub-title lang="de">Das Geheimnis der Herstellung</sub-title>
         <desc lang="de">(FR) 2017 • S1 E43
@@ -233,7 +233,7 @@
         <episode-num system="xmltv_ns">0 . 42 . </episode-num>
     </programme>
 
-    <programme start="20240509020455 +0000" stop="20240509021125 +0000" channel="Cartoonito">
+    <programme start="20240509020500 +0000" stop="20240509021125 +0000" channel="Cartoonito">
         <title lang="de">Grizzy und die Lemminge</title>
         <sub-title lang="de">Der Klunker-Bär</sub-title>
         <desc lang="de">(FR) 2017 • S1 E44
@@ -13461,7 +13461,7 @@
         <episode-num system="xmltv_ns">0 . 1 . </episode-num>
     </programme>
 
-    <programme start="20240509015811 +0000" stop="20240509020455 +0000" channel="Cartoonito (Sky)">
+    <programme start="20240509015811 +0000" stop="20240509020500 +0000" channel="Cartoonito (Sky)">
         <title lang="de">Grizzy und die Lemminge</title>
         <sub-title lang="de">Das Geheimnis der Herstellung</sub-title>
         <desc lang="de">(FR) 2017 • S1 E43
@@ -13482,7 +13482,7 @@
         <episode-num system="xmltv_ns">0 . 42 . </episode-num>
     </programme>
 
-    <programme start="20240509020455 +0000" stop="20240509021125 +0000" channel="Cartoonito (Sky)">
+    <programme start="20240509020500 +0000" stop="20240509021125 +0000" channel="Cartoonito (Sky)">
         <title lang="de">Grizzy und die Lemminge</title>
         <sub-title lang="de">Der Klunker-Bär</sub-title>
         <desc lang="de">(FR) 2017 • S1 E44
