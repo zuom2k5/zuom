@@ -1,0 +1,23 @@
+https://michaz1988.github.io/repo/
+
+https://streamxstream.github.io/xStreamRepoWeb/
+
+https://github.com/zuom2k5/zuom
+
+https://raw.githubusercontent.com/zuom2k5/zuom/main/tv.m3u
+
+https://raw.githubusercontent.com/zuom2k5/zuom/main/tv2.m3u
+
+https://raw.githubusercontent.com/zuom2k5/zuom/main/tvguide.m3u
+
+https://raw.githubusercontent.com/zuom2k5/zuom/main/guide.xml
+
+Einstellungen Addons + stream manuell, sprache
+Gruppen Ordnen
+wetter
+mastersperre
+ton einstellungen
+rss feed https://www.n-tv.de/rss
+
+https://xmltv.info/de/epg.xml
+
