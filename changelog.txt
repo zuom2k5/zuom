@@ -13,3 +13,8 @@
 ## 18-5-24 ##
 
 - Erweiterung der EPG Verknuepfungen
+
+
+## 17-5-24 ##
+
+- EPG Quellen angepasst
