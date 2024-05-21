@@ -1,11 +1,12 @@
 ## 22-5-24 ##
 
-- Bei TV die Gruppe 4K RELAX zu Datenbank 2 hinzugefügt
-- Bei TV die Gruppe SCREENSAVER | QHD zu Datenbank 5 hinzugefügt
+- Bei Datenbank 2 die TV Gruppe "4K RELAX" hinzugefügt
+- Bei Datenbank 5 die TV Gruppe "SCREENSAVER | QHD" hinzugefügt
 
 
-## 21-5-24 ##
+## 20-5-24 ##
 
 - Akualisierung und Anpassung der Datenbanken
 - Erweiterung der EPG Verknuepfungen
+
 
