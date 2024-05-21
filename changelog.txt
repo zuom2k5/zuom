@@ -1,7 +1,7 @@
 ## 22-5-24 ##
 
-4K RELAX Sender zu Datenbank 2 hinzugefügt
-SCREENSAVER | QHD Sender zu Datenbank 5 hinzugefügt
+- Bei TV die Gruppe 4K RELAX zu Datenbank 2 hinzugefügt
+- Bei TV die Gruppe SCREENSAVER | QHD zu Datenbank 5 hinzugefügt
 
 
 ## 21-5-24 ##
