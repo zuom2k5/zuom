@@ -1,16 +1,16 @@
 ## 23-5-24 ##
 
 - Datenbank 5 aktualisiert (Fehler 462 kann weiterhin autreten)
-- Datenbank 5 die Film Gruppe "EU Netflix 2024", "EU Netflix 2022", "EU Netflix" hinzugefügt
-- Datenbank 5 mehrere Adult Gruppen bei TV (2) und Filme (29) hinzugefügt ( nur Adult )
+- Datenbank 5 die Film Gruppe "EU Netflix 2024", "EU Netflix 2022", "EU Netflix" hinzugefuegt
+- Datenbank 5 mehrere Adult Gruppen bei TV (2) und Filme (29) hinzugefuegt ( nur Adult )
 - Datenbank 4 die Film Gruppe "Multi SUB" entfernt
 
 
 ## 22-5-24 ##
 
-- Datenbank 4 TV hinzugefügt
-- Datenbank 2 die TV Gruppe "4K RELAX" hinzugefügt
-- Datenbank 5 die TV Gruppe "SCREENSAVER | QHD" hinzugefügt
+- Datenbank 4 TV hinzugefuegt
+- Datenbank 2 die TV Gruppe "4K RELAX" hinzugefuegt
+- Datenbank 5 die TV Gruppe "SCREENSAVER | QHD" hinzugefuegt
 - Erweiterung der EPG Verknuepfungen
 
 
