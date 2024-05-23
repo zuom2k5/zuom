@@ -1,13 +1,13 @@
 ## 24-5-24 ##
 
 - Content aktualisiert
-- In jeder Datenbank weitgehend doppelte Sender (HEVC, RAW)entfernt
+- In jeder Datenbank weitgehend doppelte Sender (HEVC, RAW) entfernt
 - Erweiterung der EPG Verknuepfungen
 - Datenbank 5 aktualisiert (Fehler 462 kann weiterhin autreten)
 - Datenbank 5 die Film Gruppe "EU Netflix 2024", "EU Netflix 2022", "EU Netflix" hinzugefuegt
 - Datenbank 5 mehrere Adult Gruppen bei TV (2) und Filme (28) hinzugefuegt ( nur Adult )
 - Datenbank 4 die Film Gruppe "Multi SUB" entfernt
-- Datenbank 1 TV ersetzt/geändert
+- Datenbank 1 TV ersetzt
 - Datenbank 3 TV ersetzt durch TV von Datenbank 1
 
 
