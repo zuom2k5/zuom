@@ -8,7 +8,7 @@
 - Datenbank 5 mehrere Adult Gruppen bei TV (2) und Filme (28) hinzugefuegt ( nur Adult )
 - Datenbank 4 die Film Gruppe "Multi SUB" entfernt
 - Datenbank 1 TV ersetzt
-- Datenbank 3 TV ersetzt durch TV von Datenbank 1
+- Datenbank 3 TV durch TV von Datenbank 1 ersetzt
 
 
 ## 22-5-24 ##
