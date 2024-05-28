@@ -4,7 +4,6 @@
 - Datenbank 1 Adult Gruppen bei TV (1) und Filme (9) hinzugefuegt (nur Adult)
 - Datenbank 4 TV entfernt
 - TV Gruppen neu geordnet
-- Content aktualisiert
 
 
 ## 26-5-24 ##
@@ -15,7 +14,6 @@
 
 ## 24-5-24 ##
 
-- Content aktualisiert
 - In jeder Datenbank weitgehend doppelte Sender (HEVC, RAW) entfernt
 - Erweiterung der EPG Verknuepfungen
 - Datenbank 5 erneuert (Fehler 462 kann weiterhin autreten)
@@ -36,7 +34,7 @@
 
 ## 20-5-24 ##
 
-- Content aktualisiert und Anpassung der Datenbanken
+- Anpassung der Datenbanken
 - Erweiterung der EPG Verknuepfungen
 
 
