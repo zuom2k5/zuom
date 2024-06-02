@@ -1,6 +1,6 @@
-## 2-6-24 ##
+## 3-6-24 ##
 
-- Datenbank 2 TV ersetzt
+- Datenbank 1 TV fuer bessere Uebersicht mit TV von Datenbank 2 getauscht 
 - Datenbank 4 TV hinzugefügt
 
 
