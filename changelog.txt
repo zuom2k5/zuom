@@ -1,14 +1,29 @@
+## 8-6-24 ##
+
+- Datenbank 2 TV Sender Erstansicht neu geordnet
+- Datenbank 5 TV Gruppenordnung angepasst
+- Datenbank 6 Filme/Serien ersetzt
+- Datenbank 7 Filme/Serien hinzugefuegt
+- Datenbank 8 Filme/Serien hinzugefuegt
+- BigBrother Sender/Stream entfernt
+- TV Europameisterschaft 2024 hinzugefuegt
+- TV einige Präfixe und Suffixe der Sendernamen entfernt
+- TV Infofeld Datenbank und Gruppenname wird jetzt links oben angezeigt
+
+
 ## 4-6-24 ##
 
 - Datenbank 1 TV erneuert
 - Datenbank 2 TV erneuert
+- Datenbank 2 TV Gruppe "4K RELAX" entfernt
+- Datenbank 2 TV Gruppe "For Adults" entfernt (nur Adult)
 - Datenbank 5 Filme/Serien erneuert
-- Datenbank 5 TV Gruppe "Euro 2024" und "Kinovision" hinzugefuegt 
+- Datenbank 5 TV Gruppe "Euro 2024" und "Kinovision" hinzugefuegt
+- Datenbank 5 Adult Gruppen bei Filme (28) entfernt (nur Adult)
 
 
 ## 3-6-24 ##
-
-- Datenbank 1 TV fuer bessere Uebersicht mit TV von Datenbank 2 getauscht 
+ 
 - Datenbank 4 TV hinzugefügt
 - Datenbank 6 Filme/Serien hinzugefuegt
 
@@ -36,7 +51,7 @@
 
 - In jeder Datenbank weitgehend doppelte Sender (HEVC, RAW) entfernt
 - Erweiterung der EPG Verknuepfungen
-- Datenbank 5 erneuert (Fehler 462 kann weiterhin autreten)
+- Datenbank 5 erneuert
 - Datenbank 5 Film Gruppe "EU Netflix 2024", "EU Netflix 2022", "EU Netflix" hinzugefuegt
 - Datenbank 5 Adult Gruppen bei TV (2) und Filme (28) hinzugefuegt (nur Adult)
 - Datenbank 4 Film Gruppe "Multi SUB" entfernt
