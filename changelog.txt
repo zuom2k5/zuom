@@ -1,15 +1,3 @@
-## 8-6-24 ##
-
-- Datenbank 2 TV Sender Erstansicht neu geordnet
-- Datenbank 5 TV Gruppenordnung angepasst
-- Datenbank 6 Filme/Serien ersetzt
-- Datenbank 7 Filme/Serien hinzugefuegt
-- Datenbank 8 Filme/Serien hinzugefuegt
-- BigBrother Sender/Stream entfernt
-- TV Europameisterschaft 2024 hinzugefuegt
-- TV einige Praefixe und Suffixe der Sendernamen entfernt
-- TV Infofeld Datenbank und Gruppenname wird jetzt links oben angezeigt
-
 
 ## 4-6-24 ##
 
