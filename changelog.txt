@@ -1,3 +1,12 @@
+## 15-6-24 ##
+
+- Datenbank 1 Filmgruppen neu geordnet
+- Datenbank 8 Filme/Serien ersetzt
+- Datenbank 9 Filme/Serien hinzugefügt
+- Datenbank 5 TV Gruppe "Euro 2024" entfernt
+- TV Europameisterschaft 2024 entfernt
+
+
 ## 9-6-24 ##
 
 - Datenbank 2 TV Sender Erstansicht neu geordnet
