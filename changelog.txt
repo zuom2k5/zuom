@@ -1,6 +1,12 @@
+## 26-6-25 ##
+
+- Datenbank 5 Filme/Serien ersetzt
+- Datenbank 3 Filme/Serien mit Datenbank 5 getauscht
+
+
 ## 17-6-24 ##
 
-- Datenbank 1 Gruppe "Deutsche HD" EM Fussball.TV 1, 2 u 3 neu angeordnet
+- Datenbank 1 TV Gruppe "Deutsche HD" EM Fussball.TV 1, 2 u 3 neu angeordnet
 
 
 ## 15-6-24 ##
