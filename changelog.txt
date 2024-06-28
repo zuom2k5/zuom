@@ -1,5 +1,6 @@
 ## 28-6-24 ##
 
+- Bei TV als letzte Gruppe die information der aktuell installierten Version hinzugefügt
 - Datenbank 3 TV mit Datenbank 5 getauscht
 
 
