@@ -1,6 +1,6 @@
 ## 28-6-24 ##
 
-- Bei TV als letzte Gruppe die information der aktuell installierten Version hinzugefügt
+- Bei TV wird nun unter Datenbank 5 das aktuell installierte Update angezeigt
 - Datenbank 3 TV mit Datenbank 5 getauscht
 
 
