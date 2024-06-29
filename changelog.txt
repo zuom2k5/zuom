@@ -1,3 +1,8 @@
+## 29-6-24 ##
+
+- Datenbank 1 TV Gruppen neu geordnet
+
+
 ## 28-6-24 ##
 
 - Bei TV wird nun unter Datenbank 5 das aktuell installierte Update angezeigt
