@@ -1,3 +1,13 @@
+## 7-7-24 ##
+
+- Bei allen TV Gruppen die Namen angepasst
+- Datenbank 2 TV für bessere Übersicht neue Gruppen erstellt und Sender zugeordnet
+- Datenbank 2 TV Sender Gruppe "Musik" neu geordnet
+- Datenbank 3 TV Gruppen neu geordnet
+- Datenbank 3 TV Sender Gruppe "Doku 24/7" neu geordnet
+- Puffer angepasst (erhöht die Streamstabilität)
+
+
 ## 29-6-24 ##
 
 - Datenbank 1 TV Gruppen neu geordnet
