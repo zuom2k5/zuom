@@ -1,6 +1,6 @@
 ## 8-7-24 ##
 
-- Bei allen TV Gruppen die Namen angepasst
+- Bei allen TV Gruppen "DE" entfernt
 - Datenbank 1 TV erneuert
 - Datenbank 3 TV erneuert
 - Datenbank 2 TV für bessere Übersicht neue Gruppen erstellt und Sender zugeordnet
