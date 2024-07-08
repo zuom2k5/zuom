@@ -1,6 +1,8 @@
-## 7-7-24 ##
+## 8-7-24 ##
 
 - Bei allen TV Gruppen die Namen angepasst
+- Datenbank 1 TV erneuert
+- Datenbank 3 TV erneuert
 - Datenbank 2 TV für bessere Übersicht neue Gruppen erstellt und Sender zugeordnet
 - Datenbank 2 TV Sender Gruppe "Musik" neu geordnet
 - Datenbank 3 TV Gruppen neu geordnet
