@@ -4,9 +4,10 @@
 - Datenbank 1 TV erneuert
 - Datenbank 3 TV erneuert
 - Datenbank 2 TV für bessere Übersicht neue Gruppen erstellt und Sender zugeordnet
-- Datenbank 2 TV Sender Gruppe "Musik" neu geordnet
+- Datenbank 2 TV Gruppe "Musik" neu geordnet
 - Datenbank 3 TV Gruppen neu geordnet
-- Datenbank 3 TV Sender Gruppe "Doku 24/7" neu geordnet
+- Datenbank 3 TV Gruppe "Doku 24/7" neu geordnet
+- Datenbank 3 TV Gruppe "For Adults" entfernt (nur Adult)
 - Puffer angepasst (erhöht die Streamstabilität)
 
 
