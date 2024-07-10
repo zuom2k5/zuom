@@ -1,3 +1,8 @@
+## 10-7-24 ##
+
+- Datenbank 2 Filme/Serien erneuert 
+
+
 ## 8-7-24 ##
 
 - Bei allen TV Gruppen "DE" entfernt
@@ -7,7 +12,6 @@
 - Datenbank 3 TV Gruppen neu geordnet
 - Datenbank 2 TV Gruppe "Musik" neu geordnet
 - Datenbank 3 TV Gruppe "Doku 24/7" neu geordnet
-- Datenbank 3 TV Gruppe "For Adults" entfernt (nur Adult)
 - Bei einigen Sendern EPG Versatz angepasst
 - Puffer angepasst (erhöht die Streamstabilität)
 
