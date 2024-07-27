@@ -1,3 +1,9 @@
+## 27-7-24 ##
+
+- EM Fussball.TV Sender entfernt
+- Datenbank 3 TV Gruppe "Action 24/7" entfernt
+
+
 ## 10-7-24 ##
 
 - Datenbank 2 Filme/Serien erneuert 
