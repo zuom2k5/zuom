@@ -1,3 +1,11 @@
+## 1-8-24 ##
+
+- Datenbank 8 Filme/Serien ersetzt
+- Datenbank 5 Filme/Serien mit Datenbank 8 getauscht
+- Datenbank 2 Filme Gruppe "Netflix Produktion" hinzugefügt
+- Datenbank 2 Serien Gruppe "Netflix" hinzugefügt
+
+
 ## 27-7-24 ##
 
 - EM Fussball.TV Sender entfernt
