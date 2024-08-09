@@ -2,6 +2,7 @@
 
 - Datenbank 3 Filme Gruppe "Neu auf Focus" entfernt
 - Datenbank 5 Filme/Serien entfernt
+- Datenbank 2 TV Eurosport 1 EPG angepasst
 
 
 ## 7-8-24 ##
