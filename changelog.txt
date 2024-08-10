@@ -1,3 +1,8 @@
+## 10-8-24 ##
+
+- Datenbank 3 TV und Filme/Serien entfernt
+
+
 ## 9-8-24 ##
 
 - Datenbank 3 Filme Gruppe "Neu auf Focus" entfernt
