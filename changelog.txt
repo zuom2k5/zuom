@@ -5,7 +5,6 @@
 - Datenbank 3 TV erneuert
 - Datenbank 4 TV erneuert
 - Datenbank 5 TV erneuert
-- Datenbank 3 Filme/Serien entfernt
 - Datenbank 3 TV Gruppe "For Adults" hinzugefügt (nur Adult)
 - EPG Verknüpfungen angepasst und erweitert
 
