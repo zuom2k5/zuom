@@ -1,3 +1,21 @@
+## 22-8-24 ##
+
+- Datenbank 1 TV erneuert
+- Datenbank 2 TV erneuert
+- Datenbank 3 TV erneuert
+- Datenbank 5 TV erneuert
+- Datenbank 1 TV Gruppe "For Adults" hinzugefügt (nur Adult)
+- Datenbank 3 TV Gruppe "For Adults" und "For Adults 24/7" hinzugefügt (nur Adult)
+- Datenbanken TV neu angeordnet (1 -> 3, 3 -> 2, 2 -> 1)
+- Datenbank 3 Filme/Serien erneuert
+- Datenbank 5 Filme/Serien entfernt
+- Datenbank 8 Filme/Serien entfernt
+- Datenbank 9 Filme/Serien umbenannt zu Datenbank 8
+- Datenbank 3 Filme Gruppe "Fitness-Plates-Yoga" hinzugefügt
+- Datenbank 3 Filme Adult Gruppen (34) hinzugefügt (nur Adult)
+- Puffer angepasst
+
+
 ## 12-8-24 ##
 
 - Datenbank 1 TV erneuert
@@ -5,7 +23,6 @@
 - Datenbank 3 TV erneuert
 - Datenbank 4 TV erneuert
 - Datenbank 5 TV erneuert
-- Datenbank 3 TV Gruppe "For Adults" hinzugefügt (nur Adult)
 - EPG Verknüpfungen angepasst und erweitert
 
 
