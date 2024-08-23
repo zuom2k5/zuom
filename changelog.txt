@@ -10,7 +10,7 @@
 - Datenbank 3 Filme/Serien erneuert
 - Datenbank 3 Filme Gruppe "Fitness-Plates-Yoga" hinzugefügt
 - Datenbank 3 Filme Adult Gruppen (34) hinzugefügt (nur Adult)
-- Datenbank 5 Filme/Serien entfernt
+- Datenbank 5 Filme/Serien vorerst entfernt
 - Datenbank 8 Filme/Serien entfernt
 - Datenbank 9 Filme/Serien umbenannt zu Datenbank 8
 - Puffer angepasst
