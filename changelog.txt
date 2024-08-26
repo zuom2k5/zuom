@@ -1,3 +1,23 @@
+## 27-8-24 ##
+
+- Datenbank 1 TV erneuert
+- Datenbank 1 TV Gruppe "DOKU" neue Sender hinzugefügt und geordnet
+- Datenbank 1 TV Gruppe "KINDER" 24/7 Serien Sender hinzugefügt
+- Datenbank 1 TV Gruppe "MOVIE TIME" hinzugefügt
+- Datenbank 1 TV Gruppe "SKY BOX" hinzugefügt
+- Datenbank 1 TV Gruppe "NETFLIX" hinzugefügt
+- Datenbank 1 TV Gruppe "SERIEN BOX" hinzugefügt
+- Datenbank 1 TV Gruppe "FILM BOX" hinzugefügt
+- Datenbank 2 TV Gruppe "KINDER SPECIALBOX" hinzugefügt
+- Datenbank 2 TV Gruppe "DOKU SPECIALBOX" hinzugefügt
+- Datenbank 2 TV Gruppe "RADIO" hinzugefügt
+- TV Sender und Gruppennamen angepasst
+- Datenbank 4 Filme/Serien erneuert
+- Datenbank 2 Filme/Serien Gruppe "IMDB Top 100" hinzugefügt
+- Datenbank 3 Filme Gruppe "Neu auf Focus" hinzugefügt
+- EPG Verknüpfungen angepasst und erweitert
+
+
 ## 22-8-24 ##
 
 - Datenbank 1 TV erneuert
