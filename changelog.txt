@@ -1,3 +1,9 @@
+## 30-8-24 ##
+
+- Datenbank 4 TV ersetzt
+- Datenbank 4 TV umbenannt zu "Datenbank 4 = 1" (Datenbank 1 mit anderer Adresse)
+
+
 ## 28-8-24 ##
 
 - Datenbank 1 TV erneuert
