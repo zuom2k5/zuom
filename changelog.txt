@@ -2,6 +2,7 @@
 
 - Datenbank 4 TV ersetzt
 - Datenbank 4 TV umbenannt zu "Datenbank 4 = 1" (Datenbank 1 mit anderer Adresse)
+- Adult Version wird eingestellt und ist nicht mehr verfügbar
 
 
 ## 28-8-24 ##
