@@ -2,13 +2,14 @@
 
 - Datenbank 4 TV ersetzt
 - Datenbank 4 TV umbenannt zu "Datenbank 4 = 1" (Datenbank 1 mit anderer Adresse)
-- Adult Version wird eingestellt und ist nicht mehr verfügbar
+- Datenbank 3 Filme/Serien erneuert
+- Adult Version wird eingestellt und ist nicht mehr verfügbar (XXX Content nur noch auf Nachfrage)
 
 
 ## 28-8-24 ##
 
 - Datenbank 1 TV erneuert
-- Datenbank 1 TV Gruppe "DOKU" neue Sender hinzugefügt und geordnet
+- Datenbank 1 TV Gruppe "DOKU" neue Sender hinzugefügt und neu geordnet
 - Datenbank 1 TV Gruppe "KINDER" 24/7 Serien Sender hinzugefügt
 - Datenbank 1 TV Gruppe "MOVIE TIME" hinzugefügt
 - Datenbank 1 TV Gruppe "SKY BOX" hinzugefügt
