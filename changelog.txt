@@ -1,7 +1,14 @@
+## 7-9-24 ##
+
+- Favoriten Gruppen/Funktionen bei TV entfernt
+- Datenbank 2 Filme/Serien erneuert
+- Datenbank 4 Filme/Serien erneuert
+
+
 ## 30-8-24 ##
 
 - Datenbank 4 TV ersetzt
-- Datenbank 4 TV umbenannt zu "Datenbank 4 = 1" (Datenbank 1 mit anderer Adresse)
+- Datenbank 4 TV umbenannt zu "Datenbank 4 = 1" (Datenbank 1 mit anderen Zugang)
 - Datenbank 3 Filme/Serien erneuert
 - Adult Version wird eingestellt und ist nicht mehr verfügbar (XXX Content nur noch auf Nachfrage)
 
