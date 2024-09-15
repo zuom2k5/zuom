@@ -1,8 +1,14 @@
+## 16-9-24 ##
+
+- Datenbank 3 TV mit Datenbank 2 getauscht
+- Datenbank 8 Filme/Serien erneuert
+
 ## 7-9-24 ##
 
-- Favoriten Gruppen/Funktionen bei TV entfernt
+- Favoriten Gruppen und Funktionen bei TV entfernt
 - Datenbank 2 Filme/Serien erneuert
 - Datenbank 4 Filme/Serien erneuert
+- Datenbank 6 Filme/Serien erneuert
 
 
 ## 30-8-24 ##
