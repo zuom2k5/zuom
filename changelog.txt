@@ -1,7 +1,8 @@
 ## 25-10-24 ##
 
+- Datenbank 1 Filme/Serien erneuert
 - Datenbank 4 TV entfernt
-- Datenbank TV Reihenfolge angepasst ( 5 -> 4, 6=1 -> 5 )
+- Datenbank TV Reihenfolge angepasst ( 5 -> 4, 6=1 -> 5=1 )
 - Datenbank Filme/Serien Reihenfolge angepasst ( 2 -> 4, 5 -> 2, 4 -> 5 )
 - TV BigBrother 24/7 Sender entfernt
 
