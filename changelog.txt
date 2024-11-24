@@ -1,3 +1,21 @@
+## 24-11-24 ##
+
+- Datenbank 2 Filme/Serien erneuert
+- Datenbank 3 TV erneuert
+
+
+## 19-11-24 ##
+
+- Datenbank 3 Filme/Serien erneuert
+
+
+## 10-11-24 ##
+
+- Datenbank 2 Filme/Serien erneuert
+- Datenbank 3 TV erneuert
+- Datenbank 3 TV Gruppe QHD entfernt
+
+
 ## 25-10-24 ##
 
 - Datenbank 1 Filme/Serien erneuert
