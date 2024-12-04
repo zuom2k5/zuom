@@ -1,6 +1,22 @@
+## 05-12-24 ##
+
+- Datenbank TV individuelle Erneuerungen
+- Datenbank TV 5=1 umbenannt zu Datenbank 5
+- Datenbank TV Reihenfolge angepasst ( 4 -> 3, 3 -> 2, 2 -> 4 )
+- Datenbank 2 TV Gruppe "RAKUTEN TV" entfernt
+- Datenbank 2 TV Gruppe "PLUTO TV" entfernt
+- Datenbank 2 TV Gruppe "SPORT MIX" entfernt
+- Datenbank 3 TV Gruppe "SKY SPORT" hinzugefügt
+- Datenbank 3 TV Gruppe "SKY BUNDESLIGA" hinzugefügt
+- Datenbank 3 TV Gruppe "SPORT" neu geordnet/angepasst
+- Datenbank 8 Filme/Serien erneuert
+- Automatisches Programm Update deaktiviert
+
+
 ## 30-11-24 ##
 
-- Datenbank 1 Filme/Serien vorerst enfernt
+- Datenbank 1 Filme/Serien enfernt
+- Datenbank 3 Filme/Serien erneuert
 - Datenbank 2 TV ersetzt
 
 
