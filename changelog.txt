@@ -1,3 +1,18 @@
+## 05-01-25 ##
+
+- Datenbank 8 Filme/Serien erneuert
+- Datenbank 6 Filme Gruppe "Apple TV" hinzugefügt
+- Datenbank 6 Filme Gruppe "HBO Filme" hinzugefügt
+- Datenbank 6 Filme Gruppe "Prime Video" hinzugefügt
+- Datenbank 8 Filme Gruppe "Filme 25" hinzugefügt
+- Datenbank 4 Serien Gruppe "Netflix Anime" hinzugefügt
+- Datenbank 4 Serien Gruppe "Disney+" hinzugefügt
+- Datenbank 4 Serien Gruppe "Paramount+" hinzugefügt
+- Datenbank 4 Serien Gruppe "Aplle TV+" hinzugefügt
+- Datenbank 4 Serien Gruppe "Marvel Studios" hinzugefügt
+- Datenbank 6 Serien Gruppe "Kinder Serien" hinzugefügt
+
+
 ## 05-12-24 ##
 
 - Datenbank TV individuelle Erneuerungen
