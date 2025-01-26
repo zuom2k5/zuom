@@ -1,3 +1,11 @@
+## 26-01-25 ##
+
+- Datenbank 2 EPG Fehler Sky Bundesliga behoben
+- Datenbank 4 EPG Fehler Sky Bundesliga behoben
+- Datenbank 1 EPG Fehler DAZN behoben
+- Datenbank 5 EPG Fehler DAZN behoben
+
+
 ## 22-01-25 ##
 
 - weitgehend alle EPG Verknüpfungen wiederhergestellt (bei Fehlern gern bescheid geben)
